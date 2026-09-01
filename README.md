@@ -3,7 +3,7 @@ Europe drought 2026
 
 # Introduction
 
-xxx
+Fix leaks or ban pools: As European countries prepare for hotter, drier years to come, here’s what the data says about how to really save water.
 
 *In this repository, you will find the methodology, data and code behind
 the stories that came out of this analysis.*
