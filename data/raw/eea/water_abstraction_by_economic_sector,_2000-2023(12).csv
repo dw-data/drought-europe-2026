@@ -1,0 +1,158 @@
+Downloaded from: https://www.eea.europa.eu/en/analysis/indicators/water-abstraction-by-source-and/water-abstraction-by-economic-sector
+
+Publisher ,European Environment Agency,EEA
+
+Sources ,https://www.eea.europa.eu/en/datahub/datahubitem-view/a4324714-784a-4763-b8b9-b8939ead87fe?activeAccordion=1092906,European Environment Agency (EEA),"Waterbase - Water Quantity, 2023"
+ ,https://ec.europa.eu/eurostat/databrowser/view/env_wat_abs/default/table?lang=en&category=env.env_wat.env_nwat,Eurostat - Statistical Office of the European Union (ESTAT),Annual freshwater abstraction by source and sector
+
+Geographical coverage ,"Cyprus, Portugal, Spain, Malta, Denmark, Iceland, Switzerland, Sweden, Netherlands, Austria, Belgium, Germany, Luxembourg, Ireland, Türkiye, France, Liechtenstein, Slovakia, Czechia, Norway, Italy, Slovenia, Montenegro, Croatia, Bosnia and Herzegovina, Greece, Estonia, Latvia, Lithuania, Serbia, Finland, North Macedonia, Hungary, Bulgaria, Albania, Poland, Romania, Kosovo (UNSCR 1244/99)"
+
+Temporal coverage ,"2000, 2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023"
+
+EIONET,countryCode,Country,phenomenonTimePeriod_year,Agriculture_Million m3,Construction_Million m3,Electricity cooling_Million m3,Manufacturing_Million m3,Mining and Quarrying_Million m3,Public water supply_Million m3,dataSource
+
+EU,DE,Germany,2000,204.9,,,,,,WAT007 2000-2022
+EU,DE,Germany,2001,226.3,,,,,,WAT007 2000-2022
+EU,DE,Germany,2002,225.6,,,,,,WAT007 2000-2022
+EU,DE,Germany,2003,226.3,,,,,,WAT007 2000-2022
+EU,DE,Germany,2004,194.6,,,,,,WAT007 2000-2022
+EU,DE,Germany,2005,204.9,,,,,,WAT007 2000-2022
+EU,DE,Germany,2006,193.1,,,,,,WAT007 2000-2022
+EU,DE,Germany,2007,171.8,,,,,,WAT007 2000-2022
+EU,DE,Germany,2008,199.4,,,,,,WAT007 2000-2022
+EU,DE,Germany,2009,226.9,,,,,,WAT007 2000-2022
+EU,DE,Germany,2010,254.5,,,,,,WAT007 2000-2022
+EU,DE,Germany,2011,292.4,,,,,,WAT007 2000-2022
+EU,DE,Germany,2012,330.3,,,,,,WAT007 2000-2022
+EU,DE,Germany,2013,368.2,,,,,,WAT007 2000-2022
+EU,DE,Germany,2014,374.2,,,,,,WAT007 2000-2022
+EU,DE,Germany,2015,380.2,,,,,,WAT007 2000-2022
+EU,DE,Germany,2016,386.2,,,,,,WAT007 2000-2022
+EU,DE,Germany,2017,448,,,,,,WAT007 2000-2022
+EU,DE,Germany,2018,509.8,,,,,,WAT007 2000-2022
+EU,DE,Germany,2019,571.4,,,,,,WAT007 2000-2022
+EU,DE,Germany,2020,509.5,,,,,,WAT007 2000-2022
+EU,DE,Germany,2021,496.8,,,,,,WAT007 2000-2022
+EU,DE,Germany,2022,496.8,,,,,,WAT007 2000-2022
+EU,DE,Germany,2023,447.3,,,,,,EEA estimate based on ESTAT Utilised Agricultural Area 
+EU,DE,Germany,2000,,,,,2385.9,,Same value as 2001
+EU,DE,Germany,2001,,,,,2385.9,,WAT007 2000-2022
+EU,DE,Germany,2002,,,,,2358.4,,WAT007 2000-2022
+EU,DE,Germany,2003,,,,,2330.9,,WAT007 2000-2022
+EU,DE,Germany,2004,,,,,2303.4,,WAT007 2000-2022
+EU,DE,Germany,2005,,,,,2300.3,,WAT007 2000-2022
+EU,DE,Germany,2006,,,,,2297.3,,WAT007 2000-2022
+EU,DE,Germany,2007,,,,,2294.2,,WAT007 2000-2022
+EU,DE,Germany,2008,,,,,2236.9,,WAT007 2000-2022
+EU,DE,Germany,2009,,,,,2179.6,,WAT007 2000-2022
+EU,DE,Germany,2010,,,,,2122.3,,WAT007 2000-2022
+EU,DE,Germany,2011,,,,,2038.9,,WAT007 2000-2022
+EU,DE,Germany,2012,,,,,1955.5,,WAT007 2000-2022
+EU,DE,Germany,2013,,,,,1872.1,,WAT007 2000-2022
+EU,DE,Germany,2014,,,,,1731,,WAT007 2000-2022
+EU,DE,Germany,2015,,,,,1589.9,,WAT007 2000-2022
+EU,DE,Germany,2016,,,,,1448.9,,WAT007 2000-2022
+EU,DE,Germany,2017,,,,,1395.6,,WAT007 2000-2022
+EU,DE,Germany,2018,,,,,1342.3,,WAT007 2000-2022
+EU,DE,Germany,2019,,,,,1288.9,,WAT007 2000-2022
+EU,DE,Germany,2020,,,,,1258.2,,ESTAT env_wat_a
+EU,DE,Germany,2021,,,,,1227.6,,ESTAT env_wat_a
+EU,DE,Germany,2022,,,,,1196.8,,ESTAT env_wat_a
+EU,DE,Germany,2023,,,,,1196.8,,Same value as 2022
+EU,DE,Germany,2000,,,,9044.7,,,WAT007 2000-2022
+EU,DE,Germany,2001,,,,5374.4,,,WAT007 2000-2022
+EU,DE,Germany,2002,,,,5386.9,,,WAT007 2000-2022
+EU,DE,Germany,2003,,,,5399.3,,,WAT007 2000-2022
+EU,DE,Germany,2004,,,,5411.8,,,WAT007 2000-2022
+EU,DE,Germany,2005,,,,5240.1,,,WAT007 2000-2022
+EU,DE,Germany,2006,,,,5068.5,,,WAT007 2000-2022
+EU,DE,Germany,2007,,,,4896.8,,,WAT007 2000-2022
+EU,DE,Germany,2008,,,,4818,,,WAT007 2000-2022
+EU,DE,Germany,2009,,,,4739.3,,,WAT007 2000-2022
+EU,DE,Germany,2010,,,,4660.5,,,WAT007 2000-2022
+EU,DE,Germany,2011,,,,4515.9,,,WAT007 2000-2022
+EU,DE,Germany,2012,,,,4371.3,,,WAT007 2000-2022
+EU,DE,Germany,2013,,,,4226.7,,,WAT007 2000-2022
+EU,DE,Germany,2014,,,,4279.7,,,WAT007 2000-2022
+EU,DE,Germany,2015,,,,4332.6,,,WAT007 2000-2022
+EU,DE,Germany,2016,,,,4385.6,,,WAT007 2000-2022
+EU,DE,Germany,2017,,,,4280.1,,,WAT007 2000-2022
+EU,DE,Germany,2018,,,,4174.6,,,WAT007 2000-2022
+EU,DE,Germany,2019,,,,4069.1,,,WAT007 2000-2022
+EU,DE,Germany,2020,,,,3625.3,,,WAT007 2000-2022
+EU,DE,Germany,2021,,,,4144.6,,,WAT007 2000-2022
+EU,DE,Germany,2022,,,,3738.5,,,WAT007 2000-2022
+EU,DE,Germany,2023,,,,3986.8,,,EEA estimate based on ESTAT DEF_DISS_DS-056121
+EU,DE,Germany,2000,,,27327.1,,,,WAT007 2000-2022
+EU,DE,Germany,2001,,,24072,,,,WAT007 2000-2022
+EU,DE,Germany,2002,,,23465,,,,WAT007 2000-2022
+EU,DE,Germany,2003,,,22857.9,,,,WAT007 2000-2022
+EU,DE,Germany,2004,,,22250.9,,,,WAT007 2000-2022
+EU,DE,Germany,2005,,,21327.3,,,,WAT007 2000-2022
+EU,DE,Germany,2006,,,20403.9,,,,WAT007 2000-2022
+EU,DE,Germany,2007,,,19480.3,,,,WAT007 2000-2022
+EU,DE,Germany,2008,,,19493.5,,,,WAT007 2000-2022
+EU,DE,Germany,2009,,,19550,,,,WAT007 2000-2022
+EU,DE,Germany,2010,,,19635.2,,,,WAT007 2000-2022
+EU,DE,Germany,2011,,,17299.2,,,,WAT007 2000-2022
+EU,DE,Germany,2012,,,14985.6,,,,EEA estimate based on ESTAT Ind_peh and Ind_pehcf;WAT007 2000-2022
+EU,DE,Germany,2013,,,12636.4,,,,WAT007 2000-2022
+EU,DE,Germany,2014,,,12327.5,,,,WAT007 2000-2022
+EU,DE,Germany,2015,,,12018.7,,,,WAT007 2000-2022
+EU,DE,Germany,2016,,,11709.8,,,,WAT007 2000-2022
+EU,DE,Germany,2017,,,10497.8,,,,WAT007 2000-2022
+EU,DE,Germany,2018,,,9285.8,,,,WAT007 2000-2022
+EU,DE,Germany,2019,,,8073.8,,,,WAT007 2000-2022
+EU,DE,Germany,2020,,,12468.6,,,,WAT007 2000-2022
+EU,DE,Germany,2021,,,13321.6,,,,WAT007 2000-2022
+EU,DE,Germany,2022,,,13701.4,,,,WAT007 2000-2022
+EU,DE,Germany,2023,,,12110.8,,,,EEA estimate based on ESTAT Ind_peh and Ind_pehcf
+EU,DE,Germany,2000,,,,,,4791.9,WAT007 2000-2022
+EU,DE,Germany,2001,,,,,,5408.9,WAT007 2000-2022
+EU,DE,Germany,2002,,,,,,5396.5,WAT007 2000-2022
+EU,DE,Germany,2003,,,,,,5384.1,WAT007 2000-2022
+EU,DE,Germany,2004,,,,,,5371.7,WAT007 2000-2022
+EU,DE,Germany,2005,,,,,,5290.4,WAT007 2000-2022
+EU,DE,Germany,2006,,,,,,5208.9,WAT007 2000-2022
+EU,DE,Germany,2007,,,,,,5127.6,WAT007 2000-2022
+EU,DE,Germany,2008,,,,,,5112,WAT007 2000-2022
+EU,DE,Germany,2009,,,,,,5096.3,WAT007 2000-2022
+EU,DE,Germany,2010,,,,,,5080.7,WAT007 2000-2022
+EU,DE,Germany,2011,,,,,,5071.6,WAT007 2000-2022
+EU,DE,Germany,2012,,,,,,5062.5,WAT007 2000-2022
+EU,DE,Germany,2013,,,,,,5053.5,WAT007 2000-2022
+EU,DE,Germany,2014,,,,,,5103.7,WAT007 2000-2022
+EU,DE,Germany,2015,,,,,,5153.9,WAT007 2000-2022
+EU,DE,Germany,2016,,,,,,5204.2,WAT007 2000-2022
+EU,DE,Germany,2017,,,,,,5254.7,WAT007 2000-2022
+EU,DE,Germany,2018,,,,,,5305.1,WAT007 2000-2022
+EU,DE,Germany,2019,,,,,,5355.5,WAT007 2000-2022
+EU,DE,Germany,2020,,,,,,5269.2,WAT007 2000-2022
+EU,DE,Germany,2021,,,,,,5268.5,WAT007 2000-2022
+EU,DE,Germany,2022,,,,,,5273.7,WAT007 2000-2022
+EU,DE,Germany,2023,,,,,,5344.8,EEA estimate based on ESTAT_demo_pjan
+EU,DE,Germany,2000,,765,,,,,Same value as 2000
+EU,DE,Germany,2001,,765,,,,,WAT007 2000-2022
+EU,DE,Germany,2002,,583,,,,,WAT007 2000-2022
+EU,DE,Germany,2003,,401.2,,,,,WAT007 2000-2022
+EU,DE,Germany,2004,,219.2,,,,,WAT007 2000-2022
+EU,DE,Germany,2005,,214.2,,,,,WAT007 2000-2022
+EU,DE,Germany,2006,,209.3,,,,,WAT007 2000-2022
+EU,DE,Germany,2007,,204.3,,,,,WAT007 2000-2022
+EU,DE,Germany,2008,,548.6,,,,,WAT007 2000-2022
+EU,DE,Germany,2009,,893,,,,,WAT007 2000-2022
+EU,DE,Germany,2010,,1237.3,,,,,WAT007 2000-2022
+EU,DE,Germany,2011,,1195.3,,,,,WAT007 2000-2022
+EU,DE,Germany,2012,,1153.3,,,,,WAT007 2000-2022
+EU,DE,Germany,2013,,1111.2,,,,,WAT007 2000-2022
+EU,DE,Germany,2014,,1127.3,,,,,WAT007 2000-2022
+EU,DE,Germany,2015,,1143.3,,,,,WAT007 2000-2022
+EU,DE,Germany,2016,,1159.4,,,,,WAT007 2000-2022
+EU,DE,Germany,2017,,1113,,,,,WAT007 2000-2022
+EU,DE,Germany,2018,,1066.7,,,,,WAT007 2000-2022
+EU,DE,Germany,2019,,1020.4,,,,,WAT007 2000-2022
+EU,DE,Germany,2020,,1015.3,,,,,ESTAT env_wat_a
+EU,DE,Germany,2021,,1010.2,,,,,ESTAT env_wat_a
+EU,DE,Germany,2022,,1005,,,,,ESTAT env_wat_a
+EU,DE,Germany,2023,,1005,,,,,Same value as 2022
+

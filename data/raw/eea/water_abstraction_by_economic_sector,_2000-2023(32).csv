@@ -1,0 +1,136 @@
+Downloaded from: https://www.eea.europa.eu/en/analysis/indicators/water-abstraction-by-source-and/water-abstraction-by-economic-sector
+
+Publisher ,European Environment Agency,EEA
+
+Sources ,https://www.eea.europa.eu/en/datahub/datahubitem-view/a4324714-784a-4763-b8b9-b8939ead87fe?activeAccordion=1092906,European Environment Agency (EEA),"Waterbase - Water Quantity, 2023"
+ ,https://ec.europa.eu/eurostat/databrowser/view/env_wat_abs/default/table?lang=en&category=env.env_wat.env_nwat,Eurostat - Statistical Office of the European Union (ESTAT),Annual freshwater abstraction by source and sector
+
+Geographical coverage ,"Cyprus, Portugal, Spain, Malta, Denmark, Iceland, Switzerland, Sweden, Netherlands, Austria, Belgium, Germany, Luxembourg, Ireland, Türkiye, France, Liechtenstein, Slovakia, Czechia, Norway, Italy, Slovenia, Montenegro, Croatia, Bosnia and Herzegovina, Greece, Estonia, Latvia, Lithuania, Serbia, Finland, North Macedonia, Hungary, Bulgaria, Albania, Poland, Romania, Kosovo (UNSCR 1244/99)"
+
+Temporal coverage ,"2000, 2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023"
+
+EIONET,countryCode,Country,phenomenonTimePeriod_year,Agriculture_Million m3,Construction_Million m3,Electricity cooling_Million m3,Manufacturing_Million m3,Mining and Quarrying_Million m3,Public water supply_Million m3,dataSource
+
+EU,SI,Slovenia,2000,5.8,,,,,,WAT007 2000-2022
+EU,SI,Slovenia,2001,5.8,,,,,,WAT007 2000-2022
+EU,SI,Slovenia,2002,6.7,,,,,,WAT007 2000-2022
+EU,SI,Slovenia,2003,6.4,,,,,,WAT007 2000-2022
+EU,SI,Slovenia,2004,4.5,,,,,,WAT007 2000-2022
+EU,SI,Slovenia,2005,2.3,,,,,,WAT007 2000-2022
+EU,SI,Slovenia,2006,6.3,,,,,,WAT007 2000-2022
+EU,SI,Slovenia,2007,4.7,,,,,,WAT007 2000-2022
+EU,SI,Slovenia,2008,2.4,,,,,,WAT007 2000-2022
+EU,SI,Slovenia,2009,2.5,,,,,,WAT007 2000-2022
+EU,SI,Slovenia,2010,1.8,,,,,,WAT007 2000-2022
+EU,SI,Slovenia,2011,3.2,,,,,,WAT007 2000-2022
+EU,SI,Slovenia,2012,2.3,,,,,,WAT007 2000-2022
+EU,SI,Slovenia,2013,3.6,,,,,,WAT007 2000-2022
+EU,SI,Slovenia,2014,1.7,,,,,,WAT007 2000-2022
+EU,SI,Slovenia,2015,3.6,,,,,,WAT007 2000-2022
+EU,SI,Slovenia,2016,3.3,,,,,,WAT007 2000-2022
+EU,SI,Slovenia,2017,3.9,,,,,,WAT007 2000-2022
+EU,SI,Slovenia,2018,3.1,,,,,,WAT007 2000-2022
+EU,SI,Slovenia,2019,3.3,,,,,,WAT007 2000-2022
+EU,SI,Slovenia,2020,2.8,,,,,,WAT007 2000-2022
+EU,SI,Slovenia,2021,2.8,,,,,,WAT007 2000-2022
+EU,SI,Slovenia,2022,3,,,,,,WAT007 2000-2022
+EU,SI,Slovenia,2023,4.7,,,,,,ESTAT env_wat_a
+EU,SI,Slovenia,2000,,,,,0,,WAT007 2000-2022
+EU,SI,Slovenia,2001,,,,,0,,WAT007 2000-2022
+EU,SI,Slovenia,2002,,,,,0,,WAT007 2000-2022
+EU,SI,Slovenia,2003,,,,,1.1,,WAT007 2000-2022
+EU,SI,Slovenia,2004,,,,,1.3,,WAT007 2000-2022
+EU,SI,Slovenia,2005,,,,,0.8,,WAT007 2000-2022
+EU,SI,Slovenia,2006,,,,,1.5,,WAT007 2000-2022
+EU,SI,Slovenia,2007,,,,,1.7,,WAT007 2000-2022
+EU,SI,Slovenia,2008,,,,,1.4,,WAT007 2000-2022
+EU,SI,Slovenia,2009,,,,,0.9,,WAT007 2000-2022
+EU,SI,Slovenia,2010,,,,,1.2,,WAT007 2000-2022
+EU,SI,Slovenia,2011,,,,,0.9,,WAT007 2000-2022
+EU,SI,Slovenia,2012,,,,,0.8,,WAT007 2000-2022
+EU,SI,Slovenia,2013,,,,,0.8,,WAT007 2000-2022
+EU,SI,Slovenia,2014,,,,,0.9,,WAT007 2000-2022
+EU,SI,Slovenia,2015,,,,,0.7,,WAT007 2000-2022
+EU,SI,Slovenia,2016,,,,,0.8,,WAT007 2000-2022
+EU,SI,Slovenia,2017,,,,,0.8,,WAT007 2000-2022
+EU,SI,Slovenia,2018,,,,,0.9,,WAT007 2000-2022
+EU,SI,Slovenia,2019,,,,,1,,WAT007 2000-2022
+EU,SI,Slovenia,2020,,,,,1,,WAT007 2000-2022
+EU,SI,Slovenia,2021,,,,,1.2,,WAT007 2000-2022
+EU,SI,Slovenia,2022,,,,,1.1,,WAT007 2000-2022
+EU,SI,Slovenia,2023,,,,,1.1,,ESTAT env_wat_a
+EU,SI,Slovenia,2000,,,,84.8,,,WAT007 2000-2022
+EU,SI,Slovenia,2001,,,,83.3,,,WAT007 2000-2022
+EU,SI,Slovenia,2002,,,,83.8,,,WAT007 2000-2022
+EU,SI,Slovenia,2003,,,,75.2,,,WAT007 2000-2022
+EU,SI,Slovenia,2004,,,,72,,,WAT007 2000-2022
+EU,SI,Slovenia,2005,,,,71.9,,,WAT007 2000-2022
+EU,SI,Slovenia,2006,,,,66.2,,,WAT007 2000-2022
+EU,SI,Slovenia,2007,,,,54.9,,,WAT007 2000-2022
+EU,SI,Slovenia,2008,,,,48.1,,,WAT007 2000-2022
+EU,SI,Slovenia,2009,,,,48.4,,,WAT007 2000-2022
+EU,SI,Slovenia,2010,,,,49.6,,,WAT007 2000-2022
+EU,SI,Slovenia,2011,,,,45.1,,,WAT007 2000-2022
+EU,SI,Slovenia,2012,,,,40.5,,,WAT007 2000-2022
+EU,SI,Slovenia,2013,,,,43.1,,,WAT007 2000-2022
+EU,SI,Slovenia,2014,,,,43,,,WAT007 2000-2022
+EU,SI,Slovenia,2015,,,,40.9,,,WAT007 2000-2022
+EU,SI,Slovenia,2016,,,,40.6,,,WAT007 2000-2022
+EU,SI,Slovenia,2017,,,,41.7,,,WAT007 2000-2022
+EU,SI,Slovenia,2018,,,,40.4,,,WAT007 2000-2022
+EU,SI,Slovenia,2019,,,,41.7,,,WAT007 2000-2022
+EU,SI,Slovenia,2020,,,,37.1,,,WAT007 2000-2022
+EU,SI,Slovenia,2021,,,,35.8,,,WAT007 2000-2022
+EU,SI,Slovenia,2022,,,,36.4,,,WAT007 2000-2022
+EU,SI,Slovenia,2023,,,,33,,,ESTAT env_wat_a
+EU,SI,Slovenia,2000,,,599.1,,,,WAT007 2000-2022
+EU,SI,Slovenia,2001,,,636.1,,,,WAT007 2000-2022
+EU,SI,Slovenia,2002,,,621.6,,,,WAT007 2000-2022
+EU,SI,Slovenia,2003,,,587.9,,,,WAT007 2000-2022
+EU,SI,Slovenia,2004,,,746.5,,,,WAT007 2000-2022
+EU,SI,Slovenia,2005,,,685.9,,,,WAT007 2000-2022
+EU,SI,Slovenia,2006,,,666.8,,,,WAT007 2000-2022
+EU,SI,Slovenia,2007,,,706.3,,,,WAT007 2000-2022
+EU,SI,Slovenia,2008,,,821.4,,,,WAT007 2000-2022
+EU,SI,Slovenia,2009,,,725.6,,,,WAT007 2000-2022
+EU,SI,Slovenia,2010,,,706.9,,,,WAT007 2000-2022
+EU,SI,Slovenia,2011,,,632,,,,WAT007 2000-2022
+EU,SI,Slovenia,2012,,,576,,,,WAT007 2000-2022
+EU,SI,Slovenia,2013,,,681.8,,,,WAT007 2000-2022
+EU,SI,Slovenia,2014,,,769.6,,,,WAT007 2000-2022
+EU,SI,Slovenia,2015,,,685.5,,,,WAT007 2000-2022
+EU,SI,Slovenia,2016,,,678.6,,,,WAT007 2000-2022
+EU,SI,Slovenia,2017,,,713.9,,,,WAT007 2000-2022
+EU,SI,Slovenia,2018,,,742.3,,,,WAT007 2000-2022
+EU,SI,Slovenia,2019,,,727.1,,,,WAT007 2000-2022
+EU,SI,Slovenia,2020,,,792,,,,WAT007 2000-2022
+EU,SI,Slovenia,2021,,,717.1,,,,WAT007 2000-2022
+EU,SI,Slovenia,2022,,,605.9,,,,WAT007 2000-2022
+EU,SI,Slovenia,2023,,,724.3,,,,ESTAT env_wat_a
+EU,SI,Slovenia,2000,,,,,,108.2,WAT007 2000-2022
+EU,SI,Slovenia,2001,,,,,,106.5,WAT007 2000-2022
+EU,SI,Slovenia,2002,,,,,,187.1,WAT007 2000-2022
+EU,SI,Slovenia,2003,,,,,,178.7,WAT007 2000-2022
+EU,SI,Slovenia,2004,,,,,,162.5,WAT007 2000-2022
+EU,SI,Slovenia,2005,,,,,,163.4,WAT007 2000-2022
+EU,SI,Slovenia,2006,,,,,,166.2,WAT007 2000-2022
+EU,SI,Slovenia,2007,,,,,,167.4,WAT007 2000-2022
+EU,SI,Slovenia,2008,,,,,,166.7,WAT007 2000-2022
+EU,SI,Slovenia,2009,,,,,,165.4,WAT007 2000-2022
+EU,SI,Slovenia,2010,,,,,,166.2,WAT007 2000-2022
+EU,SI,Slovenia,2011,,,,,,169.1,WAT007 2000-2022
+EU,SI,Slovenia,2012,,,,,,161.7,WAT007 2000-2022
+EU,SI,Slovenia,2013,,,,,,164,WAT007 2000-2022
+EU,SI,Slovenia,2014,,,,,,163,WAT007 2000-2022
+EU,SI,Slovenia,2015,,,,,,164.4,WAT007 2000-2022
+EU,SI,Slovenia,2016,,,,,,161.8,WAT007 2000-2022
+EU,SI,Slovenia,2017,,,,,,169.3,WAT007 2000-2022
+EU,SI,Slovenia,2018,,,,,,170.7,WAT007 2000-2022
+EU,SI,Slovenia,2019,,,,,,170,WAT007 2000-2022
+EU,SI,Slovenia,2020,,,,,,168.9,WAT007 2000-2022
+EU,SI,Slovenia,2021,,,,,,173.4,WAT007 2000-2022
+EU,SI,Slovenia,2022,,,,,,179.3,WAT007 2000-2022
+EU,SI,Slovenia,2023,,,,,,188.4,ESTAT env_wat_a
+EU,SI,Slovenia,2008,,0.5,,,,,WAT007 2000-2022
+EU,SI,Slovenia,2009,,0.1,,,,,WAT007 2000-2022
+

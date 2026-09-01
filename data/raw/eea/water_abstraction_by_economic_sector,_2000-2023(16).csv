@@ -1,0 +1,138 @@
+Downloaded from: https://www.eea.europa.eu/en/analysis/indicators/water-abstraction-by-source-and/water-abstraction-by-economic-sector
+
+Publisher ,European Environment Agency,EEA
+
+Sources ,https://www.eea.europa.eu/en/datahub/datahubitem-view/a4324714-784a-4763-b8b9-b8939ead87fe?activeAccordion=1092906,European Environment Agency (EEA),"Waterbase - Water Quantity, 2023"
+ ,https://ec.europa.eu/eurostat/databrowser/view/env_wat_abs/default/table?lang=en&category=env.env_wat.env_nwat,Eurostat - Statistical Office of the European Union (ESTAT),Annual freshwater abstraction by source and sector
+
+Geographical coverage ,"Cyprus, Portugal, Spain, Malta, Denmark, Iceland, Switzerland, Sweden, Netherlands, Austria, Belgium, Germany, Luxembourg, Ireland, Türkiye, France, Liechtenstein, Slovakia, Czechia, Norway, Italy, Slovenia, Montenegro, Croatia, Bosnia and Herzegovina, Greece, Estonia, Latvia, Lithuania, Serbia, Finland, North Macedonia, Hungary, Bulgaria, Albania, Poland, Romania, Kosovo (UNSCR 1244/99)"
+
+Temporal coverage ,"2000, 2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023"
+
+EIONET,countryCode,Country,phenomenonTimePeriod_year,Agriculture_Million m3,Construction_Million m3,Electricity cooling_Million m3,Manufacturing_Million m3,Mining and Quarrying_Million m3,Public water supply_Million m3,dataSource
+
+EU,IE,Ireland,2000,37.4,,,,,,WAT007 2000-2022
+EU,IE,Ireland,2001,36.1,,,,,,WAT007 2000-2022
+EU,IE,Ireland,2002,37.7,,,,,,WAT007 2000-2022
+EU,IE,Ireland,2003,36.9,,,,,,WAT007 2000-2022
+EU,IE,Ireland,2004,37.5,,,,,,WAT007 2000-2022
+EU,IE,Ireland,2005,36.4,,,,,,WAT007 2000-2022
+EU,IE,Ireland,2006,36.3,,,,,,WAT007 2000-2022
+EU,IE,Ireland,2007,37.2,,,,,,WAT007 2000-2022
+EU,IE,Ireland,2008,37.1,,,,,,WAT007 2000-2022
+EU,IE,Ireland,2009,37.4,,,,,,WAT007 2000-2022
+EU,IE,Ireland,2010,35,,,,,,WAT007 2000-2022
+EU,IE,Ireland,2011,36.1,,,,,,WAT007 2000-2022
+EU,IE,Ireland,2012,36.8,,,,,,WAT007 2000-2022
+EU,IE,Ireland,2013,36.8,,,,,,WAT007 2000-2022
+EU,IE,Ireland,2014,37.7,,,,,,WAT007 2000-2022
+EU,IE,Ireland,2015,38.4,,,,,,WAT007 2000-2022
+EU,IE,Ireland,2016,37.1,,,,,,WAT007 2000-2022
+EU,IE,Ireland,2017,36.7,,,,,,WAT007 2000-2022
+EU,IE,Ireland,2018,34.7,,,,,,WAT007 2000-2022
+EU,IE,Ireland,2019,35.7,,,,,,WAT007 2000-2022
+EU,IE,Ireland,2020,38.2,,,,,,WAT007 2000-2022
+EU,IE,Ireland,2021,39.5,,,,,,WAT007 2000-2022
+EU,IE,Ireland,2022,39,,,,,,WAT007 2000-2022
+EU,IE,Ireland,2023,54.2,,,,,,ESTAT env_wat_a
+EU,IE,Ireland,2000,,,,,0,,WAT007 2000-2022
+EU,IE,Ireland,2001,,,,,0,,WAT007 2000-2022
+EU,IE,Ireland,2002,,,,,0,,WAT007 2000-2022
+EU,IE,Ireland,2003,,,,,0,,WAT007 2000-2022
+EU,IE,Ireland,2004,,,,,0,,WAT007 2000-2022
+EU,IE,Ireland,2005,,,,,0,,WAT007 2000-2022
+EU,IE,Ireland,2006,,,,,0,,WAT007 2000-2022
+EU,IE,Ireland,2007,,,,,51,,WAT007 2000-2022
+EU,IE,Ireland,2008,,,,,0,,WAT007 2000-2022
+EU,IE,Ireland,2009,,,,,0,,WAT007 2000-2022
+EU,IE,Ireland,2010,,,,,0,,WAT007 2000-2022
+EU,IE,Ireland,2011,,,,,0,,WAT007 2000-2022
+EU,IE,Ireland,2012,,,,,0,,WAT007 2000-2022
+EU,IE,Ireland,2013,,,,,0,,WAT007 2000-2022
+EU,IE,Ireland,2014,,,,,0,,WAT007 2000-2022
+EU,IE,Ireland,2015,,,,,0,,WAT007 2000-2022
+EU,IE,Ireland,2016,,,,,0,,WAT007 2000-2022
+EU,IE,Ireland,2017,,,,,0,,WAT007 2000-2022
+EU,IE,Ireland,2018,,,,,75.8,,WAT007 2000-2022
+EU,IE,Ireland,2019,,,,,25,,WAT007 2000-2022
+EU,IE,Ireland,2020,,,,,25,,WAT007 2000-2022
+EU,IE,Ireland,2021,,,,,32.9,,WAT007 2000-2022
+EU,IE,Ireland,2022,,,,,115.6,,WAT007 2000-2022
+EU,IE,Ireland,2023,,,,,115.6,,ESTAT env_wat_a
+EU,IE,Ireland,2000,,,,36.3,,,WAT007 2000-2022
+EU,IE,Ireland,2001,,,,33.6,,,WAT007 2000-2022
+EU,IE,Ireland,2002,,,,31.7,,,WAT007 2000-2022
+EU,IE,Ireland,2003,,,,30.3,,,WAT007 2000-2022
+EU,IE,Ireland,2004,,,,30,,,WAT007 2000-2022
+EU,IE,Ireland,2005,,,,28.9,,,WAT007 2000-2022
+EU,IE,Ireland,2006,,,,28.2,,,WAT007 2000-2022
+EU,IE,Ireland,2007,,,,33.6,,,WAT007 2000-2022
+EU,IE,Ireland,2008,,,,26,,,WAT007 2000-2022
+EU,IE,Ireland,2009,,,,25,,,WAT007 2000-2022
+EU,IE,Ireland,2010,,,,26.9,,,WAT007 2000-2022
+EU,IE,Ireland,2011,,,,26.9,,,WAT007 2000-2022
+EU,IE,Ireland,2012,,,,26.5,,,WAT007 2000-2022
+EU,IE,Ireland,2013,,,,25.9,,,WAT007 2000-2022
+EU,IE,Ireland,2014,,,,31.4,,,WAT007 2000-2022
+EU,IE,Ireland,2015,,,,46.5,,,WAT007 2000-2022
+EU,IE,Ireland,2016,,,,46,,,WAT007 2000-2022
+EU,IE,Ireland,2017,,,,46,,,WAT007 2000-2022
+EU,IE,Ireland,2018,,,,27,,,WAT007 2000-2022
+EU,IE,Ireland,2019,,,,405.3,,,WAT007 2000-2022
+EU,IE,Ireland,2020,,,,52.2,,,WAT007 2000-2022
+EU,IE,Ireland,2022,,,,52.4,,,WAT007 2000-2022
+EU,IE,Ireland,2023,,,,54.2,,,ESTAT env_wat_a
+EU,IE,Ireland,2000,,,388.3,,,,WAT007 2000-2022
+EU,IE,Ireland,2001,,,404.1,,,,WAT007 2000-2022
+EU,IE,Ireland,2002,,,408,,,,WAT007 2000-2022
+EU,IE,Ireland,2003,,,408.4,,,,WAT007 2000-2022
+EU,IE,Ireland,2004,,,414,,,,WAT007 2000-2022
+EU,IE,Ireland,2005,,,420.6,,,,WAT007 2000-2022
+EU,IE,Ireland,2006,,,445,,,,WAT007 2000-2022
+EU,IE,Ireland,2007,,,456.6,,,,WAT007 2000-2022
+EU,IE,Ireland,2008,,,489.7,,,,WAT007 2000-2022
+EU,IE,Ireland,2009,,,458.5,,,,WAT007 2000-2022
+EU,IE,Ireland,2010,,,459.2,,,,WAT007 2000-2022
+EU,IE,Ireland,2011,,,439.9,,,,WAT007 2000-2022
+EU,IE,Ireland,2012,,,443,,,,WAT007 2000-2022
+EU,IE,Ireland,2013,,,419.7,,,,WAT007 2000-2022
+EU,IE,Ireland,2014,,,422.5,,,,WAT007 2000-2022
+EU,IE,Ireland,2015,,,459.7,,,,WAT007 2000-2022
+EU,IE,Ireland,2016,,,459.6,,,,WAT007 2000-2022
+EU,IE,Ireland,2017,,,494,,,,WAT007 2000-2022
+EU,IE,Ireland,2018,,,359.2,,,,WAT007 2000-2022
+EU,IE,Ireland,2019,,,359.2,,,,WAT007 2000-2022
+EU,IE,Ireland,2020,,,359.2,,,,WAT007 2000-2022
+EU,IE,Ireland,2021,,,359.2,,,,WAT007 2000-2022
+EU,IE,Ireland,2022,,,359.1,,,,WAT007 2000-2022
+EU,IE,Ireland,2023,,,359.2,,,,ESTAT env_wat_a
+EU,IE,Ireland,2000,,,,,,514.9,WAT007 2000-2022
+EU,IE,Ireland,2001,,,,,,526.4,WAT007 2000-2022
+EU,IE,Ireland,2002,,,,,,556,WAT007 2000-2022
+EU,IE,Ireland,2003,,,,,,551.8,WAT007 2000-2022
+EU,IE,Ireland,2004,,,,,,565.3,WAT007 2000-2022
+EU,IE,Ireland,2005,,,,,,662,WAT007 2000-2022
+EU,IE,Ireland,2006,,,,,,594.1,WAT007 2000-2022
+EU,IE,Ireland,2007,,,,,,609,WAT007 2000-2022
+EU,IE,Ireland,2008,,,,,,624,WAT007 2000-2022
+EU,IE,Ireland,2009,,,,,,680,WAT007 2000-2022
+EU,IE,Ireland,2010,,,,,,631,WAT007 2000-2022
+EU,IE,Ireland,2011,,,,,,627,WAT007 2000-2022
+EU,IE,Ireland,2012,,,,,,628,WAT007 2000-2022
+EU,IE,Ireland,2013,,,,,,620,WAT007 2000-2022
+EU,IE,Ireland,2014,,,,,,660,WAT007 2000-2022
+EU,IE,Ireland,2015,,,,,,627,WAT007 2000-2022
+EU,IE,Ireland,2016,,,,,,631,WAT007 2000-2022
+EU,IE,Ireland,2017,,,,,,610,WAT007 2000-2022
+EU,IE,Ireland,2018,,,,,,980.1,WAT007 2000-2022
+EU,IE,Ireland,2019,,,,,,982.5,WAT007 2000-2022
+EU,IE,Ireland,2020,,,,,,982.8,WAT007 2000-2022
+EU,IE,Ireland,2021,,,,,,1008.3,WAT007 2000-2022
+EU,IE,Ireland,2022,,,,,,1105.7,WAT007 2000-2022
+EU,IE,Ireland,2023,,,,,,1373.8,ESTAT env_wat_a
+EU,IE,Ireland,2018,,0,,,,,WAT007 2000-2022
+EU,IE,Ireland,2019,,0,,,,,WAT007 2000-2022
+EU,IE,Ireland,2020,,0,,,,,WAT007 2000-2022
+EU,IE,Ireland,2022,,0.4,,,,,WAT007 2000-2022
+EU,IE,Ireland,2023,,0.3,,,,,ESTAT env_wat_a
+

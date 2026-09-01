@@ -1,0 +1,145 @@
+Downloaded from: https://www.eea.europa.eu/en/analysis/indicators/water-abstraction-by-source-and/water-abstraction-by-economic-sector
+
+Publisher ,European Environment Agency,EEA
+
+Sources ,https://www.eea.europa.eu/en/datahub/datahubitem-view/a4324714-784a-4763-b8b9-b8939ead87fe?activeAccordion=1092906,European Environment Agency (EEA),"Waterbase - Water Quantity, 2023"
+ ,https://ec.europa.eu/eurostat/databrowser/view/env_wat_abs/default/table?lang=en&category=env.env_wat.env_nwat,Eurostat - Statistical Office of the European Union (ESTAT),Annual freshwater abstraction by source and sector
+
+Geographical coverage ,"Cyprus, Portugal, Spain, Malta, Denmark, Iceland, Switzerland, Sweden, Netherlands, Austria, Belgium, Germany, Luxembourg, Ireland, Türkiye, France, Liechtenstein, Slovakia, Czechia, Norway, Italy, Slovenia, Montenegro, Croatia, Bosnia and Herzegovina, Greece, Estonia, Latvia, Lithuania, Serbia, Finland, North Macedonia, Hungary, Bulgaria, Albania, Poland, Romania, Kosovo (UNSCR 1244/99)"
+
+Temporal coverage ,"2000, 2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023"
+
+EIONET,countryCode,Country,phenomenonTimePeriod_year,Agriculture_Million m3,Construction_Million m3,Electricity cooling_Million m3,Manufacturing_Million m3,Mining and Quarrying_Million m3,Public water supply_Million m3,dataSource
+
+EU,SK,Slovakia,2000,124.9,,,,,,WAT007 2000-2022
+EU,SK,Slovakia,2001,101.9,,,,,,WAT007 2000-2022
+EU,SK,Slovakia,2002,86.6,,,,,,WAT007 2000-2022
+EU,SK,Slovakia,2003,125.3,,,,,,WAT007 2000-2022
+EU,SK,Slovakia,2004,68.6,,,,,,WAT007 2000-2022
+EU,SK,Slovakia,2005,60.1,,,,,,WAT007 2000-2022
+EU,SK,Slovakia,2006,68.8,,,,,,WAT007 2000-2022
+EU,SK,Slovakia,2007,61.5,,,,,,WAT007 2000-2022
+EU,SK,Slovakia,2008,55.7,,,,,,WAT007 2000-2022
+EU,SK,Slovakia,2009,47.4,,,,,,WAT007 2000-2022
+EU,SK,Slovakia,2010,37.7,,,,,,WAT007 2000-2022
+EU,SK,Slovakia,2011,43,,,,,,WAT007 2000-2022
+EU,SK,Slovakia,2012,49.3,,,,,,WAT007 2000-2022
+EU,SK,Slovakia,2013,45.3,,,,,,WAT007 2000-2022
+EU,SK,Slovakia,2014,42.7,,,,,,WAT007 2000-2022
+EU,SK,Slovakia,2015,51.3,,,,,,WAT007 2000-2022
+EU,SK,Slovakia,2016,40.6,,,,,,WAT007 2000-2022
+EU,SK,Slovakia,2017,52.2,,,,,,WAT007 2000-2022
+EU,SK,Slovakia,2018,46.7,,,,,,WAT007 2000-2022
+EU,SK,Slovakia,2019,49.1,,,,,,WAT007 2000-2022
+EU,SK,Slovakia,2020,47.1,,,,,,WAT007 2000-2022
+EU,SK,Slovakia,2021,47.2,,,,,,WAT007 2000-2022
+EU,SK,Slovakia,2022,47.8,,,,,,WAT007 2000-2022
+EU,SK,Slovakia,2023,23.8,,,,,,ESTAT env_wat_a
+EU,SK,Slovakia,2000,,,,,0,,WAT007 2000-2022
+EU,SK,Slovakia,2001,,,,,0,,WAT007 2000-2022
+EU,SK,Slovakia,2002,,,,,0,,WAT007 2000-2022
+EU,SK,Slovakia,2003,,,,,0,,WAT007 2000-2022
+EU,SK,Slovakia,2004,,,,,0,,WAT007 2000-2022
+EU,SK,Slovakia,2005,,,,,0,,WAT007 2000-2022
+EU,SK,Slovakia,2006,,,,,0,,WAT007 2000-2022
+EU,SK,Slovakia,2007,,,,,0,,WAT007 2000-2022
+EU,SK,Slovakia,2008,,,,,0,,WAT007 2000-2022
+EU,SK,Slovakia,2009,,,,,0,,WAT007 2000-2022
+EU,SK,Slovakia,2010,,,,,0,,WAT007 2000-2022
+EU,SK,Slovakia,2011,,,,,0,,WAT007 2000-2022
+EU,SK,Slovakia,2012,,,,,0,,WAT007 2000-2022
+EU,SK,Slovakia,2013,,,,,0.4,,WAT007 2000-2022
+EU,SK,Slovakia,2014,,,,,0.3,,WAT007 2000-2022
+EU,SK,Slovakia,2015,,,,,4.9,,WAT007 2000-2022
+EU,SK,Slovakia,2016,,,,,0.2,,WAT007 2000-2022
+EU,SK,Slovakia,2017,,,,,0.1,,WAT007 2000-2022
+EU,SK,Slovakia,2018,,,,,0.4,,WAT007 2000-2022
+EU,SK,Slovakia,2019,,,,,0.6,,WAT007 2000-2022
+EU,SK,Slovakia,2020,,,,,0.4,,WAT007 2000-2022
+EU,SK,Slovakia,2021,,,,,0.4,,WAT007 2000-2022
+EU,SK,Slovakia,2022,,,,,0.5,,WAT007 2000-2022
+EU,SK,Slovakia,2023,,,,,0.5,,WAT007 2000-2022
+EU,SK,Slovakia,2000,,,,623.2,,,WAT007 2000-2022
+EU,SK,Slovakia,2001,,,,641.9,,,WAT007 2000-2022
+EU,SK,Slovakia,2002,,,,623,,,WAT007 2000-2022
+EU,SK,Slovakia,2003,,,,530.9,,,WAT007 2000-2022
+EU,SK,Slovakia,2004,,,,603.6,,,WAT007 2000-2022
+EU,SK,Slovakia,2005,,,,504,,,WAT007 2000-2022
+EU,SK,Slovakia,2006,,,,359.9,,,WAT007 2000-2022
+EU,SK,Slovakia,2007,,,,307,,,WAT007 2000-2022
+EU,SK,Slovakia,2008,,,,286.9,,,WAT007 2000-2022
+EU,SK,Slovakia,2009,,,,263,,,WAT007 2000-2022
+EU,SK,Slovakia,2010,,,,254,,,WAT007 2000-2022
+EU,SK,Slovakia,2011,,,,247.8,,,WAT007 2000-2022
+EU,SK,Slovakia,2012,,,,310.2,,,WAT007 2000-2022
+EU,SK,Slovakia,2013,,,,158,,,WAT007 2000-2022
+EU,SK,Slovakia,2014,,,,153.6,,,WAT007 2000-2022
+EU,SK,Slovakia,2015,,,,155.6,,,WAT007 2000-2022
+EU,SK,Slovakia,2016,,,,153.8,,,WAT007 2000-2022
+EU,SK,Slovakia,2017,,,,157.2,,,WAT007 2000-2022
+EU,SK,Slovakia,2018,,,,165.9,,,WAT007 2000-2022
+EU,SK,Slovakia,2019,,,,164.2,,,WAT007 2000-2022
+EU,SK,Slovakia,2020,,,,161.4,,,WAT007 2000-2022
+EU,SK,Slovakia,2021,,,,165.4,,,WAT007 2000-2022
+EU,SK,Slovakia,2022,,,,156.3,,,WAT007 2000-2022
+EU,SK,Slovakia,2023,,,,159,,,ESTAT env_wat_a
+EU,SK,Slovakia,2000,,,194.7,,,,WAT007 2000-2022
+EU,SK,Slovakia,2001,,,200.3,,,,WAT007 2000-2022
+EU,SK,Slovakia,2002,,,202.6,,,,WAT007 2000-2022
+EU,SK,Slovakia,2003,,,194.8,,,,WAT007 2000-2022
+EU,SK,Slovakia,2004,,,191,,,,WAT007 2000-2022
+EU,SK,Slovakia,2005,,,196.6,,,,WAT007 2000-2022
+EU,SK,Slovakia,2006,,,196.3,,,,WAT007 2000-2022
+EU,SK,Slovakia,2007,,,175.3,,,,WAT007 2000-2022
+EU,SK,Slovakia,2008,,,181,,,,WAT007 2000-2022
+EU,SK,Slovakia,2009,,,247.1,,,,WAT007 2000-2022
+EU,SK,Slovakia,2010,,,85,,,,WAT007 2000-2022
+EU,SK,Slovakia,2011,,,179.1,,,,WAT007 2000-2022
+EU,SK,Slovakia,2012,,,179.1,,,,WAT007 2000-2022
+EU,SK,Slovakia,2013,,,113.6,,,,WAT007 2000-2022
+EU,SK,Slovakia,2014,,,56,,,,WAT007 2000-2022
+EU,SK,Slovakia,2015,,,53.8,,,,WAT007 2000-2022
+EU,SK,Slovakia,2016,,,51.5,,,,WAT007 2000-2022
+EU,SK,Slovakia,2017,,,54.2,,,,WAT007 2000-2022
+EU,SK,Slovakia,2018,,,57.2,,,,WAT007 2000-2022
+EU,SK,Slovakia,2019,,,54.6,,,,WAT007 2000-2022
+EU,SK,Slovakia,2020,,,51.2,,,,WAT007 2000-2022
+EU,SK,Slovakia,2021,,,50.4,,,,WAT007 2000-2022
+EU,SK,Slovakia,2022,,,53.9,,,,WAT007 2000-2022
+EU,SK,Slovakia,2023,,,57.8,,,,ESTAT env_wat_a
+EU,SK,Slovakia,2000,,,,,,423.4,WAT007 2000-2022
+EU,SK,Slovakia,2001,,,,,,394.7,WAT007 2000-2022
+EU,SK,Slovakia,2002,,,,,,385.3,WAT007 2000-2022
+EU,SK,Slovakia,2003,,,,,,383.8,WAT007 2000-2022
+EU,SK,Slovakia,2004,,,,,,355.9,WAT007 2000-2022
+EU,SK,Slovakia,2005,,,,,,342.7,WAT007 2000-2022
+EU,SK,Slovakia,2006,,,,,,334.3,WAT007 2000-2022
+EU,SK,Slovakia,2007,,,,,,319.5,WAT007 2000-2022
+EU,SK,Slovakia,2008,,,,,,319.2,WAT007 2000-2022
+EU,SK,Slovakia,2009,,,,,,318.3,WAT007 2000-2022
+EU,SK,Slovakia,2010,,,,,,308.9,WAT007 2000-2022
+EU,SK,Slovakia,2011,,,,,,302.4,WAT007 2000-2022
+EU,SK,Slovakia,2012,,,,,,305.8,WAT007 2000-2022
+EU,SK,Slovakia,2013,,,,,,294.9,WAT007 2000-2022
+EU,SK,Slovakia,2014,,,,,,285.1,WAT007 2000-2022
+EU,SK,Slovakia,2015,,,,,,288.7,WAT007 2000-2022
+EU,SK,Slovakia,2016,,,,,,286.2,WAT007 2000-2022
+EU,SK,Slovakia,2017,,,,,,293.5,WAT007 2000-2022
+EU,SK,Slovakia,2018,,,,,,292.5,WAT007 2000-2022
+EU,SK,Slovakia,2019,,,,,,292.3,WAT007 2000-2022
+EU,SK,Slovakia,2020,,,,,,293.1,WAT007 2000-2022
+EU,SK,Slovakia,2021,,,,,,298.6,WAT007 2000-2022
+EU,SK,Slovakia,2022,,,,,,325.7,WAT007 2000-2022
+EU,SK,Slovakia,2023,,,,,,322.8,ESTAT env_wat_a
+EU,SK,Slovakia,2013,,0.1,,,,,WAT007 2000-2022
+EU,SK,Slovakia,2014,,0.1,,,,,WAT007 2000-2022
+EU,SK,Slovakia,2015,,0.1,,,,,WAT007 2000-2022
+EU,SK,Slovakia,2016,,1.7,,,,,WAT007 2000-2022
+EU,SK,Slovakia,2017,,1.8,,,,,WAT007 2000-2022
+EU,SK,Slovakia,2018,,1.7,,,,,WAT007 2000-2022
+EU,SK,Slovakia,2019,,2.8,,,,,WAT007 2000-2022
+EU,SK,Slovakia,2020,,2.2,,,,,WAT007 2000-2022
+EU,SK,Slovakia,2021,,2.4,,,,,WAT007 2000-2022
+EU,SK,Slovakia,2022,,7.7,,,,,WAT007 2000-2022
+EU,SK,Slovakia,2023,,9.8,,,,,ESTAT env_wat_a
+

@@ -1,0 +1,158 @@
+Downloaded from: https://www.eea.europa.eu/en/analysis/indicators/water-abstraction-by-source-and/water-abstraction-by-economic-sector
+
+Publisher ,European Environment Agency,EEA
+
+Sources ,https://www.eea.europa.eu/en/datahub/datahubitem-view/a4324714-784a-4763-b8b9-b8939ead87fe?activeAccordion=1092906,European Environment Agency (EEA),"Waterbase - Water Quantity, 2023"
+ ,https://ec.europa.eu/eurostat/databrowser/view/env_wat_abs/default/table?lang=en&category=env.env_wat.env_nwat,Eurostat - Statistical Office of the European Union (ESTAT),Annual freshwater abstraction by source and sector
+
+Geographical coverage ,"Cyprus, Portugal, Spain, Malta, Denmark, Iceland, Switzerland, Sweden, Netherlands, Austria, Belgium, Germany, Luxembourg, Ireland, Türkiye, France, Liechtenstein, Slovakia, Czechia, Norway, Italy, Slovenia, Montenegro, Croatia, Bosnia and Herzegovina, Greece, Estonia, Latvia, Lithuania, Serbia, Finland, North Macedonia, Hungary, Bulgaria, Albania, Poland, Romania, Kosovo (UNSCR 1244/99)"
+
+Temporal coverage ,"2000, 2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023"
+
+EIONET,countryCode,Country,phenomenonTimePeriod_year,Agriculture_Million m3,Construction_Million m3,Electricity cooling_Million m3,Manufacturing_Million m3,Mining and Quarrying_Million m3,Public water supply_Million m3,dataSource
+
+EU,PL,Poland,2000,1062.5,,,,,,WAT007 2000-2022
+EU,PL,Poland,2001,1035.2,,,,,,WAT007 2000-2022
+EU,PL,Poland,2002,1110.1,,,,,,WAT007 2000-2022
+EU,PL,Poland,2003,1178.6,,,,,,WAT007 2000-2022
+EU,PL,Poland,2004,1224.7,,,,,,WAT007 2000-2022
+EU,PL,Poland,2005,1102.9,,,,,,WAT007 2000-2022
+EU,PL,Poland,2006,1094.9,,,,,,WAT007 2000-2022
+EU,PL,Poland,2007,1123.9,,,,,,WAT007 2000-2022
+EU,PL,Poland,2008,1150.8,,,,,,WAT007 2000-2022
+EU,PL,Poland,2009,1161.2,,,,,,WAT007 2000-2022
+EU,PL,Poland,2010,1314,,,,,,WAT007 2000-2022
+EU,PL,Poland,2011,1267.9,,,,,,WAT007 2000-2022
+EU,PL,Poland,2012,1258.1,,,,,,WAT007 2000-2022
+EU,PL,Poland,2013,1229.4,,,,,,WAT007 2000-2022
+EU,PL,Poland,2014,1203.7,,,,,,WAT007 2000-2022
+EU,PL,Poland,2015,1139.8,,,,,,WAT007 2000-2022
+EU,PL,Poland,2016,1190.9,,,,,,WAT007 2000-2022
+EU,PL,Poland,2017,1165.8,,,,,,WAT007 2000-2022
+EU,PL,Poland,2018,1117.6,,,,,,WAT007 2000-2022
+EU,PL,Poland,2019,1010.5,,,,,,WAT007 2000-2022
+EU,PL,Poland,2020,949.8,,,,,,WAT007 2000-2022
+EU,PL,Poland,2021,1000,,,,,,WAT007 2000-2022
+EU,PL,Poland,2022,986.8,,,,,,WAT007 2000-2022
+EU,PL,Poland,2023,835.9,,,,,,EEA estimate based on ESTAT Utilised Agricultural Area ;ESTAT env_wat_a
+EU,PL,Poland,2000,,,,,153.8,,WAT007 2000-2022
+EU,PL,Poland,2001,,,,,126.9,,WAT007 2000-2022
+EU,PL,Poland,2002,,,,,118.7,,WAT007 2000-2022
+EU,PL,Poland,2003,,,,,114,,WAT007 2000-2022
+EU,PL,Poland,2004,,,,,88.7,,WAT007 2000-2022
+EU,PL,Poland,2005,,,,,83.4,,WAT007 2000-2022
+EU,PL,Poland,2006,,,,,83.8,,WAT007 2000-2022
+EU,PL,Poland,2007,,,,,81.8,,WAT007 2000-2022
+EU,PL,Poland,2008,,,,,69.5,,WAT007 2000-2022
+EU,PL,Poland,2009,,,,,64.1,,WAT007 2000-2022
+EU,PL,Poland,2010,,,,,57.9,,WAT007 2000-2022
+EU,PL,Poland,2011,,,,,54.4,,WAT007 2000-2022
+EU,PL,Poland,2012,,,,,51.1,,WAT007 2000-2022
+EU,PL,Poland,2013,,,,,59.4,,WAT007 2000-2022
+EU,PL,Poland,2014,,,,,57.8,,WAT007 2000-2022
+EU,PL,Poland,2015,,,,,52.5,,WAT007 2000-2022
+EU,PL,Poland,2016,,,,,52.4,,WAT007 2000-2022
+EU,PL,Poland,2017,,,,,52.5,,WAT007 2000-2022
+EU,PL,Poland,2018,,,,,48.3,,WAT007 2000-2022
+EU,PL,Poland,2019,,,,,46.1,,WAT007 2000-2022
+EU,PL,Poland,2020,,,,,46.3,,WAT007 2000-2022
+EU,PL,Poland,2021,,,,,48.2,,WAT007 2000-2022
+EU,PL,Poland,2022,,,,,49.2,,WAT007 2000-2022
+EU,PL,Poland,2023,,,,,49.4,,ESTAT env_wat_a
+EU,PL,Poland,2000,,,,775.2,,,WAT007 2000-2022
+EU,PL,Poland,2001,,,,645.7,,,WAT007 2000-2022
+EU,PL,Poland,2002,,,,632.9,,,WAT007 2000-2022
+EU,PL,Poland,2003,,,,464.6,,,WAT007 2000-2022
+EU,PL,Poland,2004,,,,481.9,,,WAT007 2000-2022
+EU,PL,Poland,2005,,,,476.4,,,WAT007 2000-2022
+EU,PL,Poland,2006,,,,493.7,,,WAT007 2000-2022
+EU,PL,Poland,2007,,,,491.7,,,WAT007 2000-2022
+EU,PL,Poland,2008,,,,463.5,,,WAT007 2000-2022
+EU,PL,Poland,2009,,,,444.6,,,WAT007 2000-2022
+EU,PL,Poland,2010,,,,450.3,,,WAT007 2000-2022
+EU,PL,Poland,2011,,,,472.3,,,WAT007 2000-2022
+EU,PL,Poland,2012,,,,464.5,,,WAT007 2000-2022
+EU,PL,Poland,2013,,,,470.8,,,WAT007 2000-2022
+EU,PL,Poland,2014,,,,462.2,,,WAT007 2000-2022
+EU,PL,Poland,2015,,,,471.2,,,WAT007 2000-2022
+EU,PL,Poland,2016,,,,490.3,,,WAT007 2000-2022
+EU,PL,Poland,2017,,,,493.3,,,WAT007 2000-2022
+EU,PL,Poland,2018,,,,499,,,WAT007 2000-2022
+EU,PL,Poland,2019,,,,486.3,,,WAT007 2000-2022
+EU,PL,Poland,2020,,,,478.8,,,WAT007 2000-2022
+EU,PL,Poland,2021,,,,481.4,,,WAT007 2000-2022
+EU,PL,Poland,2022,,,,471.6,,,WAT007 2000-2022
+EU,PL,Poland,2023,,,,435.6,,,ESTAT env_wat_a
+EU,PL,Poland,2000,,,6633.8,,,,WAT007 2000-2022
+EU,PL,Poland,2001,,,6588.5,,,,WAT007 2000-2022
+EU,PL,Poland,2002,,,6737.4,,,,WAT007 2000-2022
+EU,PL,Poland,2003,,,6954.6,,,,WAT007 2000-2022
+EU,PL,Poland,2004,,,6866.5,,,,WAT007 2000-2022
+EU,PL,Poland,2005,,,6710.6,,,,WAT007 2000-2022
+EU,PL,Poland,2006,,,7437.8,,,,WAT007 2000-2022
+EU,PL,Poland,2007,,,7213.1,,,,WAT007 2000-2022
+EU,PL,Poland,2008,,,6312.7,,,,WAT007 2000-2022
+EU,PL,Poland,2009,,,6548.5,,,,WAT007 2000-2022
+EU,PL,Poland,2010,,,6561,,,,WAT007 2000-2022
+EU,PL,Poland,2011,,,6889.7,,,,WAT007 2000-2022
+EU,PL,Poland,2012,,,6588.2,,,,WAT007 2000-2022
+EU,PL,Poland,2013,,,6472.5,,,,WAT007 2000-2022
+EU,PL,Poland,2014,,,6606.6,,,,WAT007 2000-2022
+EU,PL,Poland,2015,,,6389.7,,,,WAT007 2000-2022
+EU,PL,Poland,2016,,,6397.6,,,,WAT007 2000-2022
+EU,PL,Poland,2017,,,5979.7,,,,WAT007 2000-2022
+EU,PL,Poland,2018,,,5741.1,,,,WAT007 2000-2022
+EU,PL,Poland,2019,,,5273.9,,,,WAT007 2000-2022
+EU,PL,Poland,2020,,,4901.6,,,,WAT007 2000-2022
+EU,PL,Poland,2021,,,5216,,,,WAT007 2000-2022
+EU,PL,Poland,2022,,,5379,,,,WAT007 2000-2022
+EU,PL,Poland,2023,,,4354.4,,,,ESTAT env_wat_a
+EU,PL,Poland,2000,,,,,,2350,WAT007 2000-2022
+EU,PL,Poland,2001,,,,,,2217.5,WAT007 2000-2022
+EU,PL,Poland,2002,,,,,,2170.5,WAT007 2000-2022
+EU,PL,Poland,2003,,,,,,2179.4,WAT007 2000-2022
+EU,PL,Poland,2004,,,,,,2102.6,WAT007 2000-2022
+EU,PL,Poland,2005,,,,,,2105.2,WAT007 2000-2022
+EU,PL,Poland,2006,,,,,,2128.7,WAT007 2000-2022
+EU,PL,Poland,2007,,,,,,2085.6,WAT007 2000-2022
+EU,PL,Poland,2008,,,,,,2103.6,WAT007 2000-2022
+EU,PL,Poland,2009,,,,,,2067.3,WAT007 2000-2022
+EU,PL,Poland,2010,,,,,,2062.4,WAT007 2000-2022
+EU,PL,Poland,2011,,,,,,2033,WAT007 2000-2022
+EU,PL,Poland,2012,,,,,,2030.8,WAT007 2000-2022
+EU,PL,Poland,2013,,,,,,1991.3,WAT007 2000-2022
+EU,PL,Poland,2014,,,,,,1988.1,WAT007 2000-2022
+EU,PL,Poland,2015,,,,,,2047.4,WAT007 2000-2022
+EU,PL,Poland,2016,,,,,,2046,WAT007 2000-2022
+EU,PL,Poland,2017,,,,,,2028.2,WAT007 2000-2022
+EU,PL,Poland,2018,,,,,,2128.5,WAT007 2000-2022
+EU,PL,Poland,2019,,,,,,2131.3,WAT007 2000-2022
+EU,PL,Poland,2020,,,,,,1955.1,WAT007 2000-2022
+EU,PL,Poland,2021,,,,,,2091.4,WAT007 2000-2022
+EU,PL,Poland,2022,,,,,,2343.9,WAT007 2000-2022
+EU,PL,Poland,2023,,,,,,2360.9,ESTAT env_wat_a
+EU,PL,Poland,2000,,2.5,,,,,WAT007 2000-2022
+EU,PL,Poland,2001,,2.3,,,,,WAT007 2000-2022
+EU,PL,Poland,2002,,1.7,,,,,WAT007 2000-2022
+EU,PL,Poland,2003,,2,,,,,WAT007 2000-2022
+EU,PL,Poland,2004,,5.5,,,,,WAT007 2000-2022
+EU,PL,Poland,2005,,62.6,,,,,WAT007 2000-2022
+EU,PL,Poland,2006,,25,,,,,WAT007 2000-2022
+EU,PL,Poland,2007,,12.3,,,,,WAT007 2000-2022
+EU,PL,Poland,2008,,12.4,,,,,WAT007 2000-2022
+EU,PL,Poland,2009,,16.5,,,,,WAT007 2000-2022
+EU,PL,Poland,2010,,5.7,,,,,WAT007 2000-2022
+EU,PL,Poland,2011,,6.3,,,,,WAT007 2000-2022
+EU,PL,Poland,2012,,6.4,,,,,WAT007 2000-2022
+EU,PL,Poland,2013,,4,,,,,WAT007 2000-2022
+EU,PL,Poland,2014,,3.2,,,,,WAT007 2000-2022
+EU,PL,Poland,2015,,3.9,,,,,WAT007 2000-2022
+EU,PL,Poland,2016,,3.6,,,,,WAT007 2000-2022
+EU,PL,Poland,2017,,2.9,,,,,WAT007 2000-2022
+EU,PL,Poland,2018,,1.5,,,,,WAT007 2000-2022
+EU,PL,Poland,2019,,4.8,,,,,WAT007 2000-2022
+EU,PL,Poland,2020,,2.4,,,,,WAT007 2000-2022
+EU,PL,Poland,2021,,0.3,,,,,WAT007 2000-2022
+EU,PL,Poland,2022,,2.2,,,,,WAT007 2000-2022
+EU,PL,Poland,2023,,1.1,,,,,ESTAT env_wat_a
+

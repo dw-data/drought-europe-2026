@@ -1,0 +1,121 @@
+Downloaded from: https://www.eea.europa.eu/en/analysis/indicators/water-abstraction-by-source-and/water-abstraction-by-economic-sector
+
+Publisher ,European Environment Agency,EEA
+
+Sources ,https://www.eea.europa.eu/en/datahub/datahubitem-view/a4324714-784a-4763-b8b9-b8939ead87fe?activeAccordion=1092906,European Environment Agency (EEA),"Waterbase - Water Quantity, 2023"
+ ,https://ec.europa.eu/eurostat/databrowser/view/env_wat_abs/default/table?lang=en&category=env.env_wat.env_nwat,Eurostat - Statistical Office of the European Union (ESTAT),Annual freshwater abstraction by source and sector
+
+Geographical coverage ,"Cyprus, Portugal, Spain, Malta, Denmark, Iceland, Switzerland, Sweden, Netherlands, Austria, Belgium, Germany, Luxembourg, Ireland, Türkiye, France, Liechtenstein, Slovakia, Czechia, Norway, Italy, Slovenia, Montenegro, Croatia, Bosnia and Herzegovina, Greece, Estonia, Latvia, Lithuania, Serbia, Finland, North Macedonia, Hungary, Bulgaria, Albania, Poland, Romania, Kosovo (UNSCR 1244/99)"
+
+Temporal coverage ,"2000, 2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023"
+
+EIONET,countryCode,Country,phenomenonTimePeriod_year,Agriculture_Million m3,Construction_Million m3,Electricity cooling_Million m3,Manufacturing_Million m3,Mining and Quarrying_Million m3,Public water supply_Million m3,dataSource
+
+EU,EL,Greece,2000,9067.2,,,,,,WAT007 2000-2022
+EU,EL,Greece,2001,8940.9,,,,,,WAT007 2000-2022
+EU,EL,Greece,2002,8419.8,,,,,,WAT007 2000-2022
+EU,EL,Greece,2003,8532.1,,,,,,WAT007 2000-2022
+EU,EL,Greece,2004,8620.6,,,,,,WAT007 2000-2022
+EU,EL,Greece,2005,8699.5,,,,,,WAT007 2000-2022
+EU,EL,Greece,2006,8455.3,,,,,,WAT007 2000-2022
+EU,EL,Greece,2007,8458,,,,,,WAT007 2000-2022
+EU,EL,Greece,2008,8483,,,,,,WAT007 2000-2022
+EU,EL,Greece,2009,8445,,,,,,WAT007 2000-2022
+EU,EL,Greece,2010,8409,,,,,,WAT007 2000-2022
+EU,EL,Greece,2011,8282.5,,,,,,WAT007 2000-2022
+EU,EL,Greece,2012,8263.6,,,,,,WAT007 2000-2022
+EU,EL,Greece,2013,8216.4,,,,,,WAT007 2000-2022
+EU,EL,Greece,2014,8169.2,,,,,,WAT007 2000-2022
+EU,EL,Greece,2015,8122,,,,,,WAT007 2000-2022
+EU,EL,Greece,2016,8107.1,,,,,,WAT007 2000-2022
+EU,EL,Greece,2017,8027.6,,,,,,WAT007 2000-2022
+EU,EL,Greece,2018,7980.4,,,,,,WAT007 2000-2022
+EU,EL,Greece,2019,7933.2,,,,,,WAT007 2000-2022
+EU,EL,Greece,2020,7886,,,,,,WAT007 2000-2022
+EU,EL,Greece,2021,7838.7,,,,,,WAT007 2000-2022
+EU,EL,Greece,2022,7838.7,,,,,,WAT007 2000-2022
+EU,EL,Greece,2023,7140.9,,,,,,ESTAT env_wat_a
+EU,EL,Greece,2000,,,,,62,,WAT007 2000-2022
+EU,EL,Greece,2001,,,,,73,,WAT007 2000-2022
+EU,EL,Greece,2002,,,,,73,,WAT007 2000-2022
+EU,EL,Greece,2003,,,,,76.5,,WAT007 2000-2022
+EU,EL,Greece,2004,,,,,86,,WAT007 2000-2022
+EU,EL,Greece,2005,,,,,86,,WAT007 2000-2022
+EU,EL,Greece,2006,,,,,79,,WAT007 2000-2022
+EU,EL,Greece,2007,,,,,67,,WAT007 2000-2022
+EU,EL,Greece,2008,,,,,0,,WAT007 2000-2022
+EU,EL,Greece,2009,,,,,0,,WAT007 2000-2022
+EU,EL,Greece,2010,,,,,23,,WAT007 2000-2022
+EU,EL,Greece,2000,,,,117.2,,,WAT007 2000-2022
+EU,EL,Greece,2001,,,,116.4,,,WAT007 2000-2022
+EU,EL,Greece,2002,,,,70.9,,,WAT007 2000-2022
+EU,EL,Greece,2003,,,,158.1,,,WAT007 2000-2022
+EU,EL,Greece,2004,,,,160.3,,,WAT007 2000-2022
+EU,EL,Greece,2005,,,,160.1,,,WAT007 2000-2022
+EU,EL,Greece,2006,,,,162.8,,,WAT007 2000-2022
+EU,EL,Greece,2007,,,,233.7,,,WAT007 2000-2022
+EU,EL,Greece,2008,,,,221.7,,,WAT007 2000-2022
+EU,EL,Greece,2009,,,,188.8,,,WAT007 2000-2022
+EU,EL,Greece,2010,,,,137.2,,,WAT007 2000-2022
+EU,EL,Greece,2011,,,,126,,,WAT007 2000-2022
+EU,EL,Greece,2012,,,,126,,,WAT007 2000-2022
+EU,EL,Greece,2013,,,,126,,,WAT007 2000-2022
+EU,EL,Greece,2014,,,,126,,,WAT007 2000-2022
+EU,EL,Greece,2015,,,,126,,,WAT007 2000-2022
+EU,EL,Greece,2016,,,,180.4,,,WAT007 2000-2022
+EU,EL,Greece,2017,,,,180.4,,,WAT007 2000-2022
+EU,EL,Greece,2018,,,,180.4,,,WAT007 2000-2022
+EU,EL,Greece,2019,,,,180.4,,,WAT007 2000-2022
+EU,EL,Greece,2020,,,,180.4,,,WAT007 2000-2022
+EU,EL,Greece,2021,,,,180.4,,,WAT007 2000-2022
+EU,EL,Greece,2022,,,,180.4,,,WAT007 2000-2022
+EU,EL,Greece,2023,,,,198.4,,,ESTAT env_wat_a
+EU,EL,Greece,2000,,,170.9,,,,WAT007 2000-2022
+EU,EL,Greece,2001,,,170.5,,,,WAT007 2000-2022
+EU,EL,Greece,2002,,,173.3,,,,WAT007 2000-2022
+EU,EL,Greece,2003,,,185.6,,,,WAT007 2000-2022
+EU,EL,Greece,2004,,,188.3,,,,WAT007 2000-2022
+EU,EL,Greece,2005,,,190.5,,,,WAT007 2000-2022
+EU,EL,Greece,2006,,,192.9,,,,WAT007 2000-2022
+EU,EL,Greece,2007,,,100.4,,,,WAT007 2000-2022
+EU,EL,Greece,2008,,,116.5,,,,WAT007 2000-2022
+EU,EL,Greece,2009,,,115.8,,,,WAT007 2000-2022
+EU,EL,Greece,2010,,,87.9,,,,WAT007 2000-2022
+EU,EL,Greece,2011,,,139.9,,,,EEA estimate based on ESTAT Ind_peh and Ind_pehcf
+EU,EL,Greece,2012,,,142.2,,,,EEA estimate based on ESTAT Ind_peh and Ind_pehcf
+EU,EL,Greece,2013,,,128.1,,,,EEA estimate based on ESTAT Ind_peh and Ind_pehcf
+EU,EL,Greece,2014,,,106.9,,,,EEA estimate based on ESTAT Ind_peh and Ind_pehcf
+EU,EL,Greece,2015,,,114.1,,,,EEA estimate based on ESTAT Ind_peh and Ind_pehcf
+EU,EL,Greece,2016,,,123.8,,,,EEA estimate based on ESTAT Ind_peh and Ind_pehcf
+EU,EL,Greece,2017,,,127.3,,,,EEA estimate based on ESTAT Ind_peh and Ind_pehcf
+EU,EL,Greece,2018,,,120.1,,,,EEA estimate based on ESTAT Ind_peh and Ind_pehcf
+EU,EL,Greece,2019,,,107.4,,,,EEA estimate based on ESTAT Ind_peh and Ind_pehcf
+EU,EL,Greece,2020,,,109.6,,,,EEA estimate based on ESTAT Ind_peh and Ind_pehcf
+EU,EL,Greece,2021,,,128.8,,,,EEA estimate based on ESTAT Ind_peh and Ind_pehcf
+EU,EL,Greece,2022,,,120.5,,,,EEA estimate based on ESTAT Ind_peh and Ind_pehcf
+EU,EL,Greece,2023,,,114.2,,,,EEA estimate based on ESTAT Ind_peh and Ind_pehcf
+EU,EL,Greece,2000,,,,,,795.3,WAT007 2000-2022
+EU,EL,Greece,2001,,,,,,759.9,WAT007 2000-2022
+EU,EL,Greece,2002,,,,,,766.6,WAT007 2000-2022
+EU,EL,Greece,2003,,,,,,847.2,WAT007 2000-2022
+EU,EL,Greece,2004,,,,,,869.7,WAT007 2000-2022
+EU,EL,Greece,2005,,,,,,868.5,WAT007 2000-2022
+EU,EL,Greece,2006,,,,,,912.9,WAT007 2000-2022
+EU,EL,Greece,2007,,,,,,846.3,WAT007 2000-2022
+EU,EL,Greece,2008,,,,,,1085.4,WAT007 2000-2022
+EU,EL,Greece,2009,,,,,,1116.4,WAT007 2000-2022
+EU,EL,Greece,2010,,,,,,1146.5,WAT007 2000-2022
+EU,EL,Greece,2011,,,,,,1418.4,WAT007 2000-2022
+EU,EL,Greece,2012,,,,,,1418.4,WAT007 2000-2022
+EU,EL,Greece,2013,,,,,,1418.4,WAT007 2000-2022
+EU,EL,Greece,2014,,,,,,1418.4,WAT007 2000-2022
+EU,EL,Greece,2015,,,,,,1418.4,WAT007 2000-2022
+EU,EL,Greece,2016,,,,,,1687.1,WAT007 2000-2022
+EU,EL,Greece,2017,,,,,,1687.1,WAT007 2000-2022
+EU,EL,Greece,2018,,,,,,1687.1,WAT007 2000-2022
+EU,EL,Greece,2019,,,,,,1687.1,WAT007 2000-2022
+EU,EL,Greece,2020,,,,,,1687.1,WAT007 2000-2022
+EU,EL,Greece,2021,,,,,,1687.1,WAT007 2000-2022
+EU,EL,Greece,2022,,,,,,1687.1,WAT007 2000-2022
+EU,EL,Greece,2023,,,,,,1345.9,ESTAT env_wat_a
+

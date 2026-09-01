@@ -1,0 +1,256 @@
+---
+title: "Europe drought 2026"
+output: github_document
+editor_options: 
+  markdown: 
+    wrap: 72
+---
+
+# Introduction
+
+xxx
+
+*In this repository, you will find the methodology, data and code behind
+the stories that came out of this analysis.*
+
+**Read the full story here:** [English](https://www.dw.com/a-78577712)
+
+**Story by:** [Kira
+Schacht](https://www.dw.com/en/kira-schacht/person-46893544)
+
+- `analysis.Rmd` is the main file that contains the R code for the
+  analysis
+- `data/...` contains the raw data files used in the analysis, as well
+  as the output data
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE, warning = FALSE, message = FALSE)
+
+needs(eurostat, tidyverse)
+```
+
+# Read Data
+
+## eurostat
+
+We use the following eurostat datasets:
+
+- [env_wat_cat](https://ec.europa.eu/eurostat/databrowser/view/env_wat_cat/default/table?lang=en&category=env.env_wat.env_nwat):
+  Water use by supply category and economical sector, latest 10 years
+- [demo_gind](https://ec.europa.eu/eurostat/databrowser/view/demo_gind/default/table?lang=en):
+  Annual average population, since 2000
+
+```{r}
+wat_cat = get_eurostat("env_wat_cat",
+                       filters = list(lastTimePeriod = 10),
+                       type = "code", stringsAsFactors = TRUE)
+
+pop = get_eurostat("demo_gind",
+                   filters = list(sinceTimePeriod = 2000,
+                                  indic_de = "AVG"),
+                   type = "code",stringsAsFactors = TRUE) %>% select(3:5)
+
+```
+
+## EEA data
+
+In addition, the dataset [EEA: Water abstraction by economic sector,
+2000-2023](https://www.eea.europa.eu/en/analysis/indicators/water-abstraction-by-source-and/water-abstraction-by-economic-sector?activeTab=658e2886-cfbf-4c2f-a603-061e1627a515)
+offers more complete figures on water use by sector for 37 European
+countries, including the 27 current EU member states.
+
+We exported each country's dataset as a csv file on August 26, 2026.
+
+It contains water abstraction in million m3 of water per year by sector,
+divided into:
+
+- "Agriculture" (NACE Section A)
+- "Manufacturing" (Section C)
+- "Public water supply" (Section E)
+- "Electricity cooling" (Section D)
+- "Others" (contains "Mining and Quarrying", "Construction", Sections B
+  and F)
+
+The categories sum to the total water abstraction for each country.
+
+```{r}
+#list of data files for each country
+f = list.files("data/raw/eea", full.names = TRUE)
+
+#read all csv files
+eea = lapply(f, read.csv, skip = 11,
+             stringsAsFactors = TRUE) %>% 
+  #merge together
+  bind_rows %>% 
+  select(-dataSource) %>% 
+  #convert sectors to rows
+  pivot_longer(cols = c(5:10), names_to = "var",
+               values_to = "values") %>% 
+  filter(!is.na(values)) %>% 
+  #simplify column names
+  rename(group = EIONET,
+         code = countryCode,
+         country = Country,
+         year = phenomenonTimePeriod_year) %>%
+  #fix sector names and group small sectors together
+  mutate(var = gsub("_Million.m3", "", var),
+         var = ifelse(var %in%  c("Mining.and.Quarrying","Construction"), "Others", var)) %>% 
+  #sum up values for grouped sectors
+  group_by(group, code, country, year, var) %>%
+  summarize(values = sum(values)) %>%
+  #add population data
+  left_join(pop %>%
+              mutate(time = year(time)) %>%
+              rename(pop = values),
+            by = c("code" = "geo", "year" = "time")) %>% 
+  #values in liters per person
+  mutate(values_pp = values * 10^6 / pop * 1000 / 365,
+         #add regions based on EEA report, with additional countries added to matching regions, p. 16
+         region = case_when(
+           code %in% c("BG", "CZ", "HU", "PL", "RO", "SK","RS","BA","AL","MK","ME") ~"Eastern Europe",
+           code %in% c("DK", "EE", "FI", "IE", "LT", "LV", "SE","NO") ~"Northern Europe",
+           code %in% c("CY", "ES", "EL", "HR", "IT", "MT", "PT", "SI","TR") ~"Southern Europe",
+           code %in% c("AT", "BE", "DE", "FR", "LU", "NL") ~"Western Europe",
+         TRUE ~ "Others"))
+
+rm(f)
+```
+
+# Analysis
+
+## Water use per sector
+
+### Calculate households share of public water supply
+
+The dataset provided by the EEA does not include households as a
+separate category, but the eurostat data does have separate household
+water use available for some countries.
+
+Where possible, we will extract the share of public water supply used by
+households from the eurostat dataset for the latest available year and
+apply it to the EEA data:
+
+`EP_HH / TOTAL_HH = "Households" / "All NACE activities plus households"`
+
+```{r}
+#households share of public water supply
+hh_share = wat_cat %>% 
+  select(-freq, -unit) %>% 
+  #filter for household and total public water supply use
+  filter(!is.na(values),
+         nace_r2 %in% c("EP_HH","TOTAL_HH"),
+         wat_proc == "PWS") %>%
+  group_by(wat_proc, geo, nace_r2) %>%
+  #get most recent available year for each country
+  slice_max(time) %>% ungroup %>% 
+  #calculate shares
+  select(-time) %>% 
+  pivot_wider(names_from = nace_r2, values_from = values) %>%
+  mutate(geo, share = EP_HH/TOTAL_HH, .keep = "none")
+
+hh_share %>% knitr::kable()
+```
+### Water use per sector for 2023
+
+#### EU total
+
+calculate shares for each sector across all eu countries
+
+```{r}
+eea_total = eea %>% ungroup %>% 
+  filter(year == "2023", group == "EU", !is.na(pop)) %>%
+  #total population
+  mutate(pop = pop %>% unique %>% sum) %>% 
+  #relative values
+  group_by(var, pop) %>% 
+  summarise(values_pp = sum(values) * 10^6 / min(pop) * 1000 / 365) %>% 
+  mutate(region = "Average", country = "EU")
+
+eea_total %>% select(1,3) %>% knitr::kable()
+```
+
+#### Per country
+
+output see `data/processed/eea_countries.csv`
+
+```{r}
+
+eea_countries = eea %>% 
+  filter(year == "2023") %>% 
+  select(-values) %>% 
+  bind_rows(eea_total) %>%
+  pivot_wider(names_from = var, values_from = values_pp) %>%
+  arrange(desc(pop)) %>%
+  #filter columns where any except for "Others" category is missing
+  relocate(Others, .after = last_col()) %>%
+  filter(if_all(pop:Public.water.supply ,
+                ~ !is.na(.))) %>% 
+  #append household share of public water supply
+  left_join(hh_share, by = c("code" = "geo")) %>% 
+  mutate(households = Public.water.supply * share,
+         Public.water.supply = ifelse(is.na(households), Public.water.supply, Public.water.supply - households),
+         #make label pretty for datawrapper
+         label = paste0(country, " :", code, ":") %>% 
+           gsub(":EL:",":GR:",.)) %>% 
+  select(-share) %>% 
+  relocate(Others, .after = "Manufacturing") %>% 
+  mutate(total = sum(Public.water.supply, Others, Manufacturing, Agriculture, Electricity.cooling, households, na.rm = T),
+         #sort regions by average water use per country
+         region = factor(region, levels = c("Average","Southern Europe","Eastern Europe","Western Europe","Northern Europe"))) %>% 
+  arrange(region, desc(total))
+
+write.csv(eea_countries, "data/processed/eea_countries.csv",
+            row.names = FALSE, na = "")
+```
+
+## Total possible water savings in the EU
+
+The EEA report [Contributions of water saving to a climate resilient
+Europe (ETC BE Report
+2025/1)](www.eionet.europa.eu/etcs/etc-be/products/etc-be-products/etc-be-report-2025-1-contributions-of-water-saving-to-a-climate-resilient-europe)
+analyzes potential water savings for EU countries in each sector.
+
+See this table on page 10:
+
+![](eea_report_savings.png)
+
+We'll use this table to calculate and chart the potential savings for
+each sector in absolute terms:
+
+```{r}
+
+eea_savings = eea_total %>% ungroup %>% 
+  mutate(percent_low = c(.05,.45,.30,NA,.20),
+         percent_high = c(.20,.95,.50,NA,.50)) %>% 
+  mutate(saving_low = values_pp * (1-percent_low),
+         saving_high = values_pp * (1-percent_high)) %>% 
+  select(-pop, -region, -country)
+  
+write.csv(eea_savings, "data/processed/eea_savings.csv",
+          row.names = FALSE, na = "")
+
+eea_savings %>% knitr::kable()
+
+```
+
+##Water use in the EU over time
+
+output see `data/processed/eea_time.csv`
+
+```{r}
+eea_time = eea %>%
+  filter(group == "EU") %>%
+  group_by(year) %>% 
+  #total population each year
+  mutate(pop = pop %>% unique %>% sum) %>% 
+  #relative values
+  group_by(var, year) %>% 
+  summarise(values_pp = sum(values) * 10^6 / unique(pop) * 1000 / 365) %>% 
+  pivot_wider(names_from = var, values_from = values_pp) %>% 
+  #reorder columns
+  select(year, Public.water.supply, Others,Manufacturing,Agriculture,
+         Electricity.cooling)
+
+write.csv(eea_time, "data/processed/eea_time.csv",
+          row.names = FALSE, na = "")
+```

@@ -1,0 +1,134 @@
+Downloaded from: https://www.eea.europa.eu/en/analysis/indicators/water-abstraction-by-source-and/water-abstraction-by-economic-sector
+
+Publisher ,European Environment Agency,EEA
+
+Sources ,https://www.eea.europa.eu/en/datahub/datahubitem-view/a4324714-784a-4763-b8b9-b8939ead87fe?activeAccordion=1092906,European Environment Agency (EEA),"Waterbase - Water Quantity, 2023"
+ ,https://ec.europa.eu/eurostat/databrowser/view/env_wat_abs/default/table?lang=en&category=env.env_wat.env_nwat,Eurostat - Statistical Office of the European Union (ESTAT),Annual freshwater abstraction by source and sector
+
+Geographical coverage ,"Cyprus, Portugal, Spain, Malta, Denmark, Iceland, Switzerland, Sweden, Netherlands, Austria, Belgium, Germany, Luxembourg, Ireland, Türkiye, France, Liechtenstein, Slovakia, Czechia, Norway, Italy, Slovenia, Montenegro, Croatia, Bosnia and Herzegovina, Greece, Estonia, Latvia, Lithuania, Serbia, Finland, North Macedonia, Hungary, Bulgaria, Albania, Poland, Romania, Kosovo (UNSCR 1244/99)"
+
+Temporal coverage ,"2000, 2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023"
+
+EIONET,countryCode,Country,phenomenonTimePeriod_year,Agriculture_Million m3,Construction_Million m3,Electricity cooling_Million m3,Manufacturing_Million m3,Mining and Quarrying_Million m3,Public water supply_Million m3,dataSource
+
+Non-EU,TR,Türkiye,2000,32907,,,,,,WAT007 2000-2022
+Non-EU,TR,Türkiye,2001,29281,,,,,,WAT007 2000-2022
+Non-EU,TR,Türkiye,2002,32911,,,,,,WAT007 2000-2022
+Non-EU,TR,Türkiye,2003,33544,,,,,,WAT007 2000-2022
+Non-EU,TR,Türkiye,2004,37273,,,,,,WAT007 2000-2022
+Non-EU,TR,Türkiye,2005,37049,,,,,,WAT007 2000-2022
+Non-EU,TR,Türkiye,2006,35925,,,,,,WAT007 2000-2022
+Non-EU,TR,Türkiye,2007,31809,,,,,,WAT007 2000-2022
+Non-EU,TR,Türkiye,2008,33768,,,,,,WAT007 2000-2022
+Non-EU,TR,Türkiye,2009,36907,,,,,,WAT007 2000-2022
+Non-EU,TR,Türkiye,2010,38146,,,,,,WAT007 2000-2022
+Non-EU,TR,Türkiye,2011,40888.7,,,,,,WAT007 2000-2022
+Non-EU,TR,Türkiye,2012,41547,,,,,,WAT007 2000-2022
+Non-EU,TR,Türkiye,2013,43489,,,,,,WAT007 2000-2022
+Non-EU,TR,Türkiye,2014,42992.7,,,,,,WAT007 2000-2022
+Non-EU,TR,Türkiye,2015,48293.4,,,,,,WAT007 2000-2022
+Non-EU,TR,Türkiye,2016,50807,,,,,,WAT007 2000-2022
+Non-EU,TR,Türkiye,2017,50046,,,,,,WAT007 2000-2022
+Non-EU,TR,Türkiye,2018,51734.8,,,,,,WAT007 2000-2022
+Non-EU,TR,Türkiye,2019,54272.9,,,,,,WAT007 2000-2022
+Non-EU,TR,Türkiye,2020,54176.4,,,,,,WAT007 2000-2022
+Non-EU,TR,Türkiye,2021,53142.2,,,,,,WAT007 2000-2022
+Non-EU,TR,Türkiye,2022,53863.8,,,,,,WAT007 2000-2022
+Non-EU,TR,Türkiye,2023,54609.8,,,,,,ESTAT env_wat_a
+Non-EU,TR,Türkiye,2000,,,,,0,,WAT007 2000-2022
+Non-EU,TR,Türkiye,2001,,,,,0,,WAT007 2000-2022
+Non-EU,TR,Türkiye,2002,,,,,0,,WAT007 2000-2022
+Non-EU,TR,Türkiye,2003,,,,,0,,WAT007 2000-2022
+Non-EU,TR,Türkiye,2004,,,,,0,,WAT007 2000-2022
+Non-EU,TR,Türkiye,2005,,,,,0,,WAT007 2000-2022
+Non-EU,TR,Türkiye,2006,,,,,0,,WAT007 2000-2022
+Non-EU,TR,Türkiye,2007,,,,,0,,WAT007 2000-2022
+Non-EU,TR,Türkiye,2008,,,,,0,,WAT007 2000-2022
+Non-EU,TR,Türkiye,2009,,,,,0,,WAT007 2000-2022
+Non-EU,TR,Türkiye,2010,,,,,54.2,,WAT007 2000-2022
+Non-EU,TR,Türkiye,2011,,,,,0,,WAT007 2000-2022
+Non-EU,TR,Türkiye,2012,,,,,110,,WAT007 2000-2022
+Non-EU,TR,Türkiye,2013,,,,,0,,WAT007 2000-2022
+Non-EU,TR,Türkiye,2014,,,,,156.1,,WAT007 2000-2022
+Non-EU,TR,Türkiye,2015,,,,,0,,WAT007 2000-2022
+Non-EU,TR,Türkiye,2016,,,,,185,,WAT007 2000-2022
+Non-EU,TR,Türkiye,2017,,,,,0,,WAT007 2000-2022
+Non-EU,TR,Türkiye,2018,,,,,193,,WAT007 2000-2022
+Non-EU,TR,Türkiye,2019,,,,,0,,WAT007 2000-2022
+Non-EU,TR,Türkiye,2020,,,,,164.8,,WAT007 2000-2022
+Non-EU,TR,Türkiye,2021,,,,,164.8,,Same value as 2020
+Non-EU,TR,Türkiye,2022,,,,,177,,WAT007 2000-2022
+Non-EU,TR,Türkiye,2023,,,,,177,,Same value as 2022
+Non-EU,TR,Türkiye,2000,,,,809.4,,,WAT007 2000-2022
+Non-EU,TR,Türkiye,2001,,,,1424.8,,,WAT007 2000-2022
+Non-EU,TR,Türkiye,2002,,,,1506.9,,,WAT007 2000-2022
+Non-EU,TR,Türkiye,2003,,,,1593.6,,,WAT007 2000-2022
+Non-EU,TR,Türkiye,2004,,,,516.8,,,WAT007 2000-2022
+Non-EU,TR,Türkiye,2005,,,,1427.5,,,WAT007 2000-2022
+Non-EU,TR,Türkiye,2006,,,,1517.9,,,WAT007 2000-2022
+Non-EU,TR,Türkiye,2007,,,,1636.6,,,WAT007 2000-2022
+Non-EU,TR,Türkiye,2008,,,,658,,,WAT007 2000-2022
+Non-EU,TR,Türkiye,2009,,,,1204,,,WAT007 2000-2022
+Non-EU,TR,Türkiye,2010,,,,809.9,,,WAT007 2000-2022
+Non-EU,TR,Türkiye,2011,,,,1771.7,,,WAT007 2000-2022
+Non-EU,TR,Türkiye,2012,,,,619.1,,,WAT007 2000-2022
+Non-EU,TR,Türkiye,2013,,,,1938.4,,,WAT007 2000-2022
+Non-EU,TR,Türkiye,2014,,,,680.2,,,WAT007 2000-2022
+Non-EU,TR,Türkiye,2015,,,,2508,,,WAT007 2000-2022
+Non-EU,TR,Türkiye,2016,,,,724.8,,,WAT007 2000-2022
+Non-EU,TR,Türkiye,2017,,,,725,,,WAT007 2000-2022
+Non-EU,TR,Türkiye,2018,,,,777.7,,,WAT007 2000-2022
+Non-EU,TR,Türkiye,2019,,,,772.3,,,WAT007 2000-2022
+Non-EU,TR,Türkiye,2020,,,,630.7,,,WAT007 2000-2022
+Non-EU,TR,Türkiye,2021,,,,630.7,,,Same value as 2020
+Non-EU,TR,Türkiye,2022,,,,717.8,,,WAT007 2000-2022
+Non-EU,TR,Türkiye,2023,,,,717.8,,,Same value as 2022
+Non-EU,TR,Türkiye,2000,,,78.6,,,,WAT007 2000-2022
+Non-EU,TR,Türkiye,2001,,,84.8,,,,WAT007 2000-2022
+Non-EU,TR,Türkiye,2002,,,67.7,,,,WAT007 2000-2022
+Non-EU,TR,Türkiye,2003,,,54,,,,WAT007 2000-2022
+Non-EU,TR,Türkiye,2004,,,54.1,,,,WAT007 2000-2022
+Non-EU,TR,Türkiye,2005,,,85.7,,,,WAT007 2000-2022
+Non-EU,TR,Türkiye,2006,,,61.7,,,,WAT007 2000-2022
+Non-EU,TR,Türkiye,2007,,,101.4,,,,WAT007 2000-2022
+Non-EU,TR,Türkiye,2008,,,91.6,,,,WAT007 2000-2022
+Non-EU,TR,Türkiye,2009,,,103.2,,,,WAT007 2000-2022
+Non-EU,TR,Türkiye,2010,,,97.8,,,,WAT007 2000-2022
+Non-EU,TR,Türkiye,2011,,,121.5,,,,WAT007 2000-2022
+Non-EU,TR,Türkiye,2012,,,88.3,,,,WAT007 2000-2022
+Non-EU,TR,Türkiye,2013,,,127.2,,,,WAT007 2000-2022
+Non-EU,TR,Türkiye,2014,,,88.4,,,,WAT007 2000-2022
+Non-EU,TR,Türkiye,2015,,,138.6,,,,WAT007 2000-2022
+Non-EU,TR,Türkiye,2016,,,83.5,,,,WAT007 2000-2022
+Non-EU,TR,Türkiye,2017,,,68.5,,,,WAT007 2000-2022
+Non-EU,TR,Türkiye,2018,,,83.1,,,,WAT007 2000-2022
+Non-EU,TR,Türkiye,2019,,,120.5,,,,WAT007 2000-2022
+Non-EU,TR,Türkiye,2020,,,66.2,,,,WAT007 2000-2022
+Non-EU,TR,Türkiye,2021,,,127.5,,,,WAT007 2000-2022
+Non-EU,TR,Türkiye,2022,,,66.1,,,,WAT007 2000-2022
+Non-EU,TR,Türkiye,2023,,,126.6,,,,EEA estimate based on ESTAT Ind_peh and Ind_pehcf
+Non-EU,TR,Türkiye,2000,,,,,,4453.2,WAT007 2000-2022
+Non-EU,TR,Türkiye,2001,,,,,,4664.5,WAT007 2000-2022
+Non-EU,TR,Türkiye,2002,,,,,,4813.1,WAT007 2000-2022
+Non-EU,TR,Türkiye,2003,,,,,,4918.5,WAT007 2000-2022
+Non-EU,TR,Türkiye,2004,,,,,,4954.3,WAT007 2000-2022
+Non-EU,TR,Türkiye,2005,,,,,,5167.8,WAT007 2000-2022
+Non-EU,TR,Türkiye,2006,,,,,,5163.5,WAT007 2000-2022
+Non-EU,TR,Türkiye,2007,,,,,,5125.7,WAT007 2000-2022
+Non-EU,TR,Türkiye,2008,,,,,,5768.1,WAT007 2000-2022
+Non-EU,TR,Türkiye,2009,,,,,,5708.4,WAT007 2000-2022
+Non-EU,TR,Türkiye,2010,,,,,,5791.8,WAT007 2000-2022
+Non-EU,TR,Türkiye,2011,,,,,,5892.3,WAT007 2000-2022
+Non-EU,TR,Türkiye,2012,,,,,,5967.5,WAT007 2000-2022
+Non-EU,TR,Türkiye,2013,,,,,,5695.8,WAT007 2000-2022
+Non-EU,TR,Türkiye,2014,,,,,,5424.1,WAT007 2000-2022
+Non-EU,TR,Türkiye,2015,,,,,,5815.9,WAT007 2000-2022
+Non-EU,TR,Türkiye,2016,,,,,,6207.6,WAT007 2000-2022
+Non-EU,TR,Türkiye,2017,,,,,,6505,WAT007 2000-2022
+Non-EU,TR,Türkiye,2018,,,,,,6584,WAT007 2000-2022
+Non-EU,TR,Türkiye,2019,,,,,,6715.9,WAT007 2000-2022
+Non-EU,TR,Türkiye,2020,,,,,,6906.4,WAT007 2000-2022
+Non-EU,TR,Türkiye,2021,,,,,,6807,WAT007 2000-2022
+Non-EU,TR,Türkiye,2022,,,,,,7204.7,WAT007 2000-2022
+Non-EU,TR,Türkiye,2023,,,,,,6486.6,EEA estimate based on ESTAT_demo_pjan
+

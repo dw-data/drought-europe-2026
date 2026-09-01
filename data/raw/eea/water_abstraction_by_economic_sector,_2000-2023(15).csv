@@ -1,0 +1,128 @@
+Downloaded from: https://www.eea.europa.eu/en/analysis/indicators/water-abstraction-by-source-and/water-abstraction-by-economic-sector
+
+Publisher ,European Environment Agency,EEA
+
+Sources ,https://www.eea.europa.eu/en/datahub/datahubitem-view/a4324714-784a-4763-b8b9-b8939ead87fe?activeAccordion=1092906,European Environment Agency (EEA),"Waterbase - Water Quantity, 2023"
+ ,https://ec.europa.eu/eurostat/databrowser/view/env_wat_abs/default/table?lang=en&category=env.env_wat.env_nwat,Eurostat - Statistical Office of the European Union (ESTAT),Annual freshwater abstraction by source and sector
+
+Geographical coverage ,"Cyprus, Portugal, Spain, Malta, Denmark, Iceland, Switzerland, Sweden, Netherlands, Austria, Belgium, Germany, Luxembourg, Ireland, Türkiye, France, Liechtenstein, Slovakia, Czechia, Norway, Italy, Slovenia, Montenegro, Croatia, Bosnia and Herzegovina, Greece, Estonia, Latvia, Lithuania, Serbia, Finland, North Macedonia, Hungary, Bulgaria, Albania, Poland, Romania, Kosovo (UNSCR 1244/99)"
+
+Temporal coverage ,"2000, 2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023"
+
+EIONET,countryCode,Country,phenomenonTimePeriod_year,Agriculture_Million m3,Construction_Million m3,Electricity cooling_Million m3,Manufacturing_Million m3,Mining and Quarrying_Million m3,Public water supply_Million m3,dataSource
+
+Non-EU,IS,Iceland,2000,166.1,,,,,,WAT007 2000-2022
+Non-EU,IS,Iceland,2001,166.1,,,,,,WAT007 2000-2022
+Non-EU,IS,Iceland,2002,166.1,,,,,,WAT007 2000-2022
+Non-EU,IS,Iceland,2003,166.1,,,,,,WAT007 2000-2022
+Non-EU,IS,Iceland,2004,166.1,,,,,,WAT007 2000-2022
+Non-EU,IS,Iceland,2005,166.1,,,,,,WAT007 2000-2022
+Non-EU,IS,Iceland,2006,96.1,,,,,,WAT007 2000-2022
+Non-EU,IS,Iceland,2007,97.2,,,,,,WAT007 2000-2022
+Non-EU,IS,Iceland,2008,96.9,,,,,,WAT007 2000-2022
+Non-EU,IS,Iceland,2009,95.7,,,,,,WAT007 2000-2022
+Non-EU,IS,Iceland,2010,97,,,,,,WAT007 2000-2022
+Non-EU,IS,Iceland,2011,96,,,,,,WAT007 2000-2022
+Non-EU,IS,Iceland,2012,97.9,,,,,,WAT007 2000-2022
+Non-EU,IS,Iceland,2013,97.7,,,,,,WAT007 2000-2022
+Non-EU,IS,Iceland,2014,97.1,,,,,,WAT007 2000-2022
+Non-EU,IS,Iceland,2015,95.5,,,,,,WAT007 2000-2022
+Non-EU,IS,Iceland,2016,95.1,,,,,,WAT007 2000-2022
+Non-EU,IS,Iceland,2017,95,,,,,,WAT007 2000-2022
+Non-EU,IS,Iceland,2018,95.7,,,,,,WAT007 2000-2022
+Non-EU,IS,Iceland,2019,95.8,,,,,,WAT007 2000-2022
+Non-EU,IS,Iceland,2020,107.2,,,,,,EEA estimate based on ESTAT Utilised Agricultural Area ;WAT007 2000-2022
+Non-EU,IS,Iceland,2021,107.6,,,,,,EEA estimate based on ESTAT Utilised Agricultural Area ;WAT007 2000-2022
+Non-EU,IS,Iceland,2022,107,,,,,,EEA estimate based on ESTAT Utilised Agricultural Area ;WAT007 2000-2022
+Non-EU,IS,Iceland,2023,94.1,,,,,,EEA estimate based on ESTAT Utilised Agricultural Area 
+Non-EU,IS,Iceland,2000,,,,,0,,WAT007 2000-2022
+Non-EU,IS,Iceland,2001,,,,,0,,WAT007 2000-2022
+Non-EU,IS,Iceland,2002,,,,,0,,WAT007 2000-2022
+Non-EU,IS,Iceland,2003,,,,,0,,WAT007 2000-2022
+Non-EU,IS,Iceland,2004,,,,,0,,WAT007 2000-2022
+Non-EU,IS,Iceland,2005,,,,,0,,WAT007 2000-2022
+Non-EU,IS,Iceland,2006,,,,,0,,WAT007 2000-2022
+Non-EU,IS,Iceland,2007,,,,,0,,WAT007 2000-2022
+Non-EU,IS,Iceland,2008,,,,,0,,WAT007 2000-2022
+Non-EU,IS,Iceland,2009,,,,,0,,WAT007 2000-2022
+Non-EU,IS,Iceland,2010,,,,,0,,WAT007 2000-2022
+Non-EU,IS,Iceland,2011,,,,,0,,WAT007 2000-2022
+Non-EU,IS,Iceland,2012,,,,,0,,WAT007 2000-2022
+Non-EU,IS,Iceland,2013,,,,,0,,WAT007 2000-2022
+Non-EU,IS,Iceland,2014,,,,,0,,WAT007 2000-2022
+Non-EU,IS,Iceland,2015,,,,,0,,WAT007 2000-2022
+Non-EU,IS,Iceland,2016,,,,,0,,WAT007 2000-2022
+Non-EU,IS,Iceland,2017,,,,,0,,WAT007 2000-2022
+Non-EU,IS,Iceland,2018,,,,,0,,WAT007 2000-2022
+Non-EU,IS,Iceland,2019,,,,,0,,WAT007 2000-2022
+Non-EU,IS,Iceland,2000,,,,14,,,WAT007 2000-2022
+Non-EU,IS,Iceland,2001,,,,14,,,WAT007 2000-2022
+Non-EU,IS,Iceland,2002,,,,14,,,WAT007 2000-2022
+Non-EU,IS,Iceland,2003,,,,14,,,WAT007 2000-2022
+Non-EU,IS,Iceland,2004,,,,14,,,WAT007 2000-2022
+Non-EU,IS,Iceland,2005,,,,14,,,WAT007 2000-2022
+Non-EU,IS,Iceland,2006,,,,14,,,WAT007 2000-2022
+Non-EU,IS,Iceland,2007,,,,14,,,WAT007 2000-2022
+Non-EU,IS,Iceland,2008,,,,14,,,WAT007 2000-2022
+Non-EU,IS,Iceland,2009,,,,14,,,WAT007 2000-2022
+Non-EU,IS,Iceland,2010,,,,29.1,,,WAT007 2000-2022
+Non-EU,IS,Iceland,2011,,,,10.4,,,WAT007 2000-2022
+Non-EU,IS,Iceland,2012,,,,12,,,WAT007 2000-2022
+Non-EU,IS,Iceland,2013,,,,199.6,,,WAT007 2000-2022
+Non-EU,IS,Iceland,2014,,,,190.8,,,WAT007 2000-2022
+Non-EU,IS,Iceland,2015,,,,140.9,,,WAT007 2000-2022
+Non-EU,IS,Iceland,2016,,,,142.7,,,WAT007 2000-2022
+Non-EU,IS,Iceland,2017,,,,12,,,WAT007 2000-2022
+Non-EU,IS,Iceland,2018,,,,12,,,WAT007 2000-2022
+Non-EU,IS,Iceland,2019,,,,52.7,,,EEA estimate based on ESTAT DEF_DISS_DS-056121;WAT007 2000-2022
+Non-EU,IS,Iceland,2020,,,,53.7,,,WAT007 2000-2022
+Non-EU,IS,Iceland,2021,,,,52.8,,,WAT007 2000-2022
+Non-EU,IS,Iceland,2022,,,,53.8,,,WAT007 2000-2022
+Non-EU,IS,Iceland,2023,,,,55.1,,,EEA estimate based on ESTAT DEF_DISS_DS-056121
+Non-EU,IS,Iceland,2000,,,5,,,,EEA estimate based on ESTAT Ind_peh and Ind_pehcf;WAT007 2000-2022
+Non-EU,IS,Iceland,2001,,,5.2,,,,EEA estimate based on ESTAT Ind_peh and Ind_pehcf;WAT007 2000-2022
+Non-EU,IS,Iceland,2002,,,5.4,,,,EEA estimate based on ESTAT Ind_peh and Ind_pehcf;WAT007 2000-2022
+Non-EU,IS,Iceland,2003,,,5.5,,,,EEA estimate based on ESTAT Ind_peh and Ind_pehcf;WAT007 2000-2022
+Non-EU,IS,Iceland,2004,,,5.5,,,,EEA estimate based on ESTAT Ind_peh and Ind_pehcf;WAT007 2000-2022
+Non-EU,IS,Iceland,2005,,,5.5,,,,EEA estimate based on ESTAT Ind_peh and Ind_pehcf;WAT007 2000-2022
+Non-EU,IS,Iceland,2006,,,6.2,,,,EEA estimate based on ESTAT Ind_peh and Ind_pehcf;WAT007 2000-2022
+Non-EU,IS,Iceland,2007,,,7.7,,,,EEA estimate based on ESTAT Ind_peh and Ind_pehcf;WAT007 2000-2022
+Non-EU,IS,Iceland,2008,,,10.9,,,,EEA estimate based on ESTAT Ind_peh and Ind_pehcf;WAT007 2000-2022
+Non-EU,IS,Iceland,2009,,,11.1,,,,EEA estimate based on ESTAT Ind_peh and Ind_pehcf;WAT007 2000-2022
+Non-EU,IS,Iceland,2010,,,11.4,,,,EEA estimate based on ESTAT Ind_peh and Ind_pehcf;WAT007 2000-2022
+Non-EU,IS,Iceland,2011,,,11.6,,,,EEA estimate based on ESTAT Ind_peh and Ind_pehcf;WAT007 2000-2022
+Non-EU,IS,Iceland,2012,,,11.7,,,,EEA estimate based on ESTAT Ind_peh and Ind_pehcf;WAT007 2000-2022
+Non-EU,IS,Iceland,2013,,,9.7,,,,EEA estimate based on ESTAT Ind_peh and Ind_pehcf;WAT007 2000-2022
+Non-EU,IS,Iceland,2014,,,9.7,,,,EEA estimate based on ESTAT Ind_peh and Ind_pehcf;WAT007 2000-2022
+Non-EU,IS,Iceland,2015,,,10.4,,,,EEA estimate based on ESTAT Ind_peh and Ind_pehcf;WAT007 2000-2022
+Non-EU,IS,Iceland,2016,,,10.2,,,,EEA estimate based on ESTAT Ind_peh and Ind_pehcf;WAT007 2000-2022
+Non-EU,IS,Iceland,2017,,,10.7,,,,EEA estimate based on ESTAT Ind_peh and Ind_pehcf;WAT007 2000-2022
+Non-EU,IS,Iceland,2018,,,10.9,,,,EEA estimate based on ESTAT Ind_peh and Ind_pehcf;WAT007 2000-2022
+Non-EU,IS,Iceland,2019,,,10.6,,,,EEA estimate based on ESTAT Ind_peh and Ind_pehcf;WAT007 2000-2022
+Non-EU,IS,Iceland,2020,,,10.3,,,,WAT007 2000-2022
+Non-EU,IS,Iceland,2021,,,10.8,,,,WAT007 2000-2022
+Non-EU,IS,Iceland,2000,,,,,,77,WAT007 2000-2022
+Non-EU,IS,Iceland,2001,,,,,,78,WAT007 2000-2022
+Non-EU,IS,Iceland,2002,,,,,,79,WAT007 2000-2022
+Non-EU,IS,Iceland,2003,,,,,,79,WAT007 2000-2022
+Non-EU,IS,Iceland,2004,,,,,,79,WAT007 2000-2022
+Non-EU,IS,Iceland,2005,,,,,,79,WAT007 2000-2022
+Non-EU,IS,Iceland,2006,,,,,,94.7,WAT007 2000-2022
+Non-EU,IS,Iceland,2007,,,,,,102.2,WAT007 2000-2022
+Non-EU,IS,Iceland,2008,,,,,,110.5,WAT007 2000-2022
+Non-EU,IS,Iceland,2009,,,,,,119.6,WAT007 2000-2022
+Non-EU,IS,Iceland,2010,,,,,,161.5,WAT007 2000-2022
+Non-EU,IS,Iceland,2011,,,,,,166.3,WAT007 2000-2022
+Non-EU,IS,Iceland,2012,,,,,,162,WAT007 2000-2022
+Non-EU,IS,Iceland,2013,,,,,,170.7,WAT007 2000-2022
+Non-EU,IS,Iceland,2014,,,,,,162.1,WAT007 2000-2022
+Non-EU,IS,Iceland,2015,,,,,,162,WAT007 2000-2022
+Non-EU,IS,Iceland,2016,,,,,,168.5,WAT007 2000-2022
+Non-EU,IS,Iceland,2017,,,,,,171.5,WAT007 2000-2022
+Non-EU,IS,Iceland,2018,,,,,,176.6,WAT007 2000-2022
+Non-EU,IS,Iceland,2019,,,,,,180.9,WAT007 2000-2022
+Non-EU,IS,Iceland,2020,,,,,,147.5,WAT007 2000-2022
+Non-EU,IS,Iceland,2021,,,,,,149.4,WAT007 2000-2022
+Non-EU,IS,Iceland,2022,,,,,,152.4,WAT007 2000-2022
+Non-EU,IS,Iceland,2023,,,,,,157.1,EEA estimate based on ESTAT_demo_pjan
+

@@ -1,0 +1,155 @@
+Downloaded from: https://www.eea.europa.eu/en/analysis/indicators/water-abstraction-by-source-and/water-abstraction-by-economic-sector
+
+Publisher ,European Environment Agency,EEA
+
+Sources ,https://www.eea.europa.eu/en/datahub/datahubitem-view/a4324714-784a-4763-b8b9-b8939ead87fe?activeAccordion=1092906,European Environment Agency (EEA),"Waterbase - Water Quantity, 2023"
+ ,https://ec.europa.eu/eurostat/databrowser/view/env_wat_abs/default/table?lang=en&category=env.env_wat.env_nwat,Eurostat - Statistical Office of the European Union (ESTAT),Annual freshwater abstraction by source and sector
+
+Geographical coverage ,"Cyprus, Portugal, Spain, Malta, Denmark, Iceland, Switzerland, Sweden, Netherlands, Austria, Belgium, Germany, Luxembourg, Ireland, Türkiye, France, Liechtenstein, Slovakia, Czechia, Norway, Italy, Slovenia, Montenegro, Croatia, Bosnia and Herzegovina, Greece, Estonia, Latvia, Lithuania, Serbia, Finland, North Macedonia, Hungary, Bulgaria, Albania, Poland, Romania, Kosovo (UNSCR 1244/99)"
+
+Temporal coverage ,"2000, 2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023"
+
+EIONET,countryCode,Country,phenomenonTimePeriod_year,Agriculture_Million m3,Construction_Million m3,Electricity cooling_Million m3,Manufacturing_Million m3,Mining and Quarrying_Million m3,Public water supply_Million m3,dataSource
+
+EU,NL,Netherlands,2000,42.4,,,,,,WAT007 2000-2022
+EU,NL,Netherlands,2001,53.4,,,,,,WAT007 2000-2022
+EU,NL,Netherlands,2002,52.6,,,,,,WAT007 2000-2022
+EU,NL,Netherlands,2003,199,,,,,,WAT007 2000-2022
+EU,NL,Netherlands,2004,87.6,,,,,,WAT007 2000-2022
+EU,NL,Netherlands,2005,74.8,,,,,,WAT007 2000-2022
+EU,NL,Netherlands,2006,121.9,,,,,,WAT007 2000-2022
+EU,NL,Netherlands,2007,71.9,,,,,,WAT007 2000-2022
+EU,NL,Netherlands,2008,71.7,,,,,,WAT007 2000-2022
+EU,NL,Netherlands,2009,92.9,,,,,,WAT007 2000-2022
+EU,NL,Netherlands,2010,121.9,,,,,,WAT007 2000-2022
+EU,NL,Netherlands,2011,119.5,,,,,,WAT007 2000-2022
+EU,NL,Netherlands,2012,60.2,,,,,,WAT007 2000-2022
+EU,NL,Netherlands,2013,106.9,,,,,,WAT007 2000-2022
+EU,NL,Netherlands,2014,82.7,,,,,,WAT007 2000-2022
+EU,NL,Netherlands,2015,105.9,,,,,,WAT007 2000-2022
+EU,NL,Netherlands,2016,76.5,,,,,,WAT007 2000-2022
+EU,NL,Netherlands,2017,119.7,,,,,,WAT007 2000-2022
+EU,NL,Netherlands,2018,302.1,,,,,,WAT007 2000-2022
+EU,NL,Netherlands,2019,253.4,,,,,,WAT007 2000-2022
+EU,NL,Netherlands,2020,307.2,,,,,,WAT007 2000-2022
+EU,NL,Netherlands,2021,176.7,,,,,,WAT007 2000-2022
+EU,NL,Netherlands,2022,207.1,,,,,,WAT007 2000-2022
+EU,NL,Netherlands,2023,168.6,,,,,,EEA estimate based on ESTAT Utilised Agricultural Area 
+EU,NL,Netherlands,2000,,,,,0,,WAT007 2000-2022
+EU,NL,Netherlands,2001,,,,,0,,WAT007 2000-2022
+EU,NL,Netherlands,2002,,,,,0,,WAT007 2000-2022
+EU,NL,Netherlands,2003,,,,,1.3,,WAT007 2000-2022
+EU,NL,Netherlands,2004,,,,,1.1,,WAT007 2000-2022
+EU,NL,Netherlands,2005,,,,,1,,WAT007 2000-2022
+EU,NL,Netherlands,2006,,,,,1,,WAT007 2000-2022
+EU,NL,Netherlands,2007,,,,,0.9,,WAT007 2000-2022
+EU,NL,Netherlands,2008,,,,,0.9,,WAT007 2000-2022
+EU,NL,Netherlands,2009,,,,,0.9,,WAT007 2000-2022
+EU,NL,Netherlands,2010,,,,,0.8,,WAT007 2000-2022
+EU,NL,Netherlands,2011,,,,,0.9,,WAT007 2000-2022
+EU,NL,Netherlands,2012,,,,,0.8,,WAT007 2000-2022
+EU,NL,Netherlands,2013,,,,,0.8,,WAT007 2000-2022
+EU,NL,Netherlands,2014,,,,,0.8,,WAT007 2000-2022
+EU,NL,Netherlands,2015,,,,,0.8,,WAT007 2000-2022
+EU,NL,Netherlands,2016,,,,,0.8,,WAT007 2000-2022
+EU,NL,Netherlands,2017,,,,,0.8,,WAT007 2000-2022
+EU,NL,Netherlands,2018,,,,,0.9,,WAT007 2000-2022
+EU,NL,Netherlands,2019,,,,,0.1,,WAT007 2000-2022
+EU,NL,Netherlands,2020,,,,,2.7,,WAT007 2000-2022
+EU,NL,Netherlands,2021,,,,,2.8,,WAT007 2000-2022
+EU,NL,Netherlands,2022,,,,,2.9,,ESTAT env_wat_a
+EU,NL,Netherlands,2000,,,,836.6,,,WAT007 2000-2022
+EU,NL,Netherlands,2001,,,,1351.9,,,WAT007 2000-2022
+EU,NL,Netherlands,2002,,,,2183,,,WAT007 2000-2022
+EU,NL,Netherlands,2003,,,,3014,,,WAT007 2000-2022
+EU,NL,Netherlands,2004,,,,3439.3,,,WAT007 2000-2022
+EU,NL,Netherlands,2005,,,,3024.3,,,WAT007 2000-2022
+EU,NL,Netherlands,2006,,,,3031.5,,,WAT007 2000-2022
+EU,NL,Netherlands,2007,,,,3037.6,,,WAT007 2000-2022
+EU,NL,Netherlands,2008,,,,3212.1,,,WAT007 2000-2022
+EU,NL,Netherlands,2009,,,,3572.9,,,WAT007 2000-2022
+EU,NL,Netherlands,2010,,,,2874.6,,,WAT007 2000-2022
+EU,NL,Netherlands,2011,,,,2925.6,,,WAT007 2000-2022
+EU,NL,Netherlands,2012,,,,2971.2,,,WAT007 2000-2022
+EU,NL,Netherlands,2013,,,,2836.7,,,WAT007 2000-2022
+EU,NL,Netherlands,2014,,,,2522.2,,,WAT007 2000-2022
+EU,NL,Netherlands,2015,,,,2225.7,,,WAT007 2000-2022
+EU,NL,Netherlands,2016,,,,2540.7,,,WAT007 2000-2022
+EU,NL,Netherlands,2017,,,,2520.9,,,WAT007 2000-2022
+EU,NL,Netherlands,2018,,,,2458.4,,,WAT007 2000-2022
+EU,NL,Netherlands,2019,,,,2412.8,,,WAT007 2000-2022
+EU,NL,Netherlands,2020,,,,2420.8,,,WAT007 2000-2022
+EU,NL,Netherlands,2021,,,,2615.2,,,WAT007 2000-2022
+EU,NL,Netherlands,2022,,,,3264.5,,,WAT007 2000-2022
+EU,NL,Netherlands,2023,,,,2489.2,,,EEA estimate based on ESTAT DEF_DISS_DS-056121
+EU,NL,Netherlands,2000,,,5280.3,,,,WAT007 2000-2022
+EU,NL,Netherlands,2001,,,6206.4,,,,WAT007 2000-2022
+EU,NL,Netherlands,2002,,,5876.8,,,,WAT007 2000-2022
+EU,NL,Netherlands,2003,,,5547.2,,,,WAT007 2000-2022
+EU,NL,Netherlands,2004,,,6312,,,,WAT007 2000-2022
+EU,NL,Netherlands,2005,,,6667.8,,,,WAT007 2000-2022
+EU,NL,Netherlands,2006,,,6060.1,,,,WAT007 2000-2022
+EU,NL,Netherlands,2007,,,6068.4,,,,WAT007 2000-2022
+EU,NL,Netherlands,2008,,,5696.8,,,,WAT007 2000-2022
+EU,NL,Netherlands,2009,,,6062.2,,,,WAT007 2000-2022
+EU,NL,Netherlands,2010,,,6147.6,,,,WAT007 2000-2022
+EU,NL,Netherlands,2011,,,5360.3,,,,WAT007 2000-2022
+EU,NL,Netherlands,2012,,,5967.4,,,,WAT007 2000-2022
+EU,NL,Netherlands,2013,,,5943.8,,,,WAT007 2000-2022
+EU,NL,Netherlands,2014,,,5096.6,,,,WAT007 2000-2022
+EU,NL,Netherlands,2015,,,4346.3,,,,WAT007 2000-2022
+EU,NL,Netherlands,2016,,,3588.7,,,,WAT007 2000-2022
+EU,NL,Netherlands,2017,,,3586.4,,,,WAT007 2000-2022
+EU,NL,Netherlands,2018,,,3369.9,,,,WAT007 2000-2022
+EU,NL,Netherlands,2019,,,3770.6,,,,WAT007 2000-2022
+EU,NL,Netherlands,2020,,,3520.6,,,,WAT007 2000-2022
+EU,NL,Netherlands,2021,,,3183.3,,,,WAT007 2000-2022
+EU,NL,Netherlands,2022,,,5600.7,,,,WAT007 2000-2022
+EU,NL,Netherlands,2023,,,6517.2,,,,EEA estimate based on ESTAT Ind_peh and Ind_pehcf
+EU,NL,Netherlands,2000,,,,,,1313,WAT007 2000-2022
+EU,NL,Netherlands,2001,,,,,,1303,WAT007 2000-2022
+EU,NL,Netherlands,2002,,,,,,1256,WAT007 2000-2022
+EU,NL,Netherlands,2003,,,,,,1318,WAT007 2000-2022
+EU,NL,Netherlands,2004,,,,,,1277,WAT007 2000-2022
+EU,NL,Netherlands,2005,,,,,,1256,WAT007 2000-2022
+EU,NL,Netherlands,2006,,,,,,1279,WAT007 2000-2022
+EU,NL,Netherlands,2007,,,,,,1248.4,WAT007 2000-2022
+EU,NL,Netherlands,2008,,,,,,1252,WAT007 2000-2022
+EU,NL,Netherlands,2009,,,,,,1235,WAT007 2000-2022
+EU,NL,Netherlands,2010,,,,,,1217.1,WAT007 2000-2022
+EU,NL,Netherlands,2011,,,,,,1229,WAT007 2000-2022
+EU,NL,Netherlands,2012,,,,,,1217.3,WAT007 2000-2022
+EU,NL,Netherlands,2013,,,,,,1221.8,WAT007 2000-2022
+EU,NL,Netherlands,2014,,,,,,1224.1,WAT007 2000-2022
+EU,NL,Netherlands,2015,,,,,,1237.2,WAT007 2000-2022
+EU,NL,Netherlands,2016,,,,,,1260.4,WAT007 2000-2022
+EU,NL,Netherlands,2017,,,,,,1199.4,WAT007 2000-2022
+EU,NL,Netherlands,2018,,,,,,1312.2,WAT007 2000-2022
+EU,NL,Netherlands,2019,,,,,,1302.2,WAT007 2000-2022
+EU,NL,Netherlands,2020,,,,,,1333.5,WAT007 2000-2022
+EU,NL,Netherlands,2021,,,,,,1294.8,WAT007 2000-2022
+EU,NL,Netherlands,2022,,,,,,1335.8,WAT007 2000-2022
+EU,NL,Netherlands,2023,,,,,,1352.6,EEA estimate based on ESTAT_demo_pjan
+EU,NL,Netherlands,2001,,0,,,,,WAT007 2000-2022
+EU,NL,Netherlands,2002,,0,,,,,WAT007 2000-2022
+EU,NL,Netherlands,2003,,0,,,,,WAT007 2000-2022
+EU,NL,Netherlands,2004,,0,,,,,WAT007 2000-2022
+EU,NL,Netherlands,2005,,0,,,,,WAT007 2000-2022
+EU,NL,Netherlands,2006,,0,,,,,WAT007 2000-2022
+EU,NL,Netherlands,2007,,0,,,,,WAT007 2000-2022
+EU,NL,Netherlands,2008,,0,,,,,WAT007 2000-2022
+EU,NL,Netherlands,2009,,0,,,,,WAT007 2000-2022
+EU,NL,Netherlands,2010,,0,,,,,WAT007 2000-2022
+EU,NL,Netherlands,2011,,0,,,,,WAT007 2000-2022
+EU,NL,Netherlands,2012,,0,,,,,WAT007 2000-2022
+EU,NL,Netherlands,2013,,0,,,,,WAT007 2000-2022
+EU,NL,Netherlands,2014,,0,,,,,WAT007 2000-2022
+EU,NL,Netherlands,2015,,0,,,,,WAT007 2000-2022
+EU,NL,Netherlands,2016,,0,,,,,WAT007 2000-2022
+EU,NL,Netherlands,2017,,0,,,,,WAT007 2000-2022
+EU,NL,Netherlands,2018,,0,,,,,WAT007 2000-2022
+EU,NL,Netherlands,2019,,0,,,,,WAT007 2000-2022
+EU,NL,Netherlands,2020,,0,,,,,WAT007 2000-2022
+EU,NL,Netherlands,2021,,0,,,,,WAT007 2000-2022
+EU,NL,Netherlands,2022,,0,,,,,ESTAT env_wat_a
+

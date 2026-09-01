@@ -1,0 +1,133 @@
+Downloaded from: https://www.eea.europa.eu/en/analysis/indicators/water-abstraction-by-source-and/water-abstraction-by-economic-sector
+
+Publisher ,European Environment Agency,EEA
+
+Sources ,https://www.eea.europa.eu/en/datahub/datahubitem-view/a4324714-784a-4763-b8b9-b8939ead87fe?activeAccordion=1092906,European Environment Agency (EEA),"Waterbase - Water Quantity, 2023"
+ ,https://ec.europa.eu/eurostat/databrowser/view/env_wat_abs/default/table?lang=en&category=env.env_wat.env_nwat,Eurostat - Statistical Office of the European Union (ESTAT),Annual freshwater abstraction by source and sector
+
+Geographical coverage ,"Cyprus, Portugal, Spain, Malta, Denmark, Iceland, Switzerland, Sweden, Netherlands, Austria, Belgium, Germany, Luxembourg, Ireland, Türkiye, France, Liechtenstein, Slovakia, Czechia, Norway, Italy, Slovenia, Montenegro, Croatia, Bosnia and Herzegovina, Greece, Estonia, Latvia, Lithuania, Serbia, Finland, North Macedonia, Hungary, Bulgaria, Albania, Poland, Romania, Kosovo (UNSCR 1244/99)"
+
+Temporal coverage ,"2000, 2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023"
+
+EIONET,countryCode,Country,phenomenonTimePeriod_year,Agriculture_Million m3,Construction_Million m3,Electricity cooling_Million m3,Manufacturing_Million m3,Mining and Quarrying_Million m3,Public water supply_Million m3,dataSource
+
+EU,RO,Romania,2000,967,,,,,,WAT007 2000-2022
+EU,RO,Romania,2001,1044,,,,,,WAT007 2000-2022
+EU,RO,Romania,2002,1217,,,,,,WAT007 2000-2022
+EU,RO,Romania,2003,1307,,,,,,WAT007 2000-2022
+EU,RO,Romania,2004,725,,,,,,WAT007 2000-2022
+EU,RO,Romania,2005,518,,,,,,WAT007 2000-2022
+EU,RO,Romania,2006,546,,,,,,WAT007 2000-2022
+EU,RO,Romania,2007,1117,,,,,,WAT007 2000-2022
+EU,RO,Romania,2008,1102,,,,,,WAT007 2000-2022
+EU,RO,Romania,2009,1191,,,,,,WAT007 2000-2022
+EU,RO,Romania,2010,748,,,,,,WAT007 2000-2022
+EU,RO,Romania,2011,973,,,,,,WAT007 2000-2022
+EU,RO,Romania,2012,1102,,,,,,WAT007 2000-2022
+EU,RO,Romania,2013,1142,,,,,,WAT007 2000-2022
+EU,RO,Romania,2014,1102,,,,,,WAT007 2000-2022
+EU,RO,Romania,2015,1297,,,,,,WAT007 2000-2022
+EU,RO,Romania,2016,1250,,,,,,WAT007 2000-2022
+EU,RO,Romania,2017,1497,,,,,,WAT007 2000-2022
+EU,RO,Romania,2018,1344,,,,,,WAT007 2000-2022
+EU,RO,Romania,2019,1591,,,,,,WAT007 2000-2022
+EU,RO,Romania,2020,2287,,,,,,WAT007 2000-2022
+EU,RO,Romania,2021,2490,,,,,,WAT007 2000-2022
+EU,RO,Romania,2022,2184.6,,,,,,WAT007 2000-2022
+EU,RO,Romania,2023,2789,,,,,,ESTAT env_wat_a
+EU,RO,Romania,2000,,,,,0,,WAT007 2000-2022
+EU,RO,Romania,2001,,,,,0,,WAT007 2000-2022
+EU,RO,Romania,2002,,,,,0,,WAT007 2000-2022
+EU,RO,Romania,2003,,,,,0,,WAT007 2000-2022
+EU,RO,Romania,2004,,,,,0,,WAT007 2000-2022
+EU,RO,Romania,2005,,,,,0,,WAT007 2000-2022
+EU,RO,Romania,2006,,,,,0,,WAT007 2000-2022
+EU,RO,Romania,2007,,,,,9,,WAT007 2000-2022
+EU,RO,Romania,2008,,,,,0,,WAT007 2000-2022
+EU,RO,Romania,2009,,,,,0,,WAT007 2000-2022
+EU,RO,Romania,2010,,,,,0,,WAT007 2000-2022
+EU,RO,Romania,2011,,,,,0,,WAT007 2000-2022
+EU,RO,Romania,2012,,,,,0,,WAT007 2000-2022
+EU,RO,Romania,2013,,,,,0,,WAT007 2000-2022
+EU,RO,Romania,2014,,,,,0,,WAT007 2000-2022
+EU,RO,Romania,2015,,,,,0,,WAT007 2000-2022
+EU,RO,Romania,2016,,,,,0,,WAT007 2000-2022
+EU,RO,Romania,2017,,,,,0,,WAT007 2000-2022
+EU,RO,Romania,2018,,,,,0,,WAT007 2000-2022
+EU,RO,Romania,2019,,,,,0,,WAT007 2000-2022
+EU,RO,Romania,2000,,,,1032,,,WAT007 2000-2022
+EU,RO,Romania,2001,,,,916,,,WAT007 2000-2022
+EU,RO,Romania,2002,,,,877,,,WAT007 2000-2022
+EU,RO,Romania,2003,,,,804,,,WAT007 2000-2022
+EU,RO,Romania,2004,,,,742,,,WAT007 2000-2022
+EU,RO,Romania,2005,,,,852,,,WAT007 2000-2022
+EU,RO,Romania,2006,,,,787,,,WAT007 2000-2022
+EU,RO,Romania,2007,,,,775,,,WAT007 2000-2022
+EU,RO,Romania,2008,,,,1067,,,WAT007 2000-2022
+EU,RO,Romania,2009,,,,975,,,WAT007 2000-2022
+EU,RO,Romania,2010,,,,3542,,,WAT007 2000-2022
+EU,RO,Romania,2011,,,,3421,,,WAT007 2000-2022
+EU,RO,Romania,2012,,,,3211,,,WAT007 2000-2022
+EU,RO,Romania,2013,,,,3313,,,WAT007 2000-2022
+EU,RO,Romania,2014,,,,3353,,,WAT007 2000-2022
+EU,RO,Romania,2015,,,,3398,,,WAT007 2000-2022
+EU,RO,Romania,2016,,,,3382,,,WAT007 2000-2022
+EU,RO,Romania,2017,,,,3468,,,WAT007 2000-2022
+EU,RO,Romania,2018,,,,3478.3,,,WAT007 2000-2022
+EU,RO,Romania,2019,,,,3488.7,,,WAT007 2000-2022
+EU,RO,Romania,2020,,,,3499,,,WAT007 2000-2022
+EU,RO,Romania,2021,,,,3540,,,WAT007 2000-2022
+EU,RO,Romania,2022,,,,3462,,,WAT007 2000-2022
+EU,RO,Romania,2023,,,,3504,,,ESTAT env_wat_a
+EU,RO,Romania,2000,,,3356,,,,WAT007 2000-2022
+EU,RO,Romania,2001,,,2918,,,,WAT007 2000-2022
+EU,RO,Romania,2002,,,2917,,,,WAT007 2000-2022
+EU,RO,Romania,2003,,,2390,,,,WAT007 2000-2022
+EU,RO,Romania,2004,,,2615,,,,WAT007 2000-2022
+EU,RO,Romania,2005,,,2237,,,,WAT007 2000-2022
+EU,RO,Romania,2006,,,2443,,,,WAT007 2000-2022
+EU,RO,Romania,2007,,,3496,,,,WAT007 2000-2022
+EU,RO,Romania,2008,,,3485,,,,WAT007 2000-2022
+EU,RO,Romania,2009,,,3185,,,,WAT007 2000-2022
+EU,RO,Romania,2010,,,905,,,,WAT007 2000-2022
+EU,RO,Romania,2011,,,1196,,,,WAT007 2000-2022
+EU,RO,Romania,2012,,,1125,,,,WAT007 2000-2022
+EU,RO,Romania,2013,,,990,,,,WAT007 2000-2022
+EU,RO,Romania,2014,,,805,,,,WAT007 2000-2022
+EU,RO,Romania,2015,,,740,,,,WAT007 2000-2022
+EU,RO,Romania,2016,,,688,,,,WAT007 2000-2022
+EU,RO,Romania,2017,,,756,,,,WAT007 2000-2022
+EU,RO,Romania,2018,,,681.3,,,,WAT007 2000-2022
+EU,RO,Romania,2019,,,606.7,,,,WAT007 2000-2022
+EU,RO,Romania,2020,,,532,,,,WAT007 2000-2022
+EU,RO,Romania,2021,,,566,,,,WAT007 2000-2022
+EU,RO,Romania,2022,,,470,,,,WAT007 2000-2022
+EU,RO,Romania,2023,,,403,,,,ESTAT env_wat_a
+EU,RO,Romania,2000,,,,,,2609,WAT007 2000-2022
+EU,RO,Romania,2001,,,,,,2462,WAT007 2000-2022
+EU,RO,Romania,2002,,,,,,2225,WAT007 2000-2022
+EU,RO,Romania,2003,,,,,,1989,WAT007 2000-2022
+EU,RO,Romania,2004,,,,,,1765,WAT007 2000-2022
+EU,RO,Romania,2005,,,,,,1686,WAT007 2000-2022
+EU,RO,Romania,2006,,,,,,1543,WAT007 2000-2022
+EU,RO,Romania,2007,,,,,,1493,WAT007 2000-2022
+EU,RO,Romania,2008,,,,,,1546,WAT007 2000-2022
+EU,RO,Romania,2009,,,,,,1505,WAT007 2000-2022
+EU,RO,Romania,2010,,,,,,1022,WAT007 2000-2022
+EU,RO,Romania,2011,,,,,,1000,WAT007 2000-2022
+EU,RO,Romania,2012,,,,,,1041,WAT007 2000-2022
+EU,RO,Romania,2013,,,,,,969,WAT007 2000-2022
+EU,RO,Romania,2014,,,,,,1003,WAT007 2000-2022
+EU,RO,Romania,2015,,,,,,1019,WAT007 2000-2022
+EU,RO,Romania,2016,,,,,,1043,WAT007 2000-2022
+EU,RO,Romania,2017,,,,,,1035,WAT007 2000-2022
+EU,RO,Romania,2018,,,,,,1057.7,WAT007 2000-2022
+EU,RO,Romania,2019,,,,,,1067.3,WAT007 2000-2022
+EU,RO,Romania,2020,,,,,,1057,WAT007 2000-2022
+EU,RO,Romania,2021,,,,,,1247,WAT007 2000-2022
+EU,RO,Romania,2022,,,,,,1255,WAT007 2000-2022
+EU,RO,Romania,2023,,,,,,1295,ESTAT env_wat_a
+EU,RO,Romania,2013,,2.8,,,,,WAT007 2000-2022
+EU,RO,Romania,2014,,2.6,,,,,WAT007 2000-2022
+EU,RO,Romania,2015,,1.9,,,,,WAT007 2000-2022
+

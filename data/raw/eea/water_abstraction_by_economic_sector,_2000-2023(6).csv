@@ -1,0 +1,126 @@
+Downloaded from: https://www.eea.europa.eu/en/analysis/indicators/water-abstraction-by-source-and/water-abstraction-by-economic-sector
+
+Publisher ,European Environment Agency,EEA
+
+Sources ,https://www.eea.europa.eu/en/datahub/datahubitem-view/a4324714-784a-4763-b8b9-b8939ead87fe?activeAccordion=1092906,European Environment Agency (EEA),"Waterbase - Water Quantity, 2023"
+ ,https://ec.europa.eu/eurostat/databrowser/view/env_wat_abs/default/table?lang=en&category=env.env_wat.env_nwat,Eurostat - Statistical Office of the European Union (ESTAT),Annual freshwater abstraction by source and sector
+
+Geographical coverage ,"Cyprus, Portugal, Spain, Malta, Denmark, Iceland, Switzerland, Sweden, Netherlands, Austria, Belgium, Germany, Luxembourg, Ireland, Türkiye, France, Liechtenstein, Slovakia, Czechia, Norway, Italy, Slovenia, Montenegro, Croatia, Bosnia and Herzegovina, Greece, Estonia, Latvia, Lithuania, Serbia, Finland, North Macedonia, Hungary, Bulgaria, Albania, Poland, Romania, Kosovo (UNSCR 1244/99)"
+
+Temporal coverage ,"2000, 2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023"
+
+EIONET,countryCode,Country,phenomenonTimePeriod_year,Agriculture_Million m3,Construction_Million m3,Electricity cooling_Million m3,Manufacturing_Million m3,Mining and Quarrying_Million m3,Public water supply_Million m3,dataSource
+
+EU,CY,Cyprus,2000,144.7,,,,,,WAT007 2000-2022
+EU,CY,Cyprus,2001,139.1,,,,,,WAT007 2000-2022
+EU,CY,Cyprus,2002,160.6,,,,,,WAT007 2000-2022
+EU,CY,Cyprus,2003,180.8,,,,,,WAT007 2000-2022
+EU,CY,Cyprus,2004,203.9,,,,,,WAT007 2000-2022
+EU,CY,Cyprus,2005,165.4,,,,,,WAT007 2000-2022
+EU,CY,Cyprus,2006,153.2,,,,,,WAT007 2000-2022
+EU,CY,Cyprus,2007,143,,,,,,WAT007 2000-2022
+EU,CY,Cyprus,2008,111,,,,,,WAT007 2000-2022
+EU,CY,Cyprus,2009,141,,,,,,WAT007 2000-2022
+EU,CY,Cyprus,2010,149.4,,,,,,WAT007 2000-2022
+EU,CY,Cyprus,2011,164.6,,,,,,WAT007 2000-2022
+EU,CY,Cyprus,2012,171,,,,,,WAT007 2000-2022
+EU,CY,Cyprus,2013,167.6,,,,,,WAT007 2000-2022
+EU,CY,Cyprus,2014,148.3,,,,,,WAT007 2000-2022
+EU,CY,Cyprus,2015,165.2,,,,,,WAT007 2000-2022
+EU,CY,Cyprus,2016,170.3,,,,,,WAT007 2000-2022
+EU,CY,Cyprus,2017,167.2,,,,,,WAT007 2000-2022
+EU,CY,Cyprus,2018,157.3,,,,,,WAT007 2000-2022
+EU,CY,Cyprus,2019,147.9,,,,,,WAT007 2000-2022
+EU,CY,Cyprus,2020,156.2,,,,,,WAT007 2000-2022
+EU,CY,Cyprus,2021,163.2,,,,,,WAT007 2000-2022
+EU,CY,Cyprus,2022,161,,,,,,WAT007 2000-2022
+EU,CY,Cyprus,2023,164.6,,,,,,ESTAT env_wat_a
+EU,CY,Cyprus,2000,,,,,0,,WAT007 2000-2022
+EU,CY,Cyprus,2001,,,,,0,,WAT007 2000-2022
+EU,CY,Cyprus,2002,,,,,0,,WAT007 2000-2022
+EU,CY,Cyprus,2003,,,,,0,,WAT007 2000-2022
+EU,CY,Cyprus,2004,,,,,0,,WAT007 2000-2022
+EU,CY,Cyprus,2005,,,,,0,,WAT007 2000-2022
+EU,CY,Cyprus,2006,,,,,0,,WAT007 2000-2022
+EU,CY,Cyprus,2007,,,,,0,,WAT007 2000-2022
+EU,CY,Cyprus,2008,,,,,0,,WAT007 2000-2022
+EU,CY,Cyprus,2009,,,,,0,,WAT007 2000-2022
+EU,CY,Cyprus,2010,,,,,0,,WAT007 2000-2022
+EU,CY,Cyprus,2011,,,,,0,,WAT007 2000-2022
+EU,CY,Cyprus,2012,,,,,0,,WAT007 2000-2022
+EU,CY,Cyprus,2013,,,,,0,,WAT007 2000-2022
+EU,CY,Cyprus,2014,,,,,0,,WAT007 2000-2022
+EU,CY,Cyprus,2015,,,,,0,,WAT007 2000-2022
+EU,CY,Cyprus,2016,,,,,0,,WAT007 2000-2022
+EU,CY,Cyprus,2017,,,,,0,,WAT007 2000-2022
+EU,CY,Cyprus,2018,,,,,0,,WAT007 2000-2022
+EU,CY,Cyprus,2019,,,,,0,,WAT007 2000-2022
+EU,CY,Cyprus,2000,,,,9.6,,,WAT007 2000-2022
+EU,CY,Cyprus,2001,,,,10.1,,,WAT007 2000-2022
+EU,CY,Cyprus,2002,,,,2.8,,,WAT007 2000-2022
+EU,CY,Cyprus,2003,,,,2.8,,,WAT007 2000-2022
+EU,CY,Cyprus,2004,,,,2.8,,,WAT007 2000-2022
+EU,CY,Cyprus,2005,,,,4.8,,,WAT007 2000-2022
+EU,CY,Cyprus,2006,,,,5.1,,,WAT007 2000-2022
+EU,CY,Cyprus,2007,,,,5.9,,,WAT007 2000-2022
+EU,CY,Cyprus,2008,,,,6.2,,,WAT007 2000-2022
+EU,CY,Cyprus,2009,,,,5.4,,,WAT007 2000-2022
+EU,CY,Cyprus,2010,,,,5,,,WAT007 2000-2022
+EU,CY,Cyprus,2011,,,,4.4,,,WAT007 2000-2022
+EU,CY,Cyprus,2012,,,,3.3,,,WAT007 2000-2022
+EU,CY,Cyprus,2013,,,,3,,,WAT007 2000-2022
+EU,CY,Cyprus,2014,,,,2.9,,,WAT007 2000-2022
+EU,CY,Cyprus,2015,,,,2.9,,,WAT007 2000-2022
+EU,CY,Cyprus,2016,,,,3,,,WAT007 2000-2022
+EU,CY,Cyprus,2017,,,,3,,,WAT007 2000-2022
+EU,CY,Cyprus,2018,,,,3.3,,,WAT007 2000-2022
+EU,CY,Cyprus,2019,,,,0,,,WAT007 2000-2022
+EU,CY,Cyprus,2000,,,6.9,,,,EEA estimate based on ESTAT Ind_peh and Ind_pehcf;WAT007 2000-2022
+EU,CY,Cyprus,2001,,,7.3,,,,EEA estimate based on ESTAT Ind_peh and Ind_pehcf;WAT007 2000-2022
+EU,CY,Cyprus,2002,,,7.8,,,,EEA estimate based on ESTAT Ind_peh and Ind_pehcf;WAT007 2000-2022
+EU,CY,Cyprus,2003,,,8.3,,,,EEA estimate based on ESTAT Ind_peh and Ind_pehcf;WAT007 2000-2022
+EU,CY,Cyprus,2004,,,12.9,,,,EEA estimate based on ESTAT Ind_peh and Ind_pehcf;WAT007 2000-2022
+EU,CY,Cyprus,2005,,,13.4,,,,EEA estimate based on ESTAT Ind_peh and Ind_pehcf;WAT007 2000-2022
+EU,CY,Cyprus,2006,,,14.2,,,,EEA estimate based on ESTAT Ind_peh and Ind_pehcf;WAT007 2000-2022
+EU,CY,Cyprus,2007,,,14.8,,,,EEA estimate based on ESTAT Ind_peh and Ind_pehcf;WAT007 2000-2022
+EU,CY,Cyprus,2008,,,15.4,,,,EEA estimate based on ESTAT Ind_peh and Ind_pehcf;WAT007 2000-2022
+EU,CY,Cyprus,2009,,,15.8,,,,EEA estimate based on ESTAT Ind_peh and Ind_pehcf;WAT007 2000-2022
+EU,CY,Cyprus,2010,,,16.1,,,,EEA estimate based on ESTAT Ind_peh and Ind_pehcf;WAT007 2000-2022
+EU,CY,Cyprus,2011,,,14.9,,,,EEA estimate based on ESTAT Ind_peh and Ind_pehcf;WAT007 2000-2022
+EU,CY,Cyprus,2012,,,14.1,,,,EEA estimate based on ESTAT Ind_peh and Ind_pehcf;WAT007 2000-2022
+EU,CY,Cyprus,2013,,,12.7,,,,EEA estimate based on ESTAT Ind_peh and Ind_pehcf;WAT007 2000-2022
+EU,CY,Cyprus,2014,,,13,,,,EEA estimate based on ESTAT Ind_peh and Ind_pehcf;WAT007 2000-2022
+EU,CY,Cyprus,2015,,,13.4,,,,EEA estimate based on ESTAT Ind_peh and Ind_pehcf;WAT007 2000-2022
+EU,CY,Cyprus,2016,,,14.5,,,,EEA estimate based on ESTAT Ind_peh and Ind_pehcf;WAT007 2000-2022
+EU,CY,Cyprus,2017,,,14.8,,,,EEA estimate based on ESTAT Ind_peh and Ind_pehcf;WAT007 2000-2022
+EU,CY,Cyprus,2018,,,15,,,,EEA estimate based on ESTAT Ind_peh and Ind_pehcf;WAT007 2000-2022
+EU,CY,Cyprus,2019,,,15.2,,,,EEA estimate based on ESTAT Ind_peh and Ind_pehcf;WAT007 2000-2022
+EU,CY,Cyprus,2020,,,14.3,,,,WAT007 2000-2022
+EU,CY,Cyprus,2021,,,14.8,,,,WAT007 2000-2022
+EU,CY,Cyprus,2022,,,15.1,,,,WAT007 2000-2022
+EU,CY,Cyprus,2023,,,15.2,,,,EEA estimate based on ESTAT Ind_peh and Ind_pehcf
+EU,CY,Cyprus,2000,,,,,,46.3,WAT007 2000-2022
+EU,CY,Cyprus,2001,,,,,,53.7,WAT007 2000-2022
+EU,CY,Cyprus,2002,,,,,,46.1,WAT007 2000-2022
+EU,CY,Cyprus,2003,,,,,,48.7,WAT007 2000-2022
+EU,CY,Cyprus,2004,,,,,,52.8,WAT007 2000-2022
+EU,CY,Cyprus,2005,,,,,,55.1,WAT007 2000-2022
+EU,CY,Cyprus,2006,,,,,,65.2,WAT007 2000-2022
+EU,CY,Cyprus,2007,,,,,,65.6,WAT007 2000-2022
+EU,CY,Cyprus,2008,,,,,,44.8,WAT007 2000-2022
+EU,CY,Cyprus,2009,,,,,,36.6,WAT007 2000-2022
+EU,CY,Cyprus,2010,,,,,,49.4,WAT007 2000-2022
+EU,CY,Cyprus,2011,,,,,,52.9,WAT007 2000-2022
+EU,CY,Cyprus,2012,,,,,,78.5,WAT007 2000-2022
+EU,CY,Cyprus,2013,,,,,,84.1,WAT007 2000-2022
+EU,CY,Cyprus,2014,,,,,,65.6,WAT007 2000-2022
+EU,CY,Cyprus,2015,,,,,,61.3,WAT007 2000-2022
+EU,CY,Cyprus,2016,,,,,,43.7,WAT007 2000-2022
+EU,CY,Cyprus,2017,,,,,,44.7,WAT007 2000-2022
+EU,CY,Cyprus,2018,,,,,,44.8,WAT007 2000-2022
+EU,CY,Cyprus,2019,,,,,,53.6,WAT007 2000-2022
+EU,CY,Cyprus,2020,,,,,,73.4,WAT007 2000-2022
+EU,CY,Cyprus,2021,,,,,,60.6,WAT007 2000-2022
+EU,CY,Cyprus,2022,,,,,,58.9,WAT007 2000-2022
+EU,CY,Cyprus,2023,,,,,,56.5,ESTAT env_wat_a
+

@@ -1,0 +1,147 @@
+Downloaded from: https://www.eea.europa.eu/en/analysis/indicators/water-abstraction-by-source-and/water-abstraction-by-economic-sector
+
+Publisher ,European Environment Agency,EEA
+
+Sources ,https://www.eea.europa.eu/en/datahub/datahubitem-view/a4324714-784a-4763-b8b9-b8939ead87fe?activeAccordion=1092906,European Environment Agency (EEA),"Waterbase - Water Quantity, 2023"
+ ,https://ec.europa.eu/eurostat/databrowser/view/env_wat_abs/default/table?lang=en&category=env.env_wat.env_nwat,Eurostat - Statistical Office of the European Union (ESTAT),Annual freshwater abstraction by source and sector
+
+Geographical coverage ,"Cyprus, Portugal, Spain, Malta, Denmark, Iceland, Switzerland, Sweden, Netherlands, Austria, Belgium, Germany, Luxembourg, Ireland, Türkiye, France, Liechtenstein, Slovakia, Czechia, Norway, Italy, Slovenia, Montenegro, Croatia, Bosnia and Herzegovina, Greece, Estonia, Latvia, Lithuania, Serbia, Finland, North Macedonia, Hungary, Bulgaria, Albania, Poland, Romania, Kosovo (UNSCR 1244/99)"
+
+Temporal coverage ,"2000, 2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023"
+
+EIONET,countryCode,Country,phenomenonTimePeriod_year,Agriculture_Million m3,Construction_Million m3,Electricity cooling_Million m3,Manufacturing_Million m3,Mining and Quarrying_Million m3,Public water supply_Million m3,dataSource
+
+EU,FR,France,2000,4872,,,,,,WAT007 2000-2022
+EU,FR,France,2001,4767.3,,,,,,WAT007 2000-2022
+EU,FR,France,2002,4290.6,,,,,,WAT007 2000-2022
+EU,FR,France,2003,5516.9,,,,,,WAT007 2000-2022
+EU,FR,France,2004,5148,,,,,,WAT007 2000-2022
+EU,FR,France,2005,4695.5,,,,,,WAT007 2000-2022
+EU,FR,France,2006,4757.1,,,,,,WAT007 2000-2022
+EU,FR,France,2007,3932.8,,,,,,WAT007 2000-2022
+EU,FR,France,2008,2587.9,,,,,,WAT007 2000-2022
+EU,FR,France,2009,3144.9,,,,,,WAT007 2000-2022
+EU,FR,France,2010,3251.9,,,,,,WAT007 2000-2022
+EU,FR,France,2011,3273.7,,,,,,WAT007 2000-2022
+EU,FR,France,2012,3145.5,,,,,,WAT007 2000-2022
+EU,FR,France,2013,3007.6,,,,,,WAT007 2000-2022
+EU,FR,France,2014,2288,,,,,,WAT007 2000-2022
+EU,FR,France,2015,3377.8,,,,,,WAT007 2000-2022
+EU,FR,France,2016,3273.2,,,,,,WAT007 2000-2022
+EU,FR,France,2017,3124.1,,,,,,WAT007 2000-2022
+EU,FR,France,2018,3132.7,,,,,,WAT007 2000-2022
+EU,FR,France,2019,3322.9,,,,,,WAT007 2000-2022
+EU,FR,France,2020,3541.9,,,,,,WAT007 2000-2022
+EU,FR,France,2021,2621.9,,,,,,WAT007 2000-2022
+EU,FR,France,2022,3309.7,,,,,,WAT007 2000-2022
+EU,FR,France,2023,3033.1,,,,,,EEA estimate based on ESTAT Utilised Agricultural Area 
+EU,FR,France,2000,,,,,0,,WAT007 2000-2022
+EU,FR,France,2001,,,,,0,,WAT007 2000-2022
+EU,FR,France,2002,,,,,0,,WAT007 2000-2022
+EU,FR,France,2003,,,,,0,,WAT007 2000-2022
+EU,FR,France,2004,,,,,0,,WAT007 2000-2022
+EU,FR,France,2005,,,,,0,,WAT007 2000-2022
+EU,FR,France,2006,,,,,0,,WAT007 2000-2022
+EU,FR,France,2007,,,,,0,,WAT007 2000-2022
+EU,FR,France,2008,,,,,106,,WAT007 2000-2022
+EU,FR,France,2009,,,,,0,,WAT007 2000-2022
+EU,FR,France,2010,,,,,83.6,,WAT007 2000-2022
+EU,FR,France,2011,,,,,90.1,,WAT007 2000-2022
+EU,FR,France,2012,,,,,98,,WAT007 2000-2022
+EU,FR,France,2013,,,,,93.8,,WAT007 2000-2022
+EU,FR,France,2014,,,,,51.8,,WAT007 2000-2022
+EU,FR,France,2015,,,,,45.2,,WAT007 2000-2022
+EU,FR,France,2016,,,,,46.7,,WAT007 2000-2022
+EU,FR,France,2017,,,,,43.1,,WAT007 2000-2022
+EU,FR,France,2018,,,,,33.9,,WAT007 2000-2022
+EU,FR,France,2019,,,,,70.7,,WAT007 2000-2022
+EU,FR,France,2020,,,,,87.6,,WAT007 2000-2022
+EU,FR,France,2021,,,,,93.3,,WAT007 2000-2022
+EU,FR,France,2022,,,,,83.8,,ESTAT env_wat_a
+EU,FR,France,2023,,,,,83.8,,Same value as 2022
+EU,FR,France,2000,,,,2397.8,,,WAT007 2000-2022
+EU,FR,France,2001,,,,2408.2,,,WAT007 2000-2022
+EU,FR,France,2002,,,,2359.5,,,WAT007 2000-2022
+EU,FR,France,2003,,,,2390.3,,,WAT007 2000-2022
+EU,FR,France,2004,,,,2315.4,,,WAT007 2000-2022
+EU,FR,France,2005,,,,2287.3,,,WAT007 2000-2022
+EU,FR,France,2006,,,,2142.9,,,WAT007 2000-2022
+EU,FR,France,2007,,,,2165.3,,,WAT007 2000-2022
+EU,FR,France,2008,,,,2034.7,,,WAT007 2000-2022
+EU,FR,France,2009,,,,1952.9,,,WAT007 2000-2022
+EU,FR,France,2010,,,,1757.3,,,WAT007 2000-2022
+EU,FR,France,2011,,,,1804.9,,,WAT007 2000-2022
+EU,FR,France,2012,,,,2245.1,,,WAT007 2000-2022
+EU,FR,France,2013,,,,2194,,,WAT007 2000-2022
+EU,FR,France,2014,,,,2238.4,,,WAT007 2000-2022
+EU,FR,France,2015,,,,2289.5,,,WAT007 2000-2022
+EU,FR,France,2016,,,,2037.5,,,WAT007 2000-2022
+EU,FR,France,2017,,,,2212.5,,,WAT007 2000-2022
+EU,FR,France,2018,,,,2208,,,WAT007 2000-2022
+EU,FR,France,2019,,,,2130.5,,,WAT007 2000-2022
+EU,FR,France,2020,,,,1818.3,,,WAT007 2000-2022
+EU,FR,France,2021,,,,1788.3,,,WAT007 2000-2022
+EU,FR,France,2022,,,,1680.4,,,WAT007 2000-2022
+EU,FR,France,2023,,,,1427.1,,,EEA estimate based on ESTAT DEF_DISS_DS-056121
+EU,FR,France,2000,,,18338.8,,,,WAT007 2000-2022
+EU,FR,France,2001,,,19161.3,,,,WAT007 2000-2022
+EU,FR,France,2002,,,18508,,,,WAT007 2000-2022
+EU,FR,France,2003,,,20095.4,,,,WAT007 2000-2022
+EU,FR,France,2004,,,19077.8,,,,WAT007 2000-2022
+EU,FR,France,2005,,,19787.5,,,,WAT007 2000-2022
+EU,FR,France,2006,,,18937.3,,,,WAT007 2000-2022
+EU,FR,France,2007,,,18509.7,,,,WAT007 2000-2022
+EU,FR,France,2008,,,18000.6,,,,WAT007 2000-2022
+EU,FR,France,2009,,,17819.6,,,,WAT007 2000-2022
+EU,FR,France,2010,,,17149.8,,,,WAT007 2000-2022
+EU,FR,France,2011,,,17002.6,,,,WAT007 2000-2022
+EU,FR,France,2012,,,18839.4,,,,WAT007 2000-2022
+EU,FR,France,2013,,,17021.9,,,,WAT007 2000-2022
+EU,FR,France,2014,,,17218.4,,,,WAT007 2000-2022
+EU,FR,France,2015,,,17043.7,,,,WAT007 2000-2022
+EU,FR,France,2016,,,15708.5,,,,WAT007 2000-2022
+EU,FR,France,2017,,,16099.2,,,,WAT007 2000-2022
+EU,FR,France,2018,,,16045.3,,,,WAT007 2000-2022
+EU,FR,France,2019,,,15300.2,,,,WAT007 2000-2022
+EU,FR,France,2020,,,13870.2,,,,WAT007 2000-2022
+EU,FR,France,2021,,,14368.4,,,,WAT007 2000-2022
+EU,FR,France,2022,,,15304.4,,,,WAT007 2000-2022
+EU,FR,France,2023,,,16014.6,,,,EEA estimate based on ESTAT Ind_peh and Ind_pehcf
+EU,FR,France,2000,,,,,,5871.7,WAT007 2000-2022
+EU,FR,France,2001,,,,,,5966,WAT007 2000-2022
+EU,FR,France,2002,,,,,,5966,WAT007 2000-2022
+EU,FR,France,2003,,,,,,6197.9,WAT007 2000-2022
+EU,FR,France,2004,,,,,,6013.6,WAT007 2000-2022
+EU,FR,France,2005,,,,,,5915.4,WAT007 2000-2022
+EU,FR,France,2006,,,,,,5861.7,WAT007 2000-2022
+EU,FR,France,2007,,,,,,5683,WAT007 2000-2022
+EU,FR,France,2008,,,,,,5518.9,WAT007 2000-2022
+EU,FR,France,2009,,,,,,5645.2,WAT007 2000-2022
+EU,FR,France,2010,,,,,,5490.3,WAT007 2000-2022
+EU,FR,France,2011,,,,,,5379.5,WAT007 2000-2022
+EU,FR,France,2012,,,,,,5480.9,WAT007 2000-2022
+EU,FR,France,2013,,,,,,5283.2,WAT007 2000-2022
+EU,FR,France,2014,,,,,,5066.3,WAT007 2000-2022
+EU,FR,France,2015,,,,,,5216.2,WAT007 2000-2022
+EU,FR,France,2016,,,,,,5174,WAT007 2000-2022
+EU,FR,France,2017,,,,,,5391.2,WAT007 2000-2022
+EU,FR,France,2018,,,,,,5315.9,WAT007 2000-2022
+EU,FR,France,2019,,,,,,5309,WAT007 2000-2022
+EU,FR,France,2020,,,,,,5358.6,WAT007 2000-2022
+EU,FR,France,2021,,,,,,5652.6,WAT007 2000-2022
+EU,FR,France,2022,,,,,,5879,WAT007 2000-2022
+EU,FR,France,2023,,,,,,5896.2,EEA estimate based on ESTAT_demo_pjan
+EU,FR,France,2010,,36.4,,,,,WAT007 2000-2022
+EU,FR,France,2011,,22.2,,,,,WAT007 2000-2022
+EU,FR,France,2012,,12.9,,,,,WAT007 2000-2022
+EU,FR,France,2013,,6,,,,,WAT007 2000-2022
+EU,FR,France,2014,,3.4,,,,,WAT007 2000-2022
+EU,FR,France,2015,,4.1,,,,,WAT007 2000-2022
+EU,FR,France,2016,,2.7,,,,,WAT007 2000-2022
+EU,FR,France,2017,,4.1,,,,,WAT007 2000-2022
+EU,FR,France,2018,,0.7,,,,,WAT007 2000-2022
+EU,FR,France,2019,,3,,,,,WAT007 2000-2022
+EU,FR,France,2020,,7.3,,,,,WAT007 2000-2022
+EU,FR,France,2021,,9.8,,,,,WAT007 2000-2022
+EU,FR,France,2022,,9.1,,,,,ESTAT env_wat_a
+

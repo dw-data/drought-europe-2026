@@ -1,0 +1,130 @@
+Downloaded from: https://www.eea.europa.eu/en/analysis/indicators/water-abstraction-by-source-and/water-abstraction-by-economic-sector
+
+Publisher ,European Environment Agency,EEA
+
+Sources ,https://www.eea.europa.eu/en/datahub/datahubitem-view/a4324714-784a-4763-b8b9-b8939ead87fe?activeAccordion=1092906,European Environment Agency (EEA),"Waterbase - Water Quantity, 2023"
+ ,https://ec.europa.eu/eurostat/databrowser/view/env_wat_abs/default/table?lang=en&category=env.env_wat.env_nwat,Eurostat - Statistical Office of the European Union (ESTAT),Annual freshwater abstraction by source and sector
+
+Geographical coverage ,"Cyprus, Portugal, Spain, Malta, Denmark, Iceland, Switzerland, Sweden, Netherlands, Austria, Belgium, Germany, Luxembourg, Ireland, Türkiye, France, Liechtenstein, Slovakia, Czechia, Norway, Italy, Slovenia, Montenegro, Croatia, Bosnia and Herzegovina, Greece, Estonia, Latvia, Lithuania, Serbia, Finland, North Macedonia, Hungary, Bulgaria, Albania, Poland, Romania, Kosovo (UNSCR 1244/99)"
+
+Temporal coverage ,"2000, 2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023"
+
+EIONET,countryCode,Country,phenomenonTimePeriod_year,Agriculture_Million m3,Construction_Million m3,Electricity cooling_Million m3,Manufacturing_Million m3,Mining and Quarrying_Million m3,Public water supply_Million m3,dataSource
+
+EU,PT,Portugal,2000,4752.1,,,,,,WAT007 2000-2022
+EU,PT,Portugal,2001,4136.7,,,,,,WAT007 2000-2022
+EU,PT,Portugal,2002,3924.8,,,,,,WAT007 2000-2022
+EU,PT,Portugal,2003,3745.7,,,,,,WAT007 2000-2022
+EU,PT,Portugal,2004,3743.3,,,,,,WAT007 2000-2022
+EU,PT,Portugal,2005,3654.1,,,,,,WAT007 2000-2022
+EU,PT,Portugal,2006,3532.9,,,,,,WAT007 2000-2022
+EU,PT,Portugal,2007,3388.1,,,,,,WAT007 2000-2022
+EU,PT,Portugal,2008,3623.1,,,,,,WAT007 2000-2022
+EU,PT,Portugal,2009,3436.3,,,,,,WAT007 2000-2022
+EU,PT,Portugal,2010,3745.2,,,,,,WAT007 2000-2022
+EU,PT,Portugal,2011,3751.9,,,,,,WAT007 2000-2022
+EU,PT,Portugal,2012,3772.9,,,,,,WAT007 2000-2022
+EU,PT,Portugal,2013,3832.2,,,,,,WAT007 2000-2022
+EU,PT,Portugal,2014,3816.6,,,,,,WAT007 2000-2022
+EU,PT,Portugal,2015,3815.3,,,,,,WAT007 2000-2022
+EU,PT,Portugal,2016,3605,,,,,,WAT007 2000-2022
+EU,PT,Portugal,2017,3419.5,,,,,,WAT007 2000-2022
+EU,PT,Portugal,2018,3557.5,,,,,,WAT007 2000-2022
+EU,PT,Portugal,2019,3820.2,,,,,,WAT007 2000-2022
+EU,PT,Portugal,2020,3518.5,,,,,,WAT007 2000-2022
+EU,PT,Portugal,2021,3425.3,,,,,,WAT007 2000-2022
+EU,PT,Portugal,2022,3541.7,,,,,,WAT007 2000-2022
+EU,PT,Portugal,2023,3689.2,,,,,,EEA estimate based on ESTAT Utilised Agricultural Area 
+EU,PT,Portugal,2000,,,,,0,,WAT007 2000-2022
+EU,PT,Portugal,2001,,,,,0,,WAT007 2000-2022
+EU,PT,Portugal,2002,,,,,0,,WAT007 2000-2022
+EU,PT,Portugal,2003,,,,,0,,WAT007 2000-2022
+EU,PT,Portugal,2004,,,,,0,,WAT007 2000-2022
+EU,PT,Portugal,2005,,,,,0,,WAT007 2000-2022
+EU,PT,Portugal,2006,,,,,0,,WAT007 2000-2022
+EU,PT,Portugal,2007,,,,,1.7,,WAT007 2000-2022
+EU,PT,Portugal,2008,,,,,0,,WAT007 2000-2022
+EU,PT,Portugal,2009,,,,,0,,WAT007 2000-2022
+EU,PT,Portugal,2010,,,,,0,,WAT007 2000-2022
+EU,PT,Portugal,2011,,,,,0,,WAT007 2000-2022
+EU,PT,Portugal,2012,,,,,0,,WAT007 2000-2022
+EU,PT,Portugal,2013,,,,,0,,WAT007 2000-2022
+EU,PT,Portugal,2014,,,,,0,,WAT007 2000-2022
+EU,PT,Portugal,2015,,,,,0,,WAT007 2000-2022
+EU,PT,Portugal,2016,,,,,0,,WAT007 2000-2022
+EU,PT,Portugal,2017,,,,,0,,WAT007 2000-2022
+EU,PT,Portugal,2018,,,,,0,,WAT007 2000-2022
+EU,PT,Portugal,2019,,,,,0,,WAT007 2000-2022
+EU,PT,Portugal,2000,,,,786,,,WAT007 2000-2022
+EU,PT,Portugal,2001,,,,676.7,,,WAT007 2000-2022
+EU,PT,Portugal,2002,,,,689.8,,,WAT007 2000-2022
+EU,PT,Portugal,2003,,,,516.3,,,WAT007 2000-2022
+EU,PT,Portugal,2004,,,,525.7,,,WAT007 2000-2022
+EU,PT,Portugal,2005,,,,544.3,,,WAT007 2000-2022
+EU,PT,Portugal,2006,,,,555.2,,,WAT007 2000-2022
+EU,PT,Portugal,2007,,,,551.3,,,WAT007 2000-2022
+EU,PT,Portugal,2008,,,,500.9,,,WAT007 2000-2022
+EU,PT,Portugal,2009,,,,461,,,WAT007 2000-2022
+EU,PT,Portugal,2010,,,,466.3,,,WAT007 2000-2022
+EU,PT,Portugal,2011,,,,467.6,,,WAT007 2000-2022
+EU,PT,Portugal,2012,,,,383.7,,,WAT007 2000-2022
+EU,PT,Portugal,2013,,,,421.8,,,WAT007 2000-2022
+EU,PT,Portugal,2014,,,,414.6,,,WAT007 2000-2022
+EU,PT,Portugal,2015,,,,434.7,,,WAT007 2000-2022
+EU,PT,Portugal,2016,,,,419.8,,,WAT007 2000-2022
+EU,PT,Portugal,2017,,,,405,,,WAT007 2000-2022
+EU,PT,Portugal,2018,,,,405.9,,,WAT007 2000-2022
+EU,PT,Portugal,2019,,,,478.7,,,EEA estimate based on ESTAT DEF_DISS_DS-056121;WAT007 2000-2022
+EU,PT,Portugal,2020,,,,478.5,,,WAT007 2000-2022
+EU,PT,Portugal,2021,,,,708.8,,,WAT007 2000-2022
+EU,PT,Portugal,2022,,,,652.9,,,WAT007 2000-2022
+EU,PT,Portugal,2023,,,,571.7,,,EEA estimate based on ESTAT DEF_DISS_DS-056121
+EU,PT,Portugal,2000,,,1388.7,,,,WAT007 2000-2022
+EU,PT,Portugal,2001,,,1475.8,,,,WAT007 2000-2022
+EU,PT,Portugal,2002,,,1463,,,,WAT007 2000-2022
+EU,PT,Portugal,2003,,,1486.7,,,,WAT007 2000-2022
+EU,PT,Portugal,2004,,,1431.2,,,,WAT007 2000-2022
+EU,PT,Portugal,2005,,,1477.9,,,,WAT007 2000-2022
+EU,PT,Portugal,2006,,,1556.1,,,,WAT007 2000-2022
+EU,PT,Portugal,2007,,,1499.4,,,,WAT007 2000-2022
+EU,PT,Portugal,2008,,,1458.8,,,,WAT007 2000-2022
+EU,PT,Portugal,2009,,,618,,,,WAT007 2000-2022
+EU,PT,Portugal,2010,,,665.8,,,,WAT007 2000-2022
+EU,PT,Portugal,2011,,,645.8,,,,WAT007 2000-2022
+EU,PT,Portugal,2012,,,264.5,,,,WAT007 2000-2022
+EU,PT,Portugal,2013,,,636,,,,WAT007 2000-2022
+EU,PT,Portugal,2014,,,649.9,,,,WAT007 2000-2022
+EU,PT,Portugal,2015,,,645.2,,,,WAT007 2000-2022
+EU,PT,Portugal,2016,,,645.2,,,,WAT007 2000-2022
+EU,PT,Portugal,2017,,,264.5,,,,WAT007 2000-2022
+EU,PT,Portugal,2018,,,835.8,,,,WAT007 2000-2022
+EU,PT,Portugal,2019,,,632.9,,,,WAT007 2000-2022
+EU,PT,Portugal,2020,,,862.2,,,,WAT007 2000-2022
+EU,PT,Portugal,2021,,,786.9,,,,WAT007 2000-2022
+EU,PT,Portugal,2022,,,826.6,,,,WAT007 2000-2022
+EU,PT,Portugal,2023,,,883.6,,,,EEA estimate based on ESTAT Ind_peh and Ind_pehcf
+EU,PT,Portugal,2000,,,,,,624,WAT007 2000-2022
+EU,PT,Portugal,2001,,,,,,663.4,WAT007 2000-2022
+EU,PT,Portugal,2002,,,,,,634.5,WAT007 2000-2022
+EU,PT,Portugal,2003,,,,,,610.3,WAT007 2000-2022
+EU,PT,Portugal,2004,,,,,,593.7,WAT007 2000-2022
+EU,PT,Portugal,2005,,,,,,1086.2,WAT007 2000-2022
+EU,PT,Portugal,2006,,,,,,910.8,WAT007 2000-2022
+EU,PT,Portugal,2007,,,,,,976.3,WAT007 2000-2022
+EU,PT,Portugal,2008,,,,,,906.5,WAT007 2000-2022
+EU,PT,Portugal,2009,,,,,,933.6,WAT007 2000-2022
+EU,PT,Portugal,2010,,,,,,683,WAT007 2000-2022
+EU,PT,Portugal,2011,,,,,,873.4,WAT007 2000-2022
+EU,PT,Portugal,2012,,,,,,879.8,WAT007 2000-2022
+EU,PT,Portugal,2013,,,,,,856.8,WAT007 2000-2022
+EU,PT,Portugal,2014,,,,,,834.7,WAT007 2000-2022
+EU,PT,Portugal,2015,,,,,,848.8,WAT007 2000-2022
+EU,PT,Portugal,2016,,,,,,854.6,WAT007 2000-2022
+EU,PT,Portugal,2017,,,,,,912.1,WAT007 2000-2022
+EU,PT,Portugal,2018,,,,,,880.4,WAT007 2000-2022
+EU,PT,Portugal,2019,,,,,,892.9,WAT007 2000-2022
+EU,PT,Portugal,2020,,,,,,920.1,WAT007 2000-2022
+EU,PT,Portugal,2021,,,,,,816.8,WAT007 2000-2022
+EU,PT,Portugal,2022,,,,,,821,WAT007 2000-2022
+EU,PT,Portugal,2023,,,,,,830.2,EEA estimate based on ESTAT_demo_pjan
+

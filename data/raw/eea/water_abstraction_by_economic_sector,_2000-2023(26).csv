@@ -1,0 +1,130 @@
+Downloaded from: https://www.eea.europa.eu/en/analysis/indicators/water-abstraction-by-source-and/water-abstraction-by-economic-sector
+
+Publisher ,European Environment Agency,EEA
+
+Sources ,https://www.eea.europa.eu/en/datahub/datahubitem-view/a4324714-784a-4763-b8b9-b8939ead87fe?activeAccordion=1092906,European Environment Agency (EEA),"Waterbase - Water Quantity, 2023"
+ ,https://ec.europa.eu/eurostat/databrowser/view/env_wat_abs/default/table?lang=en&category=env.env_wat.env_nwat,Eurostat - Statistical Office of the European Union (ESTAT),Annual freshwater abstraction by source and sector
+
+Geographical coverage ,"Cyprus, Portugal, Spain, Malta, Denmark, Iceland, Switzerland, Sweden, Netherlands, Austria, Belgium, Germany, Luxembourg, Ireland, Türkiye, France, Liechtenstein, Slovakia, Czechia, Norway, Italy, Slovenia, Montenegro, Croatia, Bosnia and Herzegovina, Greece, Estonia, Latvia, Lithuania, Serbia, Finland, North Macedonia, Hungary, Bulgaria, Albania, Poland, Romania, Kosovo (UNSCR 1244/99)"
+
+Temporal coverage ,"2000, 2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023"
+
+EIONET,countryCode,Country,phenomenonTimePeriod_year,Agriculture_Million m3,Construction_Million m3,Electricity cooling_Million m3,Manufacturing_Million m3,Mining and Quarrying_Million m3,Public water supply_Million m3,dataSource
+
+Non-EU,NO,Norway,2000,80,,,,,,WAT007 2000-2022
+Non-EU,NO,Norway,2001,176.8,,,,,,WAT007 2000-2022
+Non-EU,NO,Norway,2002,113.1,,,,,,WAT007 2000-2022
+Non-EU,NO,Norway,2003,68.5,,,,,,WAT007 2000-2022
+Non-EU,NO,Norway,2004,73.5,,,,,,WAT007 2000-2022
+Non-EU,NO,Norway,2005,102.9,,,,,,WAT007 2000-2022
+Non-EU,NO,Norway,2006,112.8,,,,,,WAT007 2000-2022
+Non-EU,NO,Norway,2007,113,,,,,,WAT007 2000-2022
+Non-EU,NO,Norway,2008,111.9,,,,,,WAT007 2000-2022
+Non-EU,NO,Norway,2009,109.9,,,,,,WAT007 2000-2022
+Non-EU,NO,Norway,2010,108.8,,,,,,WAT007 2000-2022
+Non-EU,NO,Norway,2011,108.3,,,,,,WAT007 2000-2022
+Non-EU,NO,Norway,2012,108.1,,,,,,WAT007 2000-2022
+Non-EU,NO,Norway,2013,108,,,,,,WAT007 2000-2022
+Non-EU,NO,Norway,2014,107.8,,,,,,WAT007 2000-2022
+Non-EU,NO,Norway,2015,107.7,,,,,,WAT007 2000-2022
+Non-EU,NO,Norway,2016,107.5,,,,,,WAT007 2000-2022
+Non-EU,NO,Norway,2017,107.6,,,,,,WAT007 2000-2022
+Non-EU,NO,Norway,2018,107.8,,,,,,WAT007 2000-2022
+Non-EU,NO,Norway,2019,107.3,,,,,,WAT007 2000-2022
+Non-EU,NO,Norway,2020,133.9,,,,,,WAT007 2000-2022
+Non-EU,NO,Norway,2021,133.9,,,,,,WAT007 2000-2022
+Non-EU,NO,Norway,2022,133.9,,,,,,WAT007 2000-2022
+Non-EU,NO,Norway,2023,113.4,,,,,,EEA estimate based on ESTAT Utilised Agricultural Area 
+Non-EU,NO,Norway,2000,,,,,0,,WAT007 2000-2022
+Non-EU,NO,Norway,2001,,,,,0,,WAT007 2000-2022
+Non-EU,NO,Norway,2002,,,,,0,,WAT007 2000-2022
+Non-EU,NO,Norway,2003,,,,,0,,WAT007 2000-2022
+Non-EU,NO,Norway,2004,,,,,0,,WAT007 2000-2022
+Non-EU,NO,Norway,2005,,,,,0,,WAT007 2000-2022
+Non-EU,NO,Norway,2006,,,,,0,,WAT007 2000-2022
+Non-EU,NO,Norway,2007,,,,,0,,WAT007 2000-2022
+Non-EU,NO,Norway,2008,,,,,0,,WAT007 2000-2022
+Non-EU,NO,Norway,2009,,,,,0,,WAT007 2000-2022
+Non-EU,NO,Norway,2010,,,,,0,,WAT007 2000-2022
+Non-EU,NO,Norway,2011,,,,,0,,WAT007 2000-2022
+Non-EU,NO,Norway,2012,,,,,0,,WAT007 2000-2022
+Non-EU,NO,Norway,2013,,,,,0,,WAT007 2000-2022
+Non-EU,NO,Norway,2014,,,,,0,,WAT007 2000-2022
+Non-EU,NO,Norway,2015,,,,,0,,WAT007 2000-2022
+Non-EU,NO,Norway,2016,,,,,0,,WAT007 2000-2022
+Non-EU,NO,Norway,2017,,,,,0,,WAT007 2000-2022
+Non-EU,NO,Norway,2018,,,,,0,,WAT007 2000-2022
+Non-EU,NO,Norway,2019,,,,,0,,WAT007 2000-2022
+Non-EU,NO,Norway,2000,,,,814.3,,,WAT007 2000-2022
+Non-EU,NO,Norway,2001,,,,805.2,,,WAT007 2000-2022
+Non-EU,NO,Norway,2002,,,,799,,,WAT007 2000-2022
+Non-EU,NO,Norway,2003,,,,915,,,WAT007 2000-2022
+Non-EU,NO,Norway,2004,,,,973.3,,,WAT007 2000-2022
+Non-EU,NO,Norway,2005,,,,1154.4,,,WAT007 2000-2022
+Non-EU,NO,Norway,2006,,,,1105.3,,,WAT007 2000-2022
+Non-EU,NO,Norway,2007,,,,1191.2,,,WAT007 2000-2022
+Non-EU,NO,Norway,2008,,,,1132.3,,,WAT007 2000-2022
+Non-EU,NO,Norway,2009,,,,1027.2,,,WAT007 2000-2022
+Non-EU,NO,Norway,2010,,,,1094.3,,,WAT007 2000-2022
+Non-EU,NO,Norway,2011,,,,1101.5,,,WAT007 2000-2022
+Non-EU,NO,Norway,2012,,,,1130.3,,,WAT007 2000-2022
+Non-EU,NO,Norway,2013,,,,1171.4,,,WAT007 2000-2022
+Non-EU,NO,Norway,2014,,,,1211.8,,,WAT007 2000-2022
+Non-EU,NO,Norway,2015,,,,1168.2,,,WAT007 2000-2022
+Non-EU,NO,Norway,2016,,,,1131,,,WAT007 2000-2022
+Non-EU,NO,Norway,2017,,,,1131,,,WAT007 2000-2022
+Non-EU,NO,Norway,2018,,,,1150.2,,,WAT007 2000-2022
+Non-EU,NO,Norway,2019,,,,1163.6,,,EEA estimate based on ESTAT DEF_DISS_DS-056121
+Non-EU,NO,Norway,2020,,,,1154.2,,,WAT007 2000-2022
+Non-EU,NO,Norway,2021,,,,1239.6,,,WAT007 2000-2022
+Non-EU,NO,Norway,2022,,,,1239.6,,,Same value as 2021
+Non-EU,NO,Norway,2023,,,,1239.6,,,Same value as 2021
+Non-EU,NO,Norway,2000,,,104.4,,,,EEA estimate based on ESTAT Ind_peh and Ind_pehcf;WAT007 2000-2022
+Non-EU,NO,Norway,2001,,,89.1,,,,EEA estimate based on ESTAT Ind_peh and Ind_pehcf;WAT007 2000-2022
+Non-EU,NO,Norway,2002,,,95.5,,,,EEA estimate based on ESTAT Ind_peh and Ind_pehcf;WAT007 2000-2022
+Non-EU,NO,Norway,2003,,,78.5,,,,EEA estimate based on ESTAT Ind_peh and Ind_pehcf;WAT007 2000-2022
+Non-EU,NO,Norway,2004,,,80.9,,,,EEA estimate based on ESTAT Ind_peh and Ind_pehcf;WAT007 2000-2022
+Non-EU,NO,Norway,2005,,,101,,,,EEA estimate based on ESTAT Ind_peh and Ind_pehcf;WAT007 2000-2022
+Non-EU,NO,Norway,2006,,,88.9,,,,EEA estimate based on ESTAT Ind_peh and Ind_pehcf;WAT007 2000-2022
+Non-EU,NO,Norway,2007,,,100.7,,,,EEA estimate based on ESTAT Ind_peh and Ind_pehcf;WAT007 2000-2022
+Non-EU,NO,Norway,2008,,,104.1,,,,EEA estimate based on ESTAT Ind_peh and Ind_pehcf;WAT007 2000-2022
+Non-EU,NO,Norway,2009,,,97.8,,,,EEA estimate based on ESTAT Ind_peh and Ind_pehcf;WAT007 2000-2022
+Non-EU,NO,Norway,2010,,,89.6,,,,EEA estimate based on ESTAT Ind_peh and Ind_pehcf;WAT007 2000-2022
+Non-EU,NO,Norway,2011,,,92.1,,,,EEA estimate based on ESTAT Ind_peh and Ind_pehcf;WAT007 2000-2022
+Non-EU,NO,Norway,2012,,,106,,,,EEA estimate based on ESTAT Ind_peh and Ind_pehcf;WAT007 2000-2022
+Non-EU,NO,Norway,2013,,,95.9,,,,EEA estimate based on ESTAT Ind_peh and Ind_pehcf;WAT007 2000-2022
+Non-EU,NO,Norway,2014,,,101.5,,,,EEA estimate based on ESTAT Ind_peh and Ind_pehcf;WAT007 2000-2022
+Non-EU,NO,Norway,2015,,,103.5,,,,EEA estimate based on ESTAT Ind_peh and Ind_pehcf;WAT007 2000-2022
+Non-EU,NO,Norway,2016,,,106.6,,,,EEA estimate based on ESTAT Ind_peh and Ind_pehcf;WAT007 2000-2022
+Non-EU,NO,Norway,2017,,,107,,,,EEA estimate based on ESTAT Ind_peh and Ind_pehcf;WAT007 2000-2022
+Non-EU,NO,Norway,2018,,,105.3,,,,EEA estimate based on ESTAT Ind_peh and Ind_pehcf;WAT007 2000-2022
+Non-EU,NO,Norway,2019,,,96.5,,,,EEA estimate based on ESTAT Ind_peh and Ind_pehcf;WAT007 2000-2022
+Non-EU,NO,Norway,2020,,,111.7,,,,WAT007 2000-2022
+Non-EU,NO,Norway,2021,,,114.4,,,,WAT007 2000-2022
+Non-EU,NO,Norway,2022,,,106,,,,WAT007 2000-2022
+Non-EU,NO,Norway,2023,,,111.9,,,,EEA estimate based on ESTAT Ind_peh and Ind_pehcf
+Non-EU,NO,Norway,2000,,,,,,802,WAT007 2000-2022
+Non-EU,NO,Norway,2001,,,,,,806,WAT007 2000-2022
+Non-EU,NO,Norway,2002,,,,,,808,WAT007 2000-2022
+Non-EU,NO,Norway,2003,,,,,,815,WAT007 2000-2022
+Non-EU,NO,Norway,2004,,,,,,820,WAT007 2000-2022
+Non-EU,NO,Norway,2005,,,,,,825,WAT007 2000-2022
+Non-EU,NO,Norway,2006,,,,,,833,WAT007 2000-2022
+Non-EU,NO,Norway,2007,,,,,,833,WAT007 2000-2022
+Non-EU,NO,Norway,2008,,,,,,826,WAT007 2000-2022
+Non-EU,NO,Norway,2009,,,,,,800,WAT007 2000-2022
+Non-EU,NO,Norway,2010,,,,,,803,WAT007 2000-2022
+Non-EU,NO,Norway,2011,,,,,,819,WAT007 2000-2022
+Non-EU,NO,Norway,2012,,,,,,816,WAT007 2000-2022
+Non-EU,NO,Norway,2013,,,,,,838,WAT007 2000-2022
+Non-EU,NO,Norway,2014,,,,,,863,WAT007 2000-2022
+Non-EU,NO,Norway,2015,,,,,,795.8,WAT007 2000-2022
+Non-EU,NO,Norway,2016,,,,,,732.5,WAT007 2000-2022
+Non-EU,NO,Norway,2017,,,,,,775.5,WAT007 2000-2022
+Non-EU,NO,Norway,2018,,,,,,819.6,WAT007 2000-2022
+Non-EU,NO,Norway,2019,,,,,,851,WAT007 2000-2022
+Non-EU,NO,Norway,2020,,,,,,768.8,WAT007 2000-2022
+Non-EU,NO,Norway,2021,,,,,,728,WAT007 2000-2022
+Non-EU,NO,Norway,2022,,,,,,773.4,WAT007 2000-2022
+Non-EU,NO,Norway,2023,,,,,,675.4,ESTAT env_wat_a
+

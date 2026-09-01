@@ -1,0 +1,134 @@
+Downloaded from: https://www.eea.europa.eu/en/analysis/indicators/water-abstraction-by-source-and/water-abstraction-by-economic-sector
+
+Publisher ,European Environment Agency,EEA
+
+Sources ,https://www.eea.europa.eu/en/datahub/datahubitem-view/a4324714-784a-4763-b8b9-b8939ead87fe?activeAccordion=1092906,European Environment Agency (EEA),"Waterbase - Water Quantity, 2023"
+ ,https://ec.europa.eu/eurostat/databrowser/view/env_wat_abs/default/table?lang=en&category=env.env_wat.env_nwat,Eurostat - Statistical Office of the European Union (ESTAT),Annual freshwater abstraction by source and sector
+
+Geographical coverage ,"Cyprus, Portugal, Spain, Malta, Denmark, Iceland, Switzerland, Sweden, Netherlands, Austria, Belgium, Germany, Luxembourg, Ireland, Türkiye, France, Liechtenstein, Slovakia, Czechia, Norway, Italy, Slovenia, Montenegro, Croatia, Bosnia and Herzegovina, Greece, Estonia, Latvia, Lithuania, Serbia, Finland, North Macedonia, Hungary, Bulgaria, Albania, Poland, Romania, Kosovo (UNSCR 1244/99)"
+
+Temporal coverage ,"2000, 2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023"
+
+EIONET,countryCode,Country,phenomenonTimePeriod_year,Agriculture_Million m3,Construction_Million m3,Electricity cooling_Million m3,Manufacturing_Million m3,Mining and Quarrying_Million m3,Public water supply_Million m3,dataSource
+
+Non-EU,MK,North Macedonia,2000,383,,,,,,WAT007 2000-2022
+Non-EU,MK,North Macedonia,2001,306.7,,,,,,WAT007 2000-2022
+Non-EU,MK,North Macedonia,2002,281.4,,,,,,WAT007 2000-2022
+Non-EU,MK,North Macedonia,2003,393.3,,,,,,WAT007 2000-2022
+Non-EU,MK,North Macedonia,2004,244.8,,,,,,WAT007 2000-2022
+Non-EU,MK,North Macedonia,2005,255.1,,,,,,WAT007 2000-2022
+Non-EU,MK,North Macedonia,2006,182,,,,,,WAT007 2000-2022
+Non-EU,MK,North Macedonia,2007,125.5,,,,,,WAT007 2000-2022
+Non-EU,MK,North Macedonia,2008,277.9,,,,,,WAT007 2000-2022
+Non-EU,MK,North Macedonia,2009,359.9,,,,,,WAT007 2000-2022
+Non-EU,MK,North Macedonia,2010,359.9,,,,,,WAT007 2000-2022
+Non-EU,MK,North Macedonia,2011,273.7,,,,,,WAT007 2000-2022
+Non-EU,MK,North Macedonia,2012,1353.2,,,,,,WAT007 2000-2022
+Non-EU,MK,North Macedonia,2013,156.5,,,,,,WAT007 2000-2022
+Non-EU,MK,North Macedonia,2014,209.2,,,,,,WAT007 2000-2022
+Non-EU,MK,North Macedonia,2015,336.6,,,,,,WAT007 2000-2022
+Non-EU,MK,North Macedonia,2016,161.8,,,,,,WAT007 2000-2022
+Non-EU,MK,North Macedonia,2017,194.8,,,,,,WAT007 2000-2022
+Non-EU,MK,North Macedonia,2018,140.1,,,,,,WAT007 2000-2022
+Non-EU,MK,North Macedonia,2019,198,,,,,,WAT007 2000-2022
+Non-EU,MK,North Macedonia,2020,340.6,,,,,,WAT007 2000-2022
+Non-EU,MK,North Macedonia,2021,337.4,,,,,,WAT007 2000-2022
+Non-EU,MK,North Macedonia,2022,337.6,,,,,,WAT007 2000-2022
+Non-EU,MK,North Macedonia,2023,229.2,,,,,,EEA estimate based on ESTAT Utilised Agricultural Area 
+Non-EU,MK,North Macedonia,2000,,,,,13.3,,WAT007 2000-2022
+Non-EU,MK,North Macedonia,2001,,,,,12.4,,WAT007 2000-2022
+Non-EU,MK,North Macedonia,2002,,,,,10.9,,WAT007 2000-2022
+Non-EU,MK,North Macedonia,2003,,,,,0.3,,WAT007 2000-2022
+Non-EU,MK,North Macedonia,2004,,,,,52.9,,WAT007 2000-2022
+Non-EU,MK,North Macedonia,2005,,,,,206,,WAT007 2000-2022
+Non-EU,MK,North Macedonia,2006,,,,,52.9,,WAT007 2000-2022
+Non-EU,MK,North Macedonia,2007,,,,,12.5,,WAT007 2000-2022
+Non-EU,MK,North Macedonia,2008,,,,,10.7,,WAT007 2000-2022
+Non-EU,MK,North Macedonia,2009,,,,,9.1,,WAT007 2000-2022
+Non-EU,MK,North Macedonia,2010,,,,,24.6,,WAT007 2000-2022
+Non-EU,MK,North Macedonia,2011,,,,,66,,WAT007 2000-2022
+Non-EU,MK,North Macedonia,2012,,,,,14.1,,WAT007 2000-2022
+Non-EU,MK,North Macedonia,2013,,,,,26.9,,WAT007 2000-2022
+Non-EU,MK,North Macedonia,2014,,,,,14.2,,WAT007 2000-2022
+Non-EU,MK,North Macedonia,2015,,,,,9.1,,WAT007 2000-2022
+Non-EU,MK,North Macedonia,2016,,,,,14.4,,WAT007 2000-2022
+Non-EU,MK,North Macedonia,2017,,,,,9.7,,WAT007 2000-2022
+Non-EU,MK,North Macedonia,2018,,,,,13,,WAT007 2000-2022
+Non-EU,MK,North Macedonia,2019,,,,,12.3,,WAT007 2000-2022
+Non-EU,MK,North Macedonia,2020,,,,,12.3,,WAT007 2000-2022
+Non-EU,MK,North Macedonia,2021,,,,,14,,WAT007 2000-2022
+Non-EU,MK,North Macedonia,2022,,,,,14.9,,WAT007 2000-2022
+Non-EU,MK,North Macedonia,2023,,,,,10,,ESTAT env_wat_a
+Non-EU,MK,North Macedonia,2000,,,,82.1,,,WAT007 2000-2022
+Non-EU,MK,North Macedonia,2001,,,,136.1,,,WAT007 2000-2022
+Non-EU,MK,North Macedonia,2002,,,,122.2,,,WAT007 2000-2022
+Non-EU,MK,North Macedonia,2003,,,,202.5,,,WAT007 2000-2022
+Non-EU,MK,North Macedonia,2004,,,,1146,,,WAT007 2000-2022
+Non-EU,MK,North Macedonia,2005,,,,478,,,WAT007 2000-2022
+Non-EU,MK,North Macedonia,2006,,,,436.1,,,WAT007 2000-2022
+Non-EU,MK,North Macedonia,2007,,,,174.5,,,WAT007 2000-2022
+Non-EU,MK,North Macedonia,2008,,,,196.4,,,WAT007 2000-2022
+Non-EU,MK,North Macedonia,2009,,,,303.4,,,WAT007 2000-2022
+Non-EU,MK,North Macedonia,2010,,,,155.7,,,WAT007 2000-2022
+Non-EU,MK,North Macedonia,2011,,,,93.3,,,WAT007 2000-2022
+Non-EU,MK,North Macedonia,2012,,,,136.5,,,WAT007 2000-2022
+Non-EU,MK,North Macedonia,2013,,,,68.9,,,WAT007 2000-2022
+Non-EU,MK,North Macedonia,2014,,,,54.3,,,WAT007 2000-2022
+Non-EU,MK,North Macedonia,2015,,,,7.5,,,WAT007 2000-2022
+Non-EU,MK,North Macedonia,2016,,,,22.3,,,WAT007 2000-2022
+Non-EU,MK,North Macedonia,2017,,,,49.1,,,WAT007 2000-2022
+Non-EU,MK,North Macedonia,2018,,,,21.5,,,WAT007 2000-2022
+Non-EU,MK,North Macedonia,2019,,,,24.7,,,WAT007 2000-2022
+Non-EU,MK,North Macedonia,2020,,,,15.8,,,WAT007 2000-2022
+Non-EU,MK,North Macedonia,2021,,,,13.8,,,WAT007 2000-2022
+Non-EU,MK,North Macedonia,2022,,,,31.5,,,WAT007 2000-2022
+Non-EU,MK,North Macedonia,2023,,,,52.4,,,ESTAT env_wat_a
+Non-EU,MK,North Macedonia,2000,,,8.9,,,,WAT007 2000-2022
+Non-EU,MK,North Macedonia,2001,,,6.9,,,,WAT007 2000-2022
+Non-EU,MK,North Macedonia,2002,,,6.6,,,,WAT007 2000-2022
+Non-EU,MK,North Macedonia,2003,,,9.8,,,,WAT007 2000-2022
+Non-EU,MK,North Macedonia,2004,,,12.4,,,,WAT007 2000-2022
+Non-EU,MK,North Macedonia,2005,,,0.5,,,,WAT007 2000-2022
+Non-EU,MK,North Macedonia,2006,,,5.9,,,,WAT007 2000-2022
+Non-EU,MK,North Macedonia,2007,,,12.3,,,,WAT007 2000-2022
+Non-EU,MK,North Macedonia,2008,,,7.5,,,,WAT007 2000-2022
+Non-EU,MK,North Macedonia,2009,,,18.1,,,,WAT007 2000-2022
+Non-EU,MK,North Macedonia,2010,,,14,,,,WAT007 2000-2022
+Non-EU,MK,North Macedonia,2011,,,20.2,,,,WAT007 2000-2022
+Non-EU,MK,North Macedonia,2012,,,17.9,,,,WAT007 2000-2022
+Non-EU,MK,North Macedonia,2013,,,11.2,,,,WAT007 2000-2022
+Non-EU,MK,North Macedonia,2014,,,9.4,,,,WAT007 2000-2022
+Non-EU,MK,North Macedonia,2015,,,9.8,,,,WAT007 2000-2022
+Non-EU,MK,North Macedonia,2016,,,9.8,,,,WAT007 2000-2022
+Non-EU,MK,North Macedonia,2017,,,9.8,,,,WAT007 2000-2022
+Non-EU,MK,North Macedonia,2018,,,6.4,,,,WAT007 2000-2022
+Non-EU,MK,North Macedonia,2019,,,7.9,,,,WAT007 2000-2022
+Non-EU,MK,North Macedonia,2020,,,6.5,,,,WAT007 2000-2022
+Non-EU,MK,North Macedonia,2021,,,5.8,,,,WAT007 2000-2022
+Non-EU,MK,North Macedonia,2022,,,7.8,,,,WAT007 2000-2022
+Non-EU,MK,North Macedonia,2023,,,8.6,,,,EEA estimate based on ESTAT Ind_peh and Ind_pehcf
+Non-EU,MK,North Macedonia,2000,,,,,,204.7,WAT007 2000-2022
+Non-EU,MK,North Macedonia,2001,,,,,,205.7,WAT007 2000-2022
+Non-EU,MK,North Macedonia,2002,,,,,,212.1,WAT007 2000-2022
+Non-EU,MK,North Macedonia,2003,,,,,,220.4,WAT007 2000-2022
+Non-EU,MK,North Macedonia,2004,,,,,,219.2,WAT007 2000-2022
+Non-EU,MK,North Macedonia,2005,,,,,,217,WAT007 2000-2022
+Non-EU,MK,North Macedonia,2006,,,,,,223.1,WAT007 2000-2022
+Non-EU,MK,North Macedonia,2007,,,,,,226.4,WAT007 2000-2022
+Non-EU,MK,North Macedonia,2008,,,,,,230.9,WAT007 2000-2022
+Non-EU,MK,North Macedonia,2009,,,,,,273.8,WAT007 2000-2022
+Non-EU,MK,North Macedonia,2010,,,,,,237.6,WAT007 2000-2022
+Non-EU,MK,North Macedonia,2011,,,,,,201.3,WAT007 2000-2022
+Non-EU,MK,North Macedonia,2012,,,,,,165.1,WAT007 2000-2022
+Non-EU,MK,North Macedonia,2013,,,,,,147.4,WAT007 2000-2022
+Non-EU,MK,North Macedonia,2014,,,,,,89.3,WAT007 2000-2022
+Non-EU,MK,North Macedonia,2015,,,,,,86.5,WAT007 2000-2022
+Non-EU,MK,North Macedonia,2016,,,,,,108,WAT007 2000-2022
+Non-EU,MK,North Macedonia,2017,,,,,,108.1,WAT007 2000-2022
+Non-EU,MK,North Macedonia,2018,,,,,,108.3,WAT007 2000-2022
+Non-EU,MK,North Macedonia,2019,,,,,,108.4,WAT007 2000-2022
+Non-EU,MK,North Macedonia,2020,,,,,,182.3,WAT007 2000-2022
+Non-EU,MK,North Macedonia,2021,,,,,,181.7,WAT007 2000-2022
+Non-EU,MK,North Macedonia,2022,,,,,,161.3,WAT007 2000-2022
+Non-EU,MK,North Macedonia,2023,,,,,,160.7,EEA estimate based on ESTAT_demo_pjan
+

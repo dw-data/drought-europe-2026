@@ -1,0 +1,130 @@
+Downloaded from: https://www.eea.europa.eu/en/analysis/indicators/water-abstraction-by-source-and/water-abstraction-by-economic-sector
+
+Publisher ,European Environment Agency,EEA
+
+Sources ,https://www.eea.europa.eu/en/datahub/datahubitem-view/a4324714-784a-4763-b8b9-b8939ead87fe?activeAccordion=1092906,European Environment Agency (EEA),"Waterbase - Water Quantity, 2023"
+ ,https://ec.europa.eu/eurostat/databrowser/view/env_wat_abs/default/table?lang=en&category=env.env_wat.env_nwat,Eurostat - Statistical Office of the European Union (ESTAT),Annual freshwater abstraction by source and sector
+
+Geographical coverage ,"Cyprus, Portugal, Spain, Malta, Denmark, Iceland, Switzerland, Sweden, Netherlands, Austria, Belgium, Germany, Luxembourg, Ireland, Türkiye, France, Liechtenstein, Slovakia, Czechia, Norway, Italy, Slovenia, Montenegro, Croatia, Bosnia and Herzegovina, Greece, Estonia, Latvia, Lithuania, Serbia, Finland, North Macedonia, Hungary, Bulgaria, Albania, Poland, Romania, Kosovo (UNSCR 1244/99)"
+
+Temporal coverage ,"2000, 2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023"
+
+EIONET,countryCode,Country,phenomenonTimePeriod_year,Agriculture_Million m3,Construction_Million m3,Electricity cooling_Million m3,Manufacturing_Million m3,Mining and Quarrying_Million m3,Public water supply_Million m3,dataSource
+
+EU,IT,Italy,2000,20010,,,,,,WAT007 2000-2022
+EU,IT,Italy,2001,20227.6,,,,,,WAT007 2000-2022
+EU,IT,Italy,2002,16948.6,,,,,,WAT007 2000-2022
+EU,IT,Italy,2003,15121.9,,,,,,WAT007 2000-2022
+EU,IT,Italy,2004,13910.1,,,,,,WAT007 2000-2022
+EU,IT,Italy,2005,13068.8,,,,,,WAT007 2000-2022
+EU,IT,Italy,2006,11804.3,,,,,,WAT007 2000-2022
+EU,IT,Italy,2007,12890,,,,,,WAT007 2000-2022
+EU,IT,Italy,2008,14713.1,,,,,,WAT007 2000-2022
+EU,IT,Italy,2009,16800,,,,,,WAT007 2000-2022
+EU,IT,Italy,2010,11098,,,,,,WAT007 2000-2022
+EU,IT,Italy,2011,15436,,,,,,WAT007 2000-2022
+EU,IT,Italy,2012,16088.3,,,,,,WAT007 2000-2022
+EU,IT,Italy,2013,16725.1,,,,,,WAT007 2000-2022
+EU,IT,Italy,2014,17121,,,,,,WAT007 2000-2022
+EU,IT,Italy,2015,17041.2,,,,,,WAT007 2000-2022
+EU,IT,Italy,2016,16163.7,,,,,,WAT007 2000-2022
+EU,IT,Italy,2017,16069.2,,,,,,WAT007 2000-2022
+EU,IT,Italy,2018,16523.4,,,,,,WAT007 2000-2022
+EU,IT,Italy,2019,16543.4,,,,,,WAT007 2000-2022
+EU,IT,Italy,2020,19649.1,,,,,,WAT007 2000-2022
+EU,IT,Italy,2021,19649.1,,,,,,WAT007 2000-2022
+EU,IT,Italy,2022,19646.1,,,,,,WAT007 2000-2022
+EU,IT,Italy,2023,17554.8,,,,,,EEA estimate based on ESTAT Utilised Agricultural Area 
+EU,IT,Italy,2000,,,,,0,,WAT007 2000-2022
+EU,IT,Italy,2001,,,,,0,,WAT007 2000-2022
+EU,IT,Italy,2002,,,,,0,,WAT007 2000-2022
+EU,IT,Italy,2003,,,,,0,,WAT007 2000-2022
+EU,IT,Italy,2004,,,,,0,,WAT007 2000-2022
+EU,IT,Italy,2005,,,,,0,,WAT007 2000-2022
+EU,IT,Italy,2006,,,,,0,,WAT007 2000-2022
+EU,IT,Italy,2007,,,,,0,,WAT007 2000-2022
+EU,IT,Italy,2008,,,,,0,,WAT007 2000-2022
+EU,IT,Italy,2009,,,,,0,,WAT007 2000-2022
+EU,IT,Italy,2010,,,,,0,,WAT007 2000-2022
+EU,IT,Italy,2011,,,,,0,,WAT007 2000-2022
+EU,IT,Italy,2012,,,,,0,,WAT007 2000-2022
+EU,IT,Italy,2013,,,,,0,,WAT007 2000-2022
+EU,IT,Italy,2014,,,,,0,,WAT007 2000-2022
+EU,IT,Italy,2015,,,,,0,,WAT007 2000-2022
+EU,IT,Italy,2016,,,,,0,,WAT007 2000-2022
+EU,IT,Italy,2017,,,,,0,,WAT007 2000-2022
+EU,IT,Italy,2018,,,,,0,,WAT007 2000-2022
+EU,IT,Italy,2019,,,,,0,,WAT007 2000-2022
+EU,IT,Italy,2000,,,,16290,,,WAT007 2000-2022
+EU,IT,Italy,2001,,,,8494.4,,,WAT007 2000-2022
+EU,IT,Italy,2002,,,,14971,,,WAT007 2000-2022
+EU,IT,Italy,2003,,,,8157.9,,,WAT007 2000-2022
+EU,IT,Italy,2004,,,,8125.3,,,WAT007 2000-2022
+EU,IT,Italy,2005,,,,7995.3,,,WAT007 2000-2022
+EU,IT,Italy,2006,,,,8331.1,,,WAT007 2000-2022
+EU,IT,Italy,2007,,,,11661,,,WAT007 2000-2022
+EU,IT,Italy,2008,,,,8172.7,,,WAT007 2000-2022
+EU,IT,Italy,2009,,,,6333.9,,,WAT007 2000-2022
+EU,IT,Italy,2010,,,,6751.9,,,WAT007 2000-2022
+EU,IT,Italy,2011,,,,6859.9,,,WAT007 2000-2022
+EU,IT,Italy,2012,,,,5500,,,WAT007 2000-2022
+EU,IT,Italy,2013,,,,5351.5,,,WAT007 2000-2022
+EU,IT,Italy,2014,,,,5346.1,,,WAT007 2000-2022
+EU,IT,Italy,2015,,,,5180.3,,,WAT007 2000-2022
+EU,IT,Italy,2016,,,,5220.1,,,WAT007 2000-2022
+EU,IT,Italy,2017,,,,6596.1,,,WAT007 2000-2022
+EU,IT,Italy,2018,,,,6236.3,,,WAT007 2000-2022
+EU,IT,Italy,2019,,,,6125.1,,,WAT007 2000-2022
+EU,IT,Italy,2020,,,,6437.7,,,WAT007 2000-2022
+EU,IT,Italy,2021,,,,8425.5,,,WAT007 2000-2022
+EU,IT,Italy,2022,,,,8500.5,,,WAT007 2000-2022
+EU,IT,Italy,2023,,,,6616.2,,,EEA estimate based on ESTAT DEF_DISS_DS-056121
+EU,IT,Italy,2000,,,5981.5,,,,EEA estimate based on ESTAT Ind_peh and Ind_pehcf;WAT007 2000-2022
+EU,IT,Italy,2001,,,5864.8,,,,EEA estimate based on ESTAT Ind_peh and Ind_pehcf;WAT007 2000-2022
+EU,IT,Italy,2002,,,5978,,,,EEA estimate based on ESTAT Ind_peh and Ind_pehcf;WAT007 2000-2022
+EU,IT,Italy,2003,,,6200.5,,,,EEA estimate based on ESTAT Ind_peh and Ind_pehcf;WAT007 2000-2022
+EU,IT,Italy,2004,,,6088.3,,,,EEA estimate based on ESTAT Ind_peh and Ind_pehcf;WAT007 2000-2022
+EU,IT,Italy,2005,,,5817.6,,,,EEA estimate based on ESTAT Ind_peh and Ind_pehcf;WAT007 2000-2022
+EU,IT,Italy,2006,,,5891.4,,,,EEA estimate based on ESTAT Ind_peh and Ind_pehcf;WAT007 2000-2022
+EU,IT,Italy,2007,,,5733.9,,,,EEA estimate based on ESTAT Ind_peh and Ind_pehcf;WAT007 2000-2022
+EU,IT,Italy,2008,,,5936.6,,,,EEA estimate based on ESTAT Ind_peh and Ind_pehcf;WAT007 2000-2022
+EU,IT,Italy,2009,,,5124.7,,,,EEA estimate based on ESTAT Ind_peh and Ind_pehcf;WAT007 2000-2022
+EU,IT,Italy,2010,,,5014.1,,,,EEA estimate based on ESTAT Ind_peh and Ind_pehcf;WAT007 2000-2022
+EU,IT,Italy,2011,,,5279.9,,,,EEA estimate based on ESTAT Ind_peh and Ind_pehcf;WAT007 2000-2022
+EU,IT,Italy,2012,,,5125.9,,,,EEA estimate based on ESTAT Ind_peh and Ind_pehcf;WAT007 2000-2022
+EU,IT,Italy,2013,,,4976.3,,,,EEA estimate based on ESTAT Ind_peh and Ind_pehcf;WAT007 2000-2022
+EU,IT,Italy,2014,,,4792,,,,EEA estimate based on ESTAT Ind_peh and Ind_pehcf;WAT007 2000-2022
+EU,IT,Italy,2015,,,4691,,,,EEA estimate based on ESTAT Ind_peh and Ind_pehcf;WAT007 2000-2022
+EU,IT,Italy,2016,,,4625.3,,,,EEA estimate based on ESTAT Ind_peh and Ind_pehcf;WAT007 2000-2022
+EU,IT,Italy,2017,,,4698.2,,,,EEA estimate based on ESTAT Ind_peh and Ind_pehcf;WAT007 2000-2022
+EU,IT,Italy,2018,,,4564.4,,,,EEA estimate based on ESTAT Ind_peh and Ind_pehcf;WAT007 2000-2022
+EU,IT,Italy,2019,,,4608.3,,,,EEA estimate based on ESTAT Ind_peh and Ind_pehcf;WAT007 2000-2022
+EU,IT,Italy,2020,,,4318,,,,WAT007 2000-2022
+EU,IT,Italy,2021,,,4594.2,,,,WAT007 2000-2022
+EU,IT,Italy,2022,,,4619.5,,,,WAT007 2000-2022
+EU,IT,Italy,2023,,,4022.5,,,,EEA estimate based on ESTAT Ind_peh and Ind_pehcf
+EU,IT,Italy,2000,,,,,,5582.9,WAT007 2000-2022
+EU,IT,Italy,2001,,,,,,5559.3,WAT007 2000-2022
+EU,IT,Italy,2002,,,,,,5535.7,WAT007 2000-2022
+EU,IT,Italy,2003,,,,,,5512.1,WAT007 2000-2022
+EU,IT,Italy,2004,,,,,,5488.5,WAT007 2000-2022
+EU,IT,Italy,2005,,,,,,8942.3,WAT007 2000-2022
+EU,IT,Italy,2006,,,,,,8993.1,WAT007 2000-2022
+EU,IT,Italy,2007,,,,,,9043.9,WAT007 2000-2022
+EU,IT,Italy,2008,,,,,,9094.7,WAT007 2000-2022
+EU,IT,Italy,2009,,,,,,9183.7,WAT007 2000-2022
+EU,IT,Italy,2010,,,,,,9272.7,WAT007 2000-2022
+EU,IT,Italy,2011,,,,,,9361.7,WAT007 2000-2022
+EU,IT,Italy,2012,,,,,,9450.7,WAT007 2000-2022
+EU,IT,Italy,2013,,,,,,9367,WAT007 2000-2022
+EU,IT,Italy,2014,,,,,,9396,WAT007 2000-2022
+EU,IT,Italy,2015,,,,,,9476.4,WAT007 2000-2022
+EU,IT,Italy,2016,,,,,,9390.1,WAT007 2000-2022
+EU,IT,Italy,2017,,,,,,9305.3,WAT007 2000-2022
+EU,IT,Italy,2018,,,,,,9219.8,WAT007 2000-2022
+EU,IT,Italy,2019,,,,,,9198.6,WAT007 2000-2022
+EU,IT,Italy,2020,,,,,,9178,WAT007 2000-2022
+EU,IT,Italy,2021,,,,,,9116.2,WAT007 2000-2022
+EU,IT,Italy,2022,,,,,,9054.3,WAT007 2000-2022
+EU,IT,Italy,2023,,,,,,8405.3,EEA estimate based on ESTAT_demo_pjan
+

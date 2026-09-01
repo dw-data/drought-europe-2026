@@ -1,0 +1,134 @@
+Downloaded from: https://www.eea.europa.eu/en/analysis/indicators/water-abstraction-by-source-and/water-abstraction-by-economic-sector
+
+Publisher ,European Environment Agency,EEA
+
+Sources ,https://www.eea.europa.eu/en/datahub/datahubitem-view/a4324714-784a-4763-b8b9-b8939ead87fe?activeAccordion=1092906,European Environment Agency (EEA),"Waterbase - Water Quantity, 2023"
+ ,https://ec.europa.eu/eurostat/databrowser/view/env_wat_abs/default/table?lang=en&category=env.env_wat.env_nwat,Eurostat - Statistical Office of the European Union (ESTAT),Annual freshwater abstraction by source and sector
+
+Geographical coverage ,"Cyprus, Portugal, Spain, Malta, Denmark, Iceland, Switzerland, Sweden, Netherlands, Austria, Belgium, Germany, Luxembourg, Ireland, Türkiye, France, Liechtenstein, Slovakia, Czechia, Norway, Italy, Slovenia, Montenegro, Croatia, Bosnia and Herzegovina, Greece, Estonia, Latvia, Lithuania, Serbia, Finland, North Macedonia, Hungary, Bulgaria, Albania, Poland, Romania, Kosovo (UNSCR 1244/99)"
+
+Temporal coverage ,"2000, 2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023"
+
+EIONET,countryCode,Country,phenomenonTimePeriod_year,Agriculture_Million m3,Construction_Million m3,Electricity cooling_Million m3,Manufacturing_Million m3,Mining and Quarrying_Million m3,Public water supply_Million m3,dataSource
+
+Non-EU,BA,Bosnia and Herzegovina,2000,12.8,,,,,,WAT007 2000-2022
+Non-EU,BA,Bosnia and Herzegovina,2001,12.8,,,,,,WAT007 2000-2022
+Non-EU,BA,Bosnia and Herzegovina,2002,12.8,,,,,,WAT007 2000-2022
+Non-EU,BA,Bosnia and Herzegovina,2003,13.6,,,,,,WAT007 2000-2022
+Non-EU,BA,Bosnia and Herzegovina,2004,12.8,,,,,,WAT007 2000-2022
+Non-EU,BA,Bosnia and Herzegovina,2005,12.8,,,,,,WAT007 2000-2022
+Non-EU,BA,Bosnia and Herzegovina,2006,12.6,,,,,,WAT007 2000-2022
+Non-EU,BA,Bosnia and Herzegovina,2007,14.5,,,,,,WAT007 2000-2022
+Non-EU,BA,Bosnia and Herzegovina,2008,12.3,,,,,,WAT007 2000-2022
+Non-EU,BA,Bosnia and Herzegovina,2009,12.4,,,,,,WAT007 2000-2022
+Non-EU,BA,Bosnia and Herzegovina,2010,11.9,,,,,,WAT007 2000-2022
+Non-EU,BA,Bosnia and Herzegovina,2011,16.3,,,,,,WAT007 2000-2022
+Non-EU,BA,Bosnia and Herzegovina,2012,16.2,,,,,,WAT007 2000-2022
+Non-EU,BA,Bosnia and Herzegovina,2013,15.8,,,,,,WAT007 2000-2022
+Non-EU,BA,Bosnia and Herzegovina,2014,14.6,,,,,,WAT007 2000-2022
+Non-EU,BA,Bosnia and Herzegovina,2015,15.1,,,,,,WAT007 2000-2022
+Non-EU,BA,Bosnia and Herzegovina,2016,19.2,,,,,,WAT007 2000-2022
+Non-EU,BA,Bosnia and Herzegovina,2017,20.8,,,,,,WAT007 2000-2022
+Non-EU,BA,Bosnia and Herzegovina,2018,20.2,,,,,,WAT007 2000-2022
+Non-EU,BA,Bosnia and Herzegovina,2019,20.4,,,,,,WAT007 2000-2022
+Non-EU,BA,Bosnia and Herzegovina,2020,18.9,,,,,,WAT007 2000-2022
+Non-EU,BA,Bosnia and Herzegovina,2021,19.6,,,,,,WAT007 2000-2022
+Non-EU,BA,Bosnia and Herzegovina,2022,20,,,,,,WAT007 2000-2022
+Non-EU,BA,Bosnia and Herzegovina,2023,11.4,,,,,,EEA estimate based on ESTAT Utilised Agricultural Area 
+Non-EU,BA,Bosnia and Herzegovina,2000,,,,,0,,WAT007 2000-2022
+Non-EU,BA,Bosnia and Herzegovina,2001,,,,,0,,WAT007 2000-2022
+Non-EU,BA,Bosnia and Herzegovina,2002,,,,,0,,WAT007 2000-2022
+Non-EU,BA,Bosnia and Herzegovina,2003,,,,,0,,WAT007 2000-2022
+Non-EU,BA,Bosnia and Herzegovina,2004,,,,,0,,WAT007 2000-2022
+Non-EU,BA,Bosnia and Herzegovina,2005,,,,,0,,WAT007 2000-2022
+Non-EU,BA,Bosnia and Herzegovina,2006,,,,,0,,WAT007 2000-2022
+Non-EU,BA,Bosnia and Herzegovina,2007,,,,,0,,WAT007 2000-2022
+Non-EU,BA,Bosnia and Herzegovina,2008,,,,,0,,WAT007 2000-2022
+Non-EU,BA,Bosnia and Herzegovina,2009,,,,,0,,WAT007 2000-2022
+Non-EU,BA,Bosnia and Herzegovina,2010,,,,,0,,WAT007 2000-2022
+Non-EU,BA,Bosnia and Herzegovina,2011,,,,,0,,WAT007 2000-2022
+Non-EU,BA,Bosnia and Herzegovina,2012,,,,,16.1,,WAT007 2000-2022
+Non-EU,BA,Bosnia and Herzegovina,2013,,,,,21.2,,WAT007 2000-2022
+Non-EU,BA,Bosnia and Herzegovina,2014,,,,,15.3,,WAT007 2000-2022
+Non-EU,BA,Bosnia and Herzegovina,2015,,,,,16,,WAT007 2000-2022
+Non-EU,BA,Bosnia and Herzegovina,2016,,,,,16.1,,WAT007 2000-2022
+Non-EU,BA,Bosnia and Herzegovina,2017,,,,,10.6,,WAT007 2000-2022
+Non-EU,BA,Bosnia and Herzegovina,2018,,,,,9.7,,WAT007 2000-2022
+Non-EU,BA,Bosnia and Herzegovina,2019,,,,,9.2,,WAT007 2000-2022
+Non-EU,BA,Bosnia and Herzegovina,2020,,,,,11.4,,WAT007 2000-2022
+Non-EU,BA,Bosnia and Herzegovina,2021,,,,,8.6,,WAT007 2000-2022
+Non-EU,BA,Bosnia and Herzegovina,2022,,,,,8.7,,WAT007 2000-2022
+Non-EU,BA,Bosnia and Herzegovina,2023,,,,,7.4,,ESTAT env_wat_a
+Non-EU,BA,Bosnia and Herzegovina,2000,,,,0,,,WAT007 2000-2022
+Non-EU,BA,Bosnia and Herzegovina,2001,,,,0,,,WAT007 2000-2022
+Non-EU,BA,Bosnia and Herzegovina,2002,,,,0,,,WAT007 2000-2022
+Non-EU,BA,Bosnia and Herzegovina,2003,,,,0,,,WAT007 2000-2022
+Non-EU,BA,Bosnia and Herzegovina,2004,,,,0,,,WAT007 2000-2022
+Non-EU,BA,Bosnia and Herzegovina,2005,,,,0,,,WAT007 2000-2022
+Non-EU,BA,Bosnia and Herzegovina,2006,,,,0,,,WAT007 2000-2022
+Non-EU,BA,Bosnia and Herzegovina,2007,,,,0,,,WAT007 2000-2022
+Non-EU,BA,Bosnia and Herzegovina,2008,,,,0,,,WAT007 2000-2022
+Non-EU,BA,Bosnia and Herzegovina,2009,,,,75.3,,,WAT007 2000-2022
+Non-EU,BA,Bosnia and Herzegovina,2010,,,,80.1,,,WAT007 2000-2022
+Non-EU,BA,Bosnia and Herzegovina,2011,,,,79.5,,,WAT007 2000-2022
+Non-EU,BA,Bosnia and Herzegovina,2012,,,,67.2,,,WAT007 2000-2022
+Non-EU,BA,Bosnia and Herzegovina,2013,,,,80.3,,,WAT007 2000-2022
+Non-EU,BA,Bosnia and Herzegovina,2014,,,,65.8,,,WAT007 2000-2022
+Non-EU,BA,Bosnia and Herzegovina,2015,,,,66.2,,,WAT007 2000-2022
+Non-EU,BA,Bosnia and Herzegovina,2016,,,,66.9,,,WAT007 2000-2022
+Non-EU,BA,Bosnia and Herzegovina,2017,,,,71.7,,,WAT007 2000-2022
+Non-EU,BA,Bosnia and Herzegovina,2018,,,,70.9,,,WAT007 2000-2022
+Non-EU,BA,Bosnia and Herzegovina,2019,,,,71,,,WAT007 2000-2022
+Non-EU,BA,Bosnia and Herzegovina,2020,,,,70.1,,,WAT007 2000-2022
+Non-EU,BA,Bosnia and Herzegovina,2021,,,,61.8,,,WAT007 2000-2022
+Non-EU,BA,Bosnia and Herzegovina,2022,,,,60.7,,,WAT007 2000-2022
+Non-EU,BA,Bosnia and Herzegovina,2023,,,,58.4,,,ESTAT env_wat_a
+Non-EU,BA,Bosnia and Herzegovina,2000,,,0,,,,WAT007 2000-2022
+Non-EU,BA,Bosnia and Herzegovina,2001,,,0,,,,WAT007 2000-2022
+Non-EU,BA,Bosnia and Herzegovina,2002,,,0,,,,WAT007 2000-2022
+Non-EU,BA,Bosnia and Herzegovina,2003,,,0,,,,WAT007 2000-2022
+Non-EU,BA,Bosnia and Herzegovina,2004,,,0,,,,WAT007 2000-2022
+Non-EU,BA,Bosnia and Herzegovina,2005,,,0,,,,WAT007 2000-2022
+Non-EU,BA,Bosnia and Herzegovina,2006,,,0,,,,WAT007 2000-2022
+Non-EU,BA,Bosnia and Herzegovina,2007,,,0,,,,WAT007 2000-2022
+Non-EU,BA,Bosnia and Herzegovina,2008,,,0,,,,WAT007 2000-2022
+Non-EU,BA,Bosnia and Herzegovina,2009,,,0,,,,WAT007 2000-2022
+Non-EU,BA,Bosnia and Herzegovina,2010,,,0,,,,WAT007 2000-2022
+Non-EU,BA,Bosnia and Herzegovina,2011,,,0,,,,WAT007 2000-2022
+Non-EU,BA,Bosnia and Herzegovina,2012,,,0,,,,WAT007 2000-2022
+Non-EU,BA,Bosnia and Herzegovina,2013,,,0,,,,WAT007 2000-2022
+Non-EU,BA,Bosnia and Herzegovina,2014,,,1854.5,,,,EEA estimate based on ESTAT Ind_peh and Ind_pehcf;WAT007 2000-2022
+Non-EU,BA,Bosnia and Herzegovina,2015,,,1793.4,,,,EEA estimate based on ESTAT Ind_peh and Ind_pehcf;WAT007 2000-2022
+Non-EU,BA,Bosnia and Herzegovina,2016,,,1955.6,,,,EEA estimate based on ESTAT Ind_peh and Ind_pehcf;WAT007 2000-2022
+Non-EU,BA,Bosnia and Herzegovina,2017,,,1864.7,,,,EEA estimate based on ESTAT Ind_peh and Ind_pehcf;WAT007 2000-2022
+Non-EU,BA,Bosnia and Herzegovina,2018,,,2092.2,,,,EEA estimate based on ESTAT Ind_peh and Ind_pehcf;WAT007 2000-2022
+Non-EU,BA,Bosnia and Herzegovina,2019,,,1891.7,,,,EEA estimate based on ESTAT Ind_peh and Ind_pehcf;WAT007 2000-2022
+Non-EU,BA,Bosnia and Herzegovina,2020,,,1910.5,,,,WAT007 2000-2022
+Non-EU,BA,Bosnia and Herzegovina,2021,,,1926,,,,WAT007 2000-2022
+Non-EU,BA,Bosnia and Herzegovina,2022,,,1806.1,,,,WAT007 2000-2022
+Non-EU,BA,Bosnia and Herzegovina,2023,,,1803.6,,,,EEA estimate based on ESTAT Ind_peh and Ind_pehcf
+Non-EU,BA,Bosnia and Herzegovina,2000,,,,,,349,WAT007 2000-2022
+Non-EU,BA,Bosnia and Herzegovina,2001,,,,,,347,WAT007 2000-2022
+Non-EU,BA,Bosnia and Herzegovina,2002,,,,,,345,WAT007 2000-2022
+Non-EU,BA,Bosnia and Herzegovina,2003,,,,,,344,WAT007 2000-2022
+Non-EU,BA,Bosnia and Herzegovina,2004,,,,,,338.1,WAT007 2000-2022
+Non-EU,BA,Bosnia and Herzegovina,2005,,,,,,334.1,WAT007 2000-2022
+Non-EU,BA,Bosnia and Herzegovina,2006,,,,,,344.5,WAT007 2000-2022
+Non-EU,BA,Bosnia and Herzegovina,2007,,,,,,342.2,WAT007 2000-2022
+Non-EU,BA,Bosnia and Herzegovina,2008,,,,,,335.6,WAT007 2000-2022
+Non-EU,BA,Bosnia and Herzegovina,2009,,,,,,339.2,WAT007 2000-2022
+Non-EU,BA,Bosnia and Herzegovina,2010,,,,,,340.4,WAT007 2000-2022
+Non-EU,BA,Bosnia and Herzegovina,2011,,,,,,329.9,WAT007 2000-2022
+Non-EU,BA,Bosnia and Herzegovina,2012,,,,,,328.7,WAT007 2000-2022
+Non-EU,BA,Bosnia and Herzegovina,2013,,,,,,327.8,WAT007 2000-2022
+Non-EU,BA,Bosnia and Herzegovina,2014,,,,,,319.5,WAT007 2000-2022
+Non-EU,BA,Bosnia and Herzegovina,2015,,,,,,320.6,WAT007 2000-2022
+Non-EU,BA,Bosnia and Herzegovina,2016,,,,,,326.2,WAT007 2000-2022
+Non-EU,BA,Bosnia and Herzegovina,2017,,,,,,326.7,WAT007 2000-2022
+Non-EU,BA,Bosnia and Herzegovina,2018,,,,,,319.9,WAT007 2000-2022
+Non-EU,BA,Bosnia and Herzegovina,2019,,,,,,311.9,WAT007 2000-2022
+Non-EU,BA,Bosnia and Herzegovina,2020,,,,,,308.7,WAT007 2000-2022
+Non-EU,BA,Bosnia and Herzegovina,2021,,,,,,313.9,WAT007 2000-2022
+Non-EU,BA,Bosnia and Herzegovina,2022,,,,,,339.3,WAT007 2000-2022
+Non-EU,BA,Bosnia and Herzegovina,2023,,,,,,343.5,ESTAT env_wat_a
+

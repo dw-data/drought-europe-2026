@@ -1,0 +1,156 @@
+Downloaded from: https://www.eea.europa.eu/en/analysis/indicators/water-abstraction-by-source-and/water-abstraction-by-economic-sector
+
+Publisher ,European Environment Agency,EEA
+
+Sources ,https://www.eea.europa.eu/en/datahub/datahubitem-view/a4324714-784a-4763-b8b9-b8939ead87fe?activeAccordion=1092906,European Environment Agency (EEA),"Waterbase - Water Quantity, 2023"
+ ,https://ec.europa.eu/eurostat/databrowser/view/env_wat_abs/default/table?lang=en&category=env.env_wat.env_nwat,Eurostat - Statistical Office of the European Union (ESTAT),Annual freshwater abstraction by source and sector
+
+Geographical coverage ,"Cyprus, Portugal, Spain, Malta, Denmark, Iceland, Switzerland, Sweden, Netherlands, Austria, Belgium, Germany, Luxembourg, Ireland, Türkiye, France, Liechtenstein, Slovakia, Czechia, Norway, Italy, Slovenia, Montenegro, Croatia, Bosnia and Herzegovina, Greece, Estonia, Latvia, Lithuania, Serbia, Finland, North Macedonia, Hungary, Bulgaria, Albania, Poland, Romania, Kosovo (UNSCR 1244/99)"
+
+Temporal coverage ,"2000, 2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023"
+
+EIONET,countryCode,Country,phenomenonTimePeriod_year,Agriculture_Million m3,Construction_Million m3,Electricity cooling_Million m3,Manufacturing_Million m3,Mining and Quarrying_Million m3,Public water supply_Million m3,dataSource
+
+EU,CZ,Czechia,2000,20.8,,,,,,WAT007 2000-2022
+EU,CZ,Czechia,2001,18.5,,,,,,WAT007 2000-2022
+EU,CZ,Czechia,2002,25.9,,,,,,WAT007 2000-2022
+EU,CZ,Czechia,2003,91.3,,,,,,WAT007 2000-2022
+EU,CZ,Czechia,2004,38,,,,,,WAT007 2000-2022
+EU,CZ,Czechia,2005,31.8,,,,,,WAT007 2000-2022
+EU,CZ,Czechia,2006,36.9,,,,,,WAT007 2000-2022
+EU,CZ,Czechia,2007,45.2,,,,,,WAT007 2000-2022
+EU,CZ,Czechia,2008,44.8,,,,,,WAT007 2000-2022
+EU,CZ,Czechia,2009,52.8,,,,,,WAT007 2000-2022
+EU,CZ,Czechia,2010,49.9,,,,,,WAT007 2000-2022
+EU,CZ,Czechia,2011,52.5,,,,,,WAT007 2000-2022
+EU,CZ,Czechia,2012,56.2,,,,,,WAT007 2000-2022
+EU,CZ,Czechia,2013,57,,,,,,WAT007 2000-2022
+EU,CZ,Czechia,2014,60.8,,,,,,WAT007 2000-2022
+EU,CZ,Czechia,2015,66.9,,,,,,WAT007 2000-2022
+EU,CZ,Czechia,2016,61.3,,,,,,WAT007 2000-2022
+EU,CZ,Czechia,2017,62.2,,,,,,WAT007 2000-2022
+EU,CZ,Czechia,2018,62.7,,,,,,WAT007 2000-2022
+EU,CZ,Czechia,2019,57.5,,,,,,WAT007 2000-2022
+EU,CZ,Czechia,2020,52,,,,,,WAT007 2000-2022
+EU,CZ,Czechia,2021,50,,,,,,WAT007 2000-2022
+EU,CZ,Czechia,2022,50,,,,,,WAT007 2000-2022
+EU,CZ,Czechia,2023,44.1,,,,,,ESTAT env_wat_a
+EU,CZ,Czechia,2000,,,,,3.1,,WAT007 2000-2022
+EU,CZ,Czechia,2001,,,,,3.5,,WAT007 2000-2022
+EU,CZ,Czechia,2002,,,,,36.2,,WAT007 2000-2022
+EU,CZ,Czechia,2003,,,,,39.9,,WAT007 2000-2022
+EU,CZ,Czechia,2004,,,,,37.9,,WAT007 2000-2022
+EU,CZ,Czechia,2005,,,,,45.4,,WAT007 2000-2022
+EU,CZ,Czechia,2006,,,,,45.4,,WAT007 2000-2022
+EU,CZ,Czechia,2007,,,,,42.1,,WAT007 2000-2022
+EU,CZ,Czechia,2008,,,,,42.5,,WAT007 2000-2022
+EU,CZ,Czechia,2009,,,,,37.2,,WAT007 2000-2022
+EU,CZ,Czechia,2010,,,,,38.5,,WAT007 2000-2022
+EU,CZ,Czechia,2011,,,,,37.1,,WAT007 2000-2022
+EU,CZ,Czechia,2012,,,,,36.2,,WAT007 2000-2022
+EU,CZ,Czechia,2013,,,,,33.8,,WAT007 2000-2022
+EU,CZ,Czechia,2014,,,,,34.6,,WAT007 2000-2022
+EU,CZ,Czechia,2015,,,,,35.1,,WAT007 2000-2022
+EU,CZ,Czechia,2016,,,,,33.2,,WAT007 2000-2022
+EU,CZ,Czechia,2017,,,,,34.5,,WAT007 2000-2022
+EU,CZ,Czechia,2018,,,,,33.6,,WAT007 2000-2022
+EU,CZ,Czechia,2019,,,,,31.8,,WAT007 2000-2022
+EU,CZ,Czechia,2020,,,,,28.6,,WAT007 2000-2022
+EU,CZ,Czechia,2021,,,,,26.8,,WAT007 2000-2022
+EU,CZ,Czechia,2022,,,,,25.8,,WAT007 2000-2022
+EU,CZ,Czechia,2023,,,,,23.3,,ESTAT env_wat_a
+EU,CZ,Czechia,2000,,,,370.3,,,WAT007 2000-2022
+EU,CZ,Czechia,2001,,,,348.8,,,WAT007 2000-2022
+EU,CZ,Czechia,2002,,,,339.1,,,WAT007 2000-2022
+EU,CZ,Czechia,2003,,,,346.4,,,WAT007 2000-2022
+EU,CZ,Czechia,2004,,,,325,,,WAT007 2000-2022
+EU,CZ,Czechia,2005,,,,309.7,,,WAT007 2000-2022
+EU,CZ,Czechia,2006,,,,314.1,,,WAT007 2000-2022
+EU,CZ,Czechia,2007,,,,303.8,,,WAT007 2000-2022
+EU,CZ,Czechia,2008,,,,249.3,,,WAT007 2000-2022
+EU,CZ,Czechia,2009,,,,253.3,,,WAT007 2000-2022
+EU,CZ,Czechia,2010,,,,243.6,,,WAT007 2000-2022
+EU,CZ,Czechia,2011,,,,234,,,WAT007 2000-2022
+EU,CZ,Czechia,2012,,,,235.5,,,WAT007 2000-2022
+EU,CZ,Czechia,2013,,,,214.6,,,WAT007 2000-2022
+EU,CZ,Czechia,2014,,,,227,,,WAT007 2000-2022
+EU,CZ,Czechia,2015,,,,226.7,,,WAT007 2000-2022
+EU,CZ,Czechia,2016,,,,217.6,,,WAT007 2000-2022
+EU,CZ,Czechia,2017,,,,222.7,,,WAT007 2000-2022
+EU,CZ,Czechia,2018,,,,227.1,,,WAT007 2000-2022
+EU,CZ,Czechia,2019,,,,222.1,,,WAT007 2000-2022
+EU,CZ,Czechia,2020,,,,203.1,,,WAT007 2000-2022
+EU,CZ,Czechia,2021,,,,216.1,,,WAT007 2000-2022
+EU,CZ,Czechia,2022,,,,209.3,,,WAT007 2000-2022
+EU,CZ,Czechia,2023,,,,175.4,,,ESTAT env_wat_a
+EU,CZ,Czechia,2000,,,513.8,,,,WAT007 2000-2022
+EU,CZ,Czechia,2001,,,501.9,,,,WAT007 2000-2022
+EU,CZ,Czechia,2002,,,576.8,,,,WAT007 2000-2022
+EU,CZ,Czechia,2003,,,624.6,,,,WAT007 2000-2022
+EU,CZ,Czechia,2004,,,612.5,,,,WAT007 2000-2022
+EU,CZ,Czechia,2005,,,599,,,,WAT007 2000-2022
+EU,CZ,Czechia,2006,,,581.4,,,,EEA estimate based on ESTAT Ind_peh and Ind_pehcf;WAT007 2000-2022
+EU,CZ,Czechia,2007,,,607.4,,,,EEA estimate based on ESTAT Ind_peh and Ind_pehcf;WAT007 2000-2022
+EU,CZ,Czechia,2008,,,637.9,,,,EEA estimate based on ESTAT Ind_peh and Ind_pehcf;WAT007 2000-2022
+EU,CZ,Czechia,2009,,,683,,,,EEA estimate based on ESTAT Ind_peh and Ind_pehcf;WAT007 2000-2022
+EU,CZ,Czechia,2010,,,697.8,,,,EEA estimate based on ESTAT Ind_peh and Ind_pehcf;WAT007 2000-2022
+EU,CZ,Czechia,2011,,,682.2,,,,EEA estimate based on ESTAT Ind_peh and Ind_pehcf;WAT007 2000-2022
+EU,CZ,Czechia,2012,,,627.8,,,,EEA estimate based on ESTAT Ind_peh and Ind_pehcf;WAT007 2000-2022
+EU,CZ,Czechia,2013,,,496.4,,,,EEA estimate based on ESTAT Ind_peh and Ind_pehcf;WAT007 2000-2022
+EU,CZ,Czechia,2014,,,492.2,,,,EEA estimate based on ESTAT Ind_peh and Ind_pehcf;WAT007 2000-2022
+EU,CZ,Czechia,2015,,,439.4,,,,EEA estimate based on ESTAT Ind_peh and Ind_pehcf;WAT007 2000-2022
+EU,CZ,Czechia,2016,,,514.6,,,,EEA estimate based on ESTAT Ind_peh and Ind_pehcf;WAT007 2000-2022
+EU,CZ,Czechia,2017,,,481.5,,,,EEA estimate based on ESTAT Ind_peh and Ind_pehcf;WAT007 2000-2022
+EU,CZ,Czechia,2018,,,408.9,,,,EEA estimate based on ESTAT Ind_peh and Ind_pehcf;WAT007 2000-2022
+EU,CZ,Czechia,2019,,,359.9,,,,EEA estimate based on ESTAT Ind_peh and Ind_pehcf;WAT007 2000-2022
+EU,CZ,Czechia,2020,,,289.5,,,,EEA estimate based on ESTAT Ind_peh and Ind_pehcf;WAT007 2000-2022
+EU,CZ,Czechia,2021,,,264.8,,,,EEA estimate based on ESTAT Ind_peh and Ind_pehcf;WAT007 2000-2022
+EU,CZ,Czechia,2022,,,354.3,,,,EEA estimate based on ESTAT Ind_peh and Ind_pehcf;WAT007 2000-2022
+EU,CZ,Czechia,2023,,,261.9,,,,EEA estimate based on ESTAT Ind_peh and Ind_pehcf;ESTAT env_wat_a
+EU,CZ,Czechia,2000,,,,,,807.9,WAT007 2000-2022
+EU,CZ,Czechia,2001,,,,,,776.9,WAT007 2000-2022
+EU,CZ,Czechia,2002,,,,,,764.1,WAT007 2000-2022
+EU,CZ,Czechia,2003,,,,,,767.6,WAT007 2000-2022
+EU,CZ,Czechia,2004,,,,,,738.2,WAT007 2000-2022
+EU,CZ,Czechia,2005,,,,,,709.1,WAT007 2000-2022
+EU,CZ,Czechia,2006,,,,,,706,WAT007 2000-2022
+EU,CZ,Czechia,2007,,,,,,701.6,WAT007 2000-2022
+EU,CZ,Czechia,2008,,,,,,681.4,WAT007 2000-2022
+EU,CZ,Czechia,2009,,,,,,672.1,WAT007 2000-2022
+EU,CZ,Czechia,2010,,,,,,662.5,WAT007 2000-2022
+EU,CZ,Czechia,2011,,,,,,638,WAT007 2000-2022
+EU,CZ,Czechia,2012,,,,,,637.1,WAT007 2000-2022
+EU,CZ,Czechia,2013,,,,,,618.4,WAT007 2000-2022
+EU,CZ,Czechia,2014,,,,,,602,WAT007 2000-2022
+EU,CZ,Czechia,2015,,,,,,612.9,WAT007 2000-2022
+EU,CZ,Czechia,2016,,,,,,605.6,WAT007 2000-2022
+EU,CZ,Czechia,2017,,,,,,616.7,WAT007 2000-2022
+EU,CZ,Czechia,2018,,,,,,625.1,WAT007 2000-2022
+EU,CZ,Czechia,2019,,,,,,616.3,WAT007 2000-2022
+EU,CZ,Czechia,2020,,,,,,601.2,WAT007 2000-2022
+EU,CZ,Czechia,2021,,,,,,598.5,WAT007 2000-2022
+EU,CZ,Czechia,2022,,,,,,624,WAT007 2000-2022
+EU,CZ,Czechia,2023,,,,,,626.4,ESTAT env_wat_a
+EU,CZ,Czechia,2002,,2.6,,,,,WAT007 2000-2022
+EU,CZ,Czechia,2003,,0.1,,,,,WAT007 2000-2022
+EU,CZ,Czechia,2004,,0.5,,,,,WAT007 2000-2022
+EU,CZ,Czechia,2005,,0.4,,,,,WAT007 2000-2022
+EU,CZ,Czechia,2006,,0.5,,,,,WAT007 2000-2022
+EU,CZ,Czechia,2007,,0.5,,,,,WAT007 2000-2022
+EU,CZ,Czechia,2008,,0.3,,,,,WAT007 2000-2022
+EU,CZ,Czechia,2009,,0.3,,,,,WAT007 2000-2022
+EU,CZ,Czechia,2010,,0.2,,,,,WAT007 2000-2022
+EU,CZ,Czechia,2011,,0.2,,,,,WAT007 2000-2022
+EU,CZ,Czechia,2012,,0.2,,,,,WAT007 2000-2022
+EU,CZ,Czechia,2013,,0.2,,,,,WAT007 2000-2022
+EU,CZ,Czechia,2014,,0.1,,,,,WAT007 2000-2022
+EU,CZ,Czechia,2015,,0.1,,,,,WAT007 2000-2022
+EU,CZ,Czechia,2016,,0.3,,,,,WAT007 2000-2022
+EU,CZ,Czechia,2017,,0.2,,,,,WAT007 2000-2022
+EU,CZ,Czechia,2018,,0.1,,,,,WAT007 2000-2022
+EU,CZ,Czechia,2019,,0,,,,,WAT007 2000-2022
+EU,CZ,Czechia,2020,,0.1,,,,,WAT007 2000-2022
+EU,CZ,Czechia,2021,,0.1,,,,,WAT007 2000-2022
+EU,CZ,Czechia,2022,,0.1,,,,,WAT007 2000-2022
+EU,CZ,Czechia,2023,,0.1,,,,,ESTAT env_wat_a
+

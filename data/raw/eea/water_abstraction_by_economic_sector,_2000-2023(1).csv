@@ -1,0 +1,130 @@
+Downloaded from: https://www.eea.europa.eu/en/analysis/indicators/water-abstraction-by-source-and/water-abstraction-by-economic-sector
+
+Publisher ,European Environment Agency,EEA
+
+Sources ,https://www.eea.europa.eu/en/datahub/datahubitem-view/a4324714-784a-4763-b8b9-b8939ead87fe?activeAccordion=1092906,European Environment Agency (EEA),"Waterbase - Water Quantity, 2023"
+ ,https://ec.europa.eu/eurostat/databrowser/view/env_wat_abs/default/table?lang=en&category=env.env_wat.env_nwat,Eurostat - Statistical Office of the European Union (ESTAT),Annual freshwater abstraction by source and sector
+
+Geographical coverage ,"Cyprus, Portugal, Spain, Malta, Denmark, Iceland, Switzerland, Sweden, Netherlands, Austria, Belgium, Germany, Luxembourg, Ireland, Türkiye, France, Liechtenstein, Slovakia, Czechia, Norway, Italy, Slovenia, Montenegro, Croatia, Bosnia and Herzegovina, Greece, Estonia, Latvia, Lithuania, Serbia, Finland, North Macedonia, Hungary, Bulgaria, Albania, Poland, Romania, Kosovo (UNSCR 1244/99)"
+
+Temporal coverage ,"2000, 2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023"
+
+EIONET,countryCode,Country,phenomenonTimePeriod_year,Agriculture_Million m3,Construction_Million m3,Electricity cooling_Million m3,Manufacturing_Million m3,Mining and Quarrying_Million m3,Public water supply_Million m3,dataSource
+
+EU,AT,Austria,2000,100,,,,,,WAT007 2000-2022
+EU,AT,Austria,2001,100,,,,,,WAT007 2000-2022
+EU,AT,Austria,2002,100,,,,,,WAT007 2000-2022
+EU,AT,Austria,2003,100,,,,,,WAT007 2000-2022
+EU,AT,Austria,2004,100,,,,,,WAT007 2000-2022
+EU,AT,Austria,2005,100,,,,,,WAT007 2000-2022
+EU,AT,Austria,2006,100,,,,,,WAT007 2000-2022
+EU,AT,Austria,2007,100,,,,,,WAT007 2000-2022
+EU,AT,Austria,2008,100,,,,,,WAT007 2000-2022
+EU,AT,Austria,2009,100,,,,,,WAT007 2000-2022
+EU,AT,Austria,2010,100,,,,,,WAT007 2000-2022
+EU,AT,Austria,2011,100,,,,,,WAT007 2000-2022
+EU,AT,Austria,2012,100,,,,,,WAT007 2000-2022
+EU,AT,Austria,2013,100,,,,,,WAT007 2000-2022
+EU,AT,Austria,2014,100,,,,,,WAT007 2000-2022
+EU,AT,Austria,2015,100,,,,,,WAT007 2000-2022
+EU,AT,Austria,2016,100,,,,,,WAT007 2000-2022
+EU,AT,Austria,2017,100,,,,,,WAT007 2000-2022
+EU,AT,Austria,2018,100,,,,,,WAT007 2000-2022
+EU,AT,Austria,2019,100,,,,,,WAT007 2000-2022
+EU,AT,Austria,2020,100,,,,,,WAT007 2000-2022
+EU,AT,Austria,2021,100,,,,,,WAT007 2000-2022
+EU,AT,Austria,2022,100,,,,,,WAT007 2000-2022
+EU,AT,Austria,2023,96.7,,,,,,EEA estimate based on ESTAT Utilised Agricultural Area 
+EU,AT,Austria,2000,,,,,0,,WAT007 2000-2022
+EU,AT,Austria,2001,,,,,0,,WAT007 2000-2022
+EU,AT,Austria,2002,,,,,0,,WAT007 2000-2022
+EU,AT,Austria,2003,,,,,0,,WAT007 2000-2022
+EU,AT,Austria,2004,,,,,0,,WAT007 2000-2022
+EU,AT,Austria,2005,,,,,0,,WAT007 2000-2022
+EU,AT,Austria,2006,,,,,0,,WAT007 2000-2022
+EU,AT,Austria,2007,,,,,0,,WAT007 2000-2022
+EU,AT,Austria,2008,,,,,0,,WAT007 2000-2022
+EU,AT,Austria,2009,,,,,0,,WAT007 2000-2022
+EU,AT,Austria,2010,,,,,0,,WAT007 2000-2022
+EU,AT,Austria,2011,,,,,0,,WAT007 2000-2022
+EU,AT,Austria,2012,,,,,0,,WAT007 2000-2022
+EU,AT,Austria,2013,,,,,0,,WAT007 2000-2022
+EU,AT,Austria,2014,,,,,0,,WAT007 2000-2022
+EU,AT,Austria,2015,,,,,0,,WAT007 2000-2022
+EU,AT,Austria,2016,,,,,0,,WAT007 2000-2022
+EU,AT,Austria,2017,,,,,0,,WAT007 2000-2022
+EU,AT,Austria,2018,,,,,0,,WAT007 2000-2022
+EU,AT,Austria,2019,,,,,0,,WAT007 2000-2022
+EU,AT,Austria,2000,,,,1259.2,,,WAT007 2000-2022
+EU,AT,Austria,2001,,,,1239.5,,,WAT007 2000-2022
+EU,AT,Austria,2002,,,,1220.2,,,WAT007 2000-2022
+EU,AT,Austria,2003,,,,1242.2,,,WAT007 2000-2022
+EU,AT,Austria,2004,,,,1317.9,,,WAT007 2000-2022
+EU,AT,Austria,2005,,,,1368,,,WAT007 2000-2022
+EU,AT,Austria,2006,,,,1465.1,,,WAT007 2000-2022
+EU,AT,Austria,2007,,,,1557.4,,,WAT007 2000-2022
+EU,AT,Austria,2008,,,,1657.1,,,WAT007 2000-2022
+EU,AT,Austria,2009,,,,1433.4,,,WAT007 2000-2022
+EU,AT,Austria,2010,,,,1526.5,,,WAT007 2000-2022
+EU,AT,Austria,2011,,,,1627.3,,,WAT007 2000-2022
+EU,AT,Austria,2012,,,,1628.9,,,WAT007 2000-2022
+EU,AT,Austria,2013,,,,1643.6,,,WAT007 2000-2022
+EU,AT,Austria,2014,,,,1665,,,WAT007 2000-2022
+EU,AT,Austria,2015,,,,1708.3,,,WAT007 2000-2022
+EU,AT,Austria,2016,,,,1708,,,WAT007 2000-2022
+EU,AT,Austria,2017,,,,1708,,,WAT007 2000-2022
+EU,AT,Austria,2018,,,,1781.5,,,WAT007 2000-2022
+EU,AT,Austria,2019,,,,1633.2,,,EEA estimate based on ESTAT DEF_DISS_DS-056121
+EU,AT,Austria,2020,,,,1480.4,,,WAT007 2000-2022
+EU,AT,Austria,2021,,,,1721.3,,,WAT007 2000-2022
+EU,AT,Austria,2022,,,,1544.2,,,WAT007 2000-2022
+EU,AT,Austria,2023,,,,1383.5,,,EEA estimate based on ESTAT DEF_DISS_DS-056121
+EU,AT,Austria,2000,,,1629.4,,,,WAT007 2000-2022
+EU,AT,Austria,2001,,,1844.1,,,,WAT007 2000-2022
+EU,AT,Austria,2002,,,1830.8,,,,WAT007 2000-2022
+EU,AT,Austria,2003,,,1570.9,,,,WAT007 2000-2022
+EU,AT,Austria,2004,,,1674.7,,,,WAT007 2000-2022
+EU,AT,Austria,2005,,,1744.7,,,,WAT007 2000-2022
+EU,AT,Austria,2006,,,1688.8,,,,WAT007 2000-2022
+EU,AT,Austria,2007,,,1701.4,,,,WAT007 2000-2022
+EU,AT,Austria,2008,,,1752,,,,WAT007 2000-2022
+EU,AT,Austria,2009,,,1803.7,,,,WAT007 2000-2022
+EU,AT,Austria,2010,,,1856.9,,,,WAT007 2000-2022
+EU,AT,Austria,2011,,,1718,,,,WAT007 2000-2022
+EU,AT,Austria,2012,,,1895.3,,,,WAT007 2000-2022
+EU,AT,Austria,2013,,,1783.4,,,,WAT007 2000-2022
+EU,AT,Austria,2014,,,1708.4,,,,WAT007 2000-2022
+EU,AT,Austria,2015,,,1704.7,,,,WAT007 2000-2022
+EU,AT,Austria,2016,,,1702.3,,,,WAT007 2000-2022
+EU,AT,Austria,2017,,,1783.5,,,,WAT007 2000-2022
+EU,AT,Austria,2018,,,1171.6,,,,WAT007 2000-2022
+EU,AT,Austria,2019,,,1221.4,,,,WAT007 2000-2022
+EU,AT,Austria,2020,,,1615.4,,,,WAT007 2000-2022
+EU,AT,Austria,2021,,,1495.1,,,,WAT007 2000-2022
+EU,AT,Austria,2022,,,1529.5,,,,WAT007 2000-2022
+EU,AT,Austria,2023,,,1779,,,,EEA estimate based on ESTAT Ind_peh and Ind_pehcf
+EU,AT,Austria,2000,,,,,,587.7,WAT007 2000-2022
+EU,AT,Austria,2001,,,,,,583,WAT007 2000-2022
+EU,AT,Austria,2002,,,,,,578,WAT007 2000-2022
+EU,AT,Austria,2003,,,,,,572.6,WAT007 2000-2022
+EU,AT,Austria,2004,,,,,,567,WAT007 2000-2022
+EU,AT,Austria,2005,,,,,,561,WAT007 2000-2022
+EU,AT,Austria,2006,,,,,,554.7,WAT007 2000-2022
+EU,AT,Austria,2007,,,,,,548.1,WAT007 2000-2022
+EU,AT,Austria,2008,,,,,,608,WAT007 2000-2022
+EU,AT,Austria,2009,,,,,,646.7,WAT007 2000-2022
+EU,AT,Austria,2010,,,,,,685.6,WAT007 2000-2022
+EU,AT,Austria,2011,,,,,,691.1,WAT007 2000-2022
+EU,AT,Austria,2012,,,,,,696.6,WAT007 2000-2022
+EU,AT,Austria,2013,,,,,,702.2,WAT007 2000-2022
+EU,AT,Austria,2014,,,,,,707.7,WAT007 2000-2022
+EU,AT,Austria,2015,,,,,,713.2,WAT007 2000-2022
+EU,AT,Austria,2016,,,,,,689.6,EEA estimate based on ESTAT_demo_pjan;WAT007 2000-2022
+EU,AT,Austria,2017,,,,,,706.8,EEA estimate based on ESTAT_demo_pjan;WAT007 2000-2022
+EU,AT,Austria,2018,,,,,,719.7,EEA estimate based on ESTAT_demo_pjan;WAT007 2000-2022
+EU,AT,Austria,2019,,,,,,611.7,EEA estimate based on ESTAT_demo_pjan;WAT007 2000-2022
+EU,AT,Austria,2020,,,,,,675.3,EEA estimate based on ESTAT_demo_pjan;WAT007 2000-2022
+EU,AT,Austria,2021,,,,,,677.7,EEA estimate based on ESTAT_demo_pjan;WAT007 2000-2022
+EU,AT,Austria,2022,,,,,,681.2,EEA estimate based on ESTAT_demo_pjan;WAT007 2000-2022
+EU,AT,Austria,2023,,,,,,690.7,EEA estimate based on ESTAT_demo_pjan
+

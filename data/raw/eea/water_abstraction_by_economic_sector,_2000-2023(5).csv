@@ -1,0 +1,157 @@
+Downloaded from: https://www.eea.europa.eu/en/analysis/indicators/water-abstraction-by-source-and/water-abstraction-by-economic-sector
+
+Publisher ,European Environment Agency,EEA
+
+Sources ,https://www.eea.europa.eu/en/datahub/datahubitem-view/a4324714-784a-4763-b8b9-b8939ead87fe?activeAccordion=1092906,European Environment Agency (EEA),"Waterbase - Water Quantity, 2023"
+ ,https://ec.europa.eu/eurostat/databrowser/view/env_wat_abs/default/table?lang=en&category=env.env_wat.env_nwat,Eurostat - Statistical Office of the European Union (ESTAT),Annual freshwater abstraction by source and sector
+
+Geographical coverage ,"Cyprus, Portugal, Spain, Malta, Denmark, Iceland, Switzerland, Sweden, Netherlands, Austria, Belgium, Germany, Luxembourg, Ireland, Türkiye, France, Liechtenstein, Slovakia, Czechia, Norway, Italy, Slovenia, Montenegro, Croatia, Bosnia and Herzegovina, Greece, Estonia, Latvia, Lithuania, Serbia, Finland, North Macedonia, Hungary, Bulgaria, Albania, Poland, Romania, Kosovo (UNSCR 1244/99)"
+
+Temporal coverage ,"2000, 2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023"
+
+EIONET,countryCode,Country,phenomenonTimePeriod_year,Agriculture_Million m3,Construction_Million m3,Electricity cooling_Million m3,Manufacturing_Million m3,Mining and Quarrying_Million m3,Public water supply_Million m3,dataSource
+
+EU,HR,Croatia,2000,30,,,,,,WAT007 2000-2022
+EU,HR,Croatia,2001,30,,,,,,WAT007 2000-2022
+EU,HR,Croatia,2002,30,,,,,,WAT007 2000-2022
+EU,HR,Croatia,2003,30,,,,,,WAT007 2000-2022
+EU,HR,Croatia,2004,30,,,,,,WAT007 2000-2022
+EU,HR,Croatia,2005,30,,,,,,WAT007 2000-2022
+EU,HR,Croatia,2006,30,,,,,,WAT007 2000-2022
+EU,HR,Croatia,2007,30,,,,,,WAT007 2000-2022
+EU,HR,Croatia,2008,30,,,,,,WAT007 2000-2022
+EU,HR,Croatia,2009,30,,,,,,WAT007 2000-2022
+EU,HR,Croatia,2010,30,,,,,,WAT007 2000-2022
+EU,HR,Croatia,2011,30,,,,,,WAT007 2000-2022
+EU,HR,Croatia,2012,30,,,,,,WAT007 2000-2022
+EU,HR,Croatia,2013,30,,,,,,WAT007 2000-2022
+EU,HR,Croatia,2014,30,,,,,,WAT007 2000-2022
+EU,HR,Croatia,2015,30,,,,,,WAT007 2000-2022
+EU,HR,Croatia,2016,30,,,,,,WAT007 2000-2022
+EU,HR,Croatia,2017,30,,,,,,WAT007 2000-2022
+EU,HR,Croatia,2018,30,,,,,,WAT007 2000-2022
+EU,HR,Croatia,2019,30,,,,,,WAT007 2000-2022
+EU,HR,Croatia,2020,30,,,,,,WAT007 2000-2022
+EU,HR,Croatia,2021,30,,,,,,WAT007 2000-2022
+EU,HR,Croatia,2022,30,,,,,,WAT007 2000-2022
+EU,HR,Croatia,2023,30,,,,,,ESTAT env_wat_a
+EU,HR,Croatia,2000,,,,,3.5,,WAT007 2000-2022
+EU,HR,Croatia,2001,,,,,2.7,,WAT007 2000-2022
+EU,HR,Croatia,2002,,,,,2.8,,WAT007 2000-2022
+EU,HR,Croatia,2003,,,,,2.7,,WAT007 2000-2022
+EU,HR,Croatia,2004,,,,,2.8,,WAT007 2000-2022
+EU,HR,Croatia,2005,,,,,2.9,,WAT007 2000-2022
+EU,HR,Croatia,2006,,,,,3.2,,WAT007 2000-2022
+EU,HR,Croatia,2007,,,,,3.3,,WAT007 2000-2022
+EU,HR,Croatia,2008,,,,,2.1,,WAT007 2000-2022
+EU,HR,Croatia,2009,,,,,2.3,,WAT007 2000-2022
+EU,HR,Croatia,2010,,,,,2.4,,WAT007 2000-2022
+EU,HR,Croatia,2011,,,,,1.8,,WAT007 2000-2022
+EU,HR,Croatia,2012,,,,,2.3,,WAT007 2000-2022
+EU,HR,Croatia,2013,,,,,2.5,,WAT007 2000-2022
+EU,HR,Croatia,2014,,,,,2.3,,WAT007 2000-2022
+EU,HR,Croatia,2015,,,,,2.5,,WAT007 2000-2022
+EU,HR,Croatia,2016,,,,,2.3,,WAT007 2000-2022
+EU,HR,Croatia,2017,,,,,2.4,,WAT007 2000-2022
+EU,HR,Croatia,2018,,,,,2.5,,WAT007 2000-2022
+EU,HR,Croatia,2019,,,,,2.1,,WAT007 2000-2022
+EU,HR,Croatia,2020,,,,,2.4,,WAT007 2000-2022
+EU,HR,Croatia,2021,,,,,2.3,,WAT007 2000-2022
+EU,HR,Croatia,2022,,,,,2.4,,WAT007 2000-2022
+EU,HR,Croatia,2023,,,,,2.1,,ESTAT env_wat_a
+EU,HR,Croatia,2000,,,,60,,,WAT007 2000-2022
+EU,HR,Croatia,2001,,,,27.4,,,WAT007 2000-2022
+EU,HR,Croatia,2002,,,,28.4,,,WAT007 2000-2022
+EU,HR,Croatia,2003,,,,26.7,,,WAT007 2000-2022
+EU,HR,Croatia,2004,,,,26.5,,,WAT007 2000-2022
+EU,HR,Croatia,2005,,,,28.8,,,WAT007 2000-2022
+EU,HR,Croatia,2006,,,,30.5,,,WAT007 2000-2022
+EU,HR,Croatia,2007,,,,29,,,WAT007 2000-2022
+EU,HR,Croatia,2008,,,,29.3,,,WAT007 2000-2022
+EU,HR,Croatia,2009,,,,28.9,,,WAT007 2000-2022
+EU,HR,Croatia,2010,,,,28.8,,,WAT007 2000-2022
+EU,HR,Croatia,2011,,,,30.4,,,WAT007 2000-2022
+EU,HR,Croatia,2012,,,,29.3,,,WAT007 2000-2022
+EU,HR,Croatia,2013,,,,28.3,,,WAT007 2000-2022
+EU,HR,Croatia,2014,,,,27.5,,,WAT007 2000-2022
+EU,HR,Croatia,2015,,,,28.1,,,WAT007 2000-2022
+EU,HR,Croatia,2016,,,,27.7,,,WAT007 2000-2022
+EU,HR,Croatia,2017,,,,28.8,,,WAT007 2000-2022
+EU,HR,Croatia,2018,,,,30.1,,,WAT007 2000-2022
+EU,HR,Croatia,2019,,,,30.1,,,WAT007 2000-2022
+EU,HR,Croatia,2020,,,,26.9,,,WAT007 2000-2022
+EU,HR,Croatia,2021,,,,25,,,WAT007 2000-2022
+EU,HR,Croatia,2022,,,,21.8,,,WAT007 2000-2022
+EU,HR,Croatia,2023,,,,22.6,,,ESTAT env_wat_a
+EU,HR,Croatia,2000,,,110,,,,WAT007 2000-2022
+EU,HR,Croatia,2001,,,110,,,,WAT007 2000-2022
+EU,HR,Croatia,2002,,,110,,,,WAT007 2000-2022
+EU,HR,Croatia,2003,,,110,,,,WAT007 2000-2022
+EU,HR,Croatia,2004,,,110,,,,WAT007 2000-2022
+EU,HR,Croatia,2005,,,110,,,,WAT007 2000-2022
+EU,HR,Croatia,2006,,,110,,,,WAT007 2000-2022
+EU,HR,Croatia,2007,,,110,,,,WAT007 2000-2022
+EU,HR,Croatia,2008,,,76.5,,,,WAT007 2000-2022
+EU,HR,Croatia,2009,,,76.7,,,,WAT007 2000-2022
+EU,HR,Croatia,2010,,,106.9,,,,WAT007 2000-2022
+EU,HR,Croatia,2011,,,83.5,,,,WAT007 2000-2022
+EU,HR,Croatia,2012,,,96.6,,,,WAT007 2000-2022
+EU,HR,Croatia,2013,,,76.8,,,,WAT007 2000-2022
+EU,HR,Croatia,2014,,,73.9,,,,WAT007 2000-2022
+EU,HR,Croatia,2015,,,94.8,,,,WAT007 2000-2022
+EU,HR,Croatia,2016,,,108.1,,,,WAT007 2000-2022
+EU,HR,Croatia,2017,,,166.3,,,,WAT007 2000-2022
+EU,HR,Croatia,2018,,,165,,,,WAT007 2000-2022
+EU,HR,Croatia,2019,,,171.9,,,,WAT007 2000-2022
+EU,HR,Croatia,2020,,,164.2,,,,WAT007 2000-2022
+EU,HR,Croatia,2021,,,167.3,,,,WAT007 2000-2022
+EU,HR,Croatia,2022,,,194.1,,,,WAT007 2000-2022
+EU,HR,Croatia,2023,,,198.2,,,,ESTAT env_wat_a
+EU,HR,Croatia,2000,,,,,,482,WAT007 2000-2022
+EU,HR,Croatia,2001,,,,,,488.6,WAT007 2000-2022
+EU,HR,Croatia,2002,,,,,,474.2,WAT007 2000-2022
+EU,HR,Croatia,2003,,,,,,495.5,WAT007 2000-2022
+EU,HR,Croatia,2004,,,,,,479.5,WAT007 2000-2022
+EU,HR,Croatia,2005,,,,,,476.1,WAT007 2000-2022
+EU,HR,Croatia,2006,,,,,,471.1,WAT007 2000-2022
+EU,HR,Croatia,2007,,,,,,472,WAT007 2000-2022
+EU,HR,Croatia,2008,,,,,,464.1,WAT007 2000-2022
+EU,HR,Croatia,2009,,,,,,472.7,WAT007 2000-2022
+EU,HR,Croatia,2010,,,,,,513.9,WAT007 2000-2022
+EU,HR,Croatia,2011,,,,,,517.7,WAT007 2000-2022
+EU,HR,Croatia,2012,,,,,,493.5,WAT007 2000-2022
+EU,HR,Croatia,2013,,,,,,490.1,WAT007 2000-2022
+EU,HR,Croatia,2014,,,,,,445.1,WAT007 2000-2022
+EU,HR,Croatia,2015,,,,,,464.4,WAT007 2000-2022
+EU,HR,Croatia,2016,,,,,,467.5,WAT007 2000-2022
+EU,HR,Croatia,2017,,,,,,448.6,WAT007 2000-2022
+EU,HR,Croatia,2018,,,,,,441,WAT007 2000-2022
+EU,HR,Croatia,2019,,,,,,438,WAT007 2000-2022
+EU,HR,Croatia,2020,,,,,,434.7,WAT007 2000-2022
+EU,HR,Croatia,2021,,,,,,440.1,WAT007 2000-2022
+EU,HR,Croatia,2022,,,,,,452.7,WAT007 2000-2022
+EU,HR,Croatia,2023,,,,,,471.3,ESTAT env_wat_a
+EU,HR,Croatia,2001,,0,,,,,WAT007 2000-2022
+EU,HR,Croatia,2002,,0,,,,,WAT007 2000-2022
+EU,HR,Croatia,2003,,0,,,,,WAT007 2000-2022
+EU,HR,Croatia,2004,,0,,,,,WAT007 2000-2022
+EU,HR,Croatia,2005,,0,,,,,WAT007 2000-2022
+EU,HR,Croatia,2006,,0,,,,,WAT007 2000-2022
+EU,HR,Croatia,2007,,0,,,,,WAT007 2000-2022
+EU,HR,Croatia,2008,,0,,,,,WAT007 2000-2022
+EU,HR,Croatia,2009,,0,,,,,WAT007 2000-2022
+EU,HR,Croatia,2010,,0,,,,,WAT007 2000-2022
+EU,HR,Croatia,2011,,0,,,,,WAT007 2000-2022
+EU,HR,Croatia,2012,,0,,,,,WAT007 2000-2022
+EU,HR,Croatia,2013,,0,,,,,WAT007 2000-2022
+EU,HR,Croatia,2014,,0,,,,,WAT007 2000-2022
+EU,HR,Croatia,2015,,0,,,,,WAT007 2000-2022
+EU,HR,Croatia,2016,,0,,,,,WAT007 2000-2022
+EU,HR,Croatia,2017,,0,,,,,WAT007 2000-2022
+EU,HR,Croatia,2018,,0,,,,,WAT007 2000-2022
+EU,HR,Croatia,2019,,0,,,,,WAT007 2000-2022
+EU,HR,Croatia,2020,,0,,,,,WAT007 2000-2022
+EU,HR,Croatia,2021,,0,,,,,WAT007 2000-2022
+EU,HR,Croatia,2022,,0,,,,,WAT007 2000-2022
+EU,HR,Croatia,2023,,0,,,,,ESTAT env_wat_a
+

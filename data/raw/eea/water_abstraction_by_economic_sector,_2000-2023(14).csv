@@ -1,0 +1,138 @@
+Downloaded from: https://www.eea.europa.eu/en/analysis/indicators/water-abstraction-by-source-and/water-abstraction-by-economic-sector
+
+Publisher ,European Environment Agency,EEA
+
+Sources ,https://www.eea.europa.eu/en/datahub/datahubitem-view/a4324714-784a-4763-b8b9-b8939ead87fe?activeAccordion=1092906,European Environment Agency (EEA),"Waterbase - Water Quantity, 2023"
+ ,https://ec.europa.eu/eurostat/databrowser/view/env_wat_abs/default/table?lang=en&category=env.env_wat.env_nwat,Eurostat - Statistical Office of the European Union (ESTAT),Annual freshwater abstraction by source and sector
+
+Geographical coverage ,"Cyprus, Portugal, Spain, Malta, Denmark, Iceland, Switzerland, Sweden, Netherlands, Austria, Belgium, Germany, Luxembourg, Ireland, Türkiye, France, Liechtenstein, Slovakia, Czechia, Norway, Italy, Slovenia, Montenegro, Croatia, Bosnia and Herzegovina, Greece, Estonia, Latvia, Lithuania, Serbia, Finland, North Macedonia, Hungary, Bulgaria, Albania, Poland, Romania, Kosovo (UNSCR 1244/99)"
+
+Temporal coverage ,"2000, 2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023"
+
+EIONET,countryCode,Country,phenomenonTimePeriod_year,Agriculture_Million m3,Construction_Million m3,Electricity cooling_Million m3,Manufacturing_Million m3,Mining and Quarrying_Million m3,Public water supply_Million m3,dataSource
+
+EU,HU,Hungary,2000,728.7,,,,,,WAT007 2000-2022
+EU,HU,Hungary,2001,724,,,,,,WAT007 2000-2022
+EU,HU,Hungary,2002,687.3,,,,,,WAT007 2000-2022
+EU,HU,Hungary,2003,720,,,,,,WAT007 2000-2022
+EU,HU,Hungary,2004,653.2,,,,,,WAT007 2000-2022
+EU,HU,Hungary,2005,350.2,,,,,,WAT007 2000-2022
+EU,HU,Hungary,2006,343.7,,,,,,WAT007 2000-2022
+EU,HU,Hungary,2007,371.8,,,,,,WAT007 2000-2022
+EU,HU,Hungary,2008,388.9,,,,,,WAT007 2000-2022
+EU,HU,Hungary,2009,385.6,,,,,,WAT007 2000-2022
+EU,HU,Hungary,2010,279.5,,,,,,WAT007 2000-2022
+EU,HU,Hungary,2011,329.7,,,,,,WAT007 2000-2022
+EU,HU,Hungary,2012,321.7,,,,,,WAT007 2000-2022
+EU,HU,Hungary,2013,345.7,,,,,,WAT007 2000-2022
+EU,HU,Hungary,2014,328.9,,,,,,WAT007 2000-2022
+EU,HU,Hungary,2015,345.7,,,,,,WAT007 2000-2022
+EU,HU,Hungary,2016,310.3,,,,,,WAT007 2000-2022
+EU,HU,Hungary,2017,310.3,,,,,,WAT007 2000-2022
+EU,HU,Hungary,2018,310.3,,,,,,WAT007 2000-2022
+EU,HU,Hungary,2019,310.3,,,,,,WAT007 2000-2022
+EU,HU,Hungary,2020,310.3,,,,,,WAT007 2000-2022
+EU,HU,Hungary,2021,310.3,,,,,,WAT007 2000-2022
+EU,HU,Hungary,2022,310.3,,,,,,WAT007 2000-2022
+EU,HU,Hungary,2023,581.5,,,,,,ESTAT env_wat_a
+EU,HU,Hungary,2000,,,,,22.2,,WAT007 2000-2022
+EU,HU,Hungary,2001,,,,,19.5,,WAT007 2000-2022
+EU,HU,Hungary,2002,,,,,21.3,,WAT007 2000-2022
+EU,HU,Hungary,2003,,,,,12.9,,WAT007 2000-2022
+EU,HU,Hungary,2004,,,,,9.3,,WAT007 2000-2022
+EU,HU,Hungary,2005,,,,,5.4,,WAT007 2000-2022
+EU,HU,Hungary,2006,,,,,4.1,,WAT007 2000-2022
+EU,HU,Hungary,2007,,,,,4.3,,WAT007 2000-2022
+EU,HU,Hungary,2008,,,,,4.6,,WAT007 2000-2022
+EU,HU,Hungary,2009,,,,,36.3,,WAT007 2000-2022
+EU,HU,Hungary,2010,,,,,49.8,,WAT007 2000-2022
+EU,HU,Hungary,2011,,,,,46.5,,WAT007 2000-2022
+EU,HU,Hungary,2012,,,,,43.9,,WAT007 2000-2022
+EU,HU,Hungary,2013,,,,,41,,WAT007 2000-2022
+EU,HU,Hungary,2014,,,,,37.6,,WAT007 2000-2022
+EU,HU,Hungary,2015,,,,,35.5,,WAT007 2000-2022
+EU,HU,Hungary,2016,,,,,34.9,,WAT007 2000-2022
+EU,HU,Hungary,2017,,,,,30.4,,WAT007 2000-2022
+EU,HU,Hungary,2018,,,,,31.6,,WAT007 2000-2022
+EU,HU,Hungary,2019,,,,,26.6,,WAT007 2000-2022
+EU,HU,Hungary,2022,,,,,22.9,,WAT007 2000-2022
+EU,HU,Hungary,2023,,,,,22,,ESTAT env_wat_a
+EU,HU,Hungary,2000,,,,166.1,,,WAT007 2000-2022
+EU,HU,Hungary,2001,,,,161.8,,,WAT007 2000-2022
+EU,HU,Hungary,2002,,,,160.5,,,WAT007 2000-2022
+EU,HU,Hungary,2003,,,,146.4,,,WAT007 2000-2022
+EU,HU,Hungary,2004,,,,138.3,,,WAT007 2000-2022
+EU,HU,Hungary,2005,,,,87.6,,,WAT007 2000-2022
+EU,HU,Hungary,2006,,,,89.2,,,WAT007 2000-2022
+EU,HU,Hungary,2007,,,,81,,,WAT007 2000-2022
+EU,HU,Hungary,2008,,,,81.4,,,WAT007 2000-2022
+EU,HU,Hungary,2009,,,,71.2,,,WAT007 2000-2022
+EU,HU,Hungary,2010,,,,70.4,,,WAT007 2000-2022
+EU,HU,Hungary,2011,,,,74.9,,,WAT007 2000-2022
+EU,HU,Hungary,2012,,,,93.9,,,WAT007 2000-2022
+EU,HU,Hungary,2013,,,,104.9,,,WAT007 2000-2022
+EU,HU,Hungary,2014,,,,92.2,,,WAT007 2000-2022
+EU,HU,Hungary,2015,,,,101.5,,,WAT007 2000-2022
+EU,HU,Hungary,2016,,,,99.6,,,WAT007 2000-2022
+EU,HU,Hungary,2017,,,,50.6,,,WAT007 2000-2022
+EU,HU,Hungary,2018,,,,138.4,,,WAT007 2000-2022
+EU,HU,Hungary,2019,,,,130.4,,,WAT007 2000-2022
+EU,HU,Hungary,2020,,,,111.9,,,WAT007 2000-2022
+EU,HU,Hungary,2021,,,,123,,,WAT007 2000-2022
+EU,HU,Hungary,2022,,,,177.5,,,WAT007 2000-2022
+EU,HU,Hungary,2023,,,,157.2,,,ESTAT env_wat_a
+EU,HU,Hungary,2000,,,4141,,,,WAT007 2000-2022
+EU,HU,Hungary,2001,,,4277.7,,,,WAT007 2000-2022
+EU,HU,Hungary,2002,,,4252,,,,WAT007 2000-2022
+EU,HU,Hungary,2003,,,4016.9,,,,WAT007 2000-2022
+EU,HU,Hungary,2004,,,3943.3,,,,WAT007 2000-2022
+EU,HU,Hungary,2005,,,3501.4,,,,WAT007 2000-2022
+EU,HU,Hungary,2006,,,3522.7,,,,WAT007 2000-2022
+EU,HU,Hungary,2007,,,4176.1,,,,WAT007 2000-2022
+EU,HU,Hungary,2008,,,4348.7,,,,WAT007 2000-2022
+EU,HU,Hungary,2009,,,4811.4,,,,WAT007 2000-2022
+EU,HU,Hungary,2010,,,4000.3,,,,WAT007 2000-2022
+EU,HU,Hungary,2011,,,3802.1,,,,WAT007 2000-2022
+EU,HU,Hungary,2012,,,3610.1,,,,WAT007 2000-2022
+EU,HU,Hungary,2013,,,3531.4,,,,WAT007 2000-2022
+EU,HU,Hungary,2014,,,3426.3,,,,WAT007 2000-2022
+EU,HU,Hungary,2015,,,3537,,,,WAT007 2000-2022
+EU,HU,Hungary,2016,,,3539.1,,,,WAT007 2000-2022
+EU,HU,Hungary,2017,,,3718.8,,,,WAT007 2000-2022
+EU,HU,Hungary,2018,,,3352.6,,,,WAT007 2000-2022
+EU,HU,Hungary,2019,,,3398.5,,,,WAT007 2000-2022
+EU,HU,Hungary,2020,,,3514.3,,,,WAT007 2000-2022
+EU,HU,Hungary,2021,,,3586.7,,,,WAT007 2000-2022
+EU,HU,Hungary,2022,,,3331.1,,,,WAT007 2000-2022
+EU,HU,Hungary,2023,,,3236.6,,,,EEA estimate based on ESTAT Ind_peh and Ind_pehcf;ESTAT env_wat_a
+EU,HU,Hungary,2000,,,,,,817.3,WAT007 2000-2022
+EU,HU,Hungary,2001,,,,,,802.4,WAT007 2000-2022
+EU,HU,Hungary,2002,,,,,,801.9,WAT007 2000-2022
+EU,HU,Hungary,2003,,,,,,806.9,WAT007 2000-2022
+EU,HU,Hungary,2004,,,,,,802.9,WAT007 2000-2022
+EU,HU,Hungary,2005,,,,,,697.1,WAT007 2000-2022
+EU,HU,Hungary,2006,,,,,,661.3,WAT007 2000-2022
+EU,HU,Hungary,2007,,,,,,666.6,WAT007 2000-2022
+EU,HU,Hungary,2008,,,,,,640.7,WAT007 2000-2022
+EU,HU,Hungary,2009,,,,,,632.5,WAT007 2000-2022
+EU,HU,Hungary,2010,,,,,,597.6,WAT007 2000-2022
+EU,HU,Hungary,2011,,,,,,599.9,WAT007 2000-2022
+EU,HU,Hungary,2012,,,,,,598.4,WAT007 2000-2022
+EU,HU,Hungary,2013,,,,,,589.3,WAT007 2000-2022
+EU,HU,Hungary,2014,,,,,,574.5,WAT007 2000-2022
+EU,HU,Hungary,2015,,,,,,604.5,WAT007 2000-2022
+EU,HU,Hungary,2016,,,,,,594.7,WAT007 2000-2022
+EU,HU,Hungary,2017,,,,,,624.5,WAT007 2000-2022
+EU,HU,Hungary,2018,,,,,,627.9,WAT007 2000-2022
+EU,HU,Hungary,2019,,,,,,643.3,WAT007 2000-2022
+EU,HU,Hungary,2020,,,,,,647.7,WAT007 2000-2022
+EU,HU,Hungary,2021,,,,,,638.1,WAT007 2000-2022
+EU,HU,Hungary,2022,,,,,,820,WAT007 2000-2022
+EU,HU,Hungary,2023,,,,,,813,ESTAT env_wat_a
+EU,HU,Hungary,2003,,262.1,,,,,WAT007 2000-2022
+EU,HU,Hungary,2004,,217.9,,,,,WAT007 2000-2022
+EU,HU,Hungary,2005,,215,,,,,WAT007 2000-2022
+EU,HU,Hungary,2006,,222.9,,,,,WAT007 2000-2022
+EU,HU,Hungary,2007,,224.2,,,,,WAT007 2000-2022
+EU,HU,Hungary,2008,,230.6,,,,,WAT007 2000-2022
+

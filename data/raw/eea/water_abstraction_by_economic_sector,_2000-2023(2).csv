@@ -1,0 +1,156 @@
+Downloaded from: https://www.eea.europa.eu/en/analysis/indicators/water-abstraction-by-source-and/water-abstraction-by-economic-sector
+
+Publisher ,European Environment Agency,EEA
+
+Sources ,https://www.eea.europa.eu/en/datahub/datahubitem-view/a4324714-784a-4763-b8b9-b8939ead87fe?activeAccordion=1092906,European Environment Agency (EEA),"Waterbase - Water Quantity, 2023"
+ ,https://ec.europa.eu/eurostat/databrowser/view/env_wat_abs/default/table?lang=en&category=env.env_wat.env_nwat,Eurostat - Statistical Office of the European Union (ESTAT),Annual freshwater abstraction by source and sector
+
+Geographical coverage ,"Cyprus, Portugal, Spain, Malta, Denmark, Iceland, Switzerland, Sweden, Netherlands, Austria, Belgium, Germany, Luxembourg, Ireland, Türkiye, France, Liechtenstein, Slovakia, Czechia, Norway, Italy, Slovenia, Montenegro, Croatia, Bosnia and Herzegovina, Greece, Estonia, Latvia, Lithuania, Serbia, Finland, North Macedonia, Hungary, Bulgaria, Albania, Poland, Romania, Kosovo (UNSCR 1244/99)"
+
+Temporal coverage ,"2000, 2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023"
+
+EIONET,countryCode,Country,phenomenonTimePeriod_year,Agriculture_Million m3,Construction_Million m3,Electricity cooling_Million m3,Manufacturing_Million m3,Mining and Quarrying_Million m3,Public water supply_Million m3,dataSource
+
+EU,BE,Belgium,2000,50.6,,,,,,WAT007 2000-2022
+EU,BE,Belgium,2001,51.5,,,,,,WAT007 2000-2022
+EU,BE,Belgium,2002,56.6,,,,,,WAT007 2000-2022
+EU,BE,Belgium,2003,52.5,,,,,,WAT007 2000-2022
+EU,BE,Belgium,2004,50.7,,,,,,WAT007 2000-2022
+EU,BE,Belgium,2005,46.2,,,,,,WAT007 2000-2022
+EU,BE,Belgium,2006,54.6,,,,,,WAT007 2000-2022
+EU,BE,Belgium,2007,55,,,,,,WAT007 2000-2022
+EU,BE,Belgium,2008,50.4,,,,,,WAT007 2000-2022
+EU,BE,Belgium,2009,51.8,,,,,,WAT007 2000-2022
+EU,BE,Belgium,2010,51.7,,,,,,WAT007 2000-2022
+EU,BE,Belgium,2011,50.9,,,,,,WAT007 2000-2022
+EU,BE,Belgium,2012,55.3,,,,,,WAT007 2000-2022
+EU,BE,Belgium,2013,59.2,,,,,,WAT007 2000-2022
+EU,BE,Belgium,2014,66.5,,,,,,WAT007 2000-2022
+EU,BE,Belgium,2015,58.8,,,,,,WAT007 2000-2022
+EU,BE,Belgium,2016,49.9,,,,,,WAT007 2000-2022
+EU,BE,Belgium,2017,56.3,,,,,,WAT007 2000-2022
+EU,BE,Belgium,2018,65.5,,,,,,WAT007 2000-2022
+EU,BE,Belgium,2019,59.2,,,,,,WAT007 2000-2022
+EU,BE,Belgium,2020,64,,,,,,WAT007 2000-2022
+EU,BE,Belgium,2021,62.9,,,,,,WAT007 2000-2022
+EU,BE,Belgium,2022,62.9,,,,,,WAT007 2000-2022
+EU,BE,Belgium,2023,43.5,,,,,,EEA estimate based on ESTAT Utilised Agricultural Area ;ESTAT env_wat_a
+EU,BE,Belgium,2000,,,,,33.1,,WAT007 2000-2022
+EU,BE,Belgium,2001,,,,,30.5,,WAT007 2000-2022
+EU,BE,Belgium,2002,,,,,33.2,,WAT007 2000-2022
+EU,BE,Belgium,2003,,,,,22,,WAT007 2000-2022
+EU,BE,Belgium,2004,,,,,37.7,,WAT007 2000-2022
+EU,BE,Belgium,2005,,,,,30.7,,WAT007 2000-2022
+EU,BE,Belgium,2006,,,,,35.8,,WAT007 2000-2022
+EU,BE,Belgium,2007,,,,,37.5,,WAT007 2000-2022
+EU,BE,Belgium,2008,,,,,41.1,,WAT007 2000-2022
+EU,BE,Belgium,2009,,,,,41.8,,WAT007 2000-2022
+EU,BE,Belgium,2010,,,,,39.9,,WAT007 2000-2022
+EU,BE,Belgium,2011,,,,,40.5,,WAT007 2000-2022
+EU,BE,Belgium,2012,,,,,39.7,,WAT007 2000-2022
+EU,BE,Belgium,2013,,,,,38.7,,WAT007 2000-2022
+EU,BE,Belgium,2014,,,,,37.7,,WAT007 2000-2022
+EU,BE,Belgium,2015,,,,,38.7,,WAT007 2000-2022
+EU,BE,Belgium,2016,,,,,39.9,,WAT007 2000-2022
+EU,BE,Belgium,2017,,,,,39.4,,WAT007 2000-2022
+EU,BE,Belgium,2018,,,,,42.1,,WAT007 2000-2022
+EU,BE,Belgium,2019,,,,,44.8,,WAT007 2000-2022
+EU,BE,Belgium,2020,,,,,43.5,,WAT007 2000-2022
+EU,BE,Belgium,2021,,,,,43.5,,WAT007 2000-2022
+EU,BE,Belgium,2022,,,,,43.5,,Same value as 2021
+EU,BE,Belgium,2023,,,,,40.1,,Same value as 2021
+EU,BE,Belgium,2000,,,,1527.6,,,WAT007 2000-2022
+EU,BE,Belgium,2001,,,,1402.5,,,WAT007 2000-2022
+EU,BE,Belgium,2002,,,,1370.6,,,WAT007 2000-2022
+EU,BE,Belgium,2003,,,,1408.9,,,WAT007 2000-2022
+EU,BE,Belgium,2004,,,,1348,,,WAT007 2000-2022
+EU,BE,Belgium,2005,,,,1253.5,,,WAT007 2000-2022
+EU,BE,Belgium,2006,,,,1335.7,,,WAT007 2000-2022
+EU,BE,Belgium,2007,,,,1258.6,,,WAT007 2000-2022
+EU,BE,Belgium,2008,,,,1215.9,,,WAT007 2000-2022
+EU,BE,Belgium,2009,,,,1089.9,,,WAT007 2000-2022
+EU,BE,Belgium,2010,,,,1164.1,,,WAT007 2000-2022
+EU,BE,Belgium,2011,,,,1141.6,,,WAT007 2000-2022
+EU,BE,Belgium,2012,,,,1122.7,,,WAT007 2000-2022
+EU,BE,Belgium,2013,,,,1025.8,,,WAT007 2000-2022
+EU,BE,Belgium,2014,,,,1036.6,,,WAT007 2000-2022
+EU,BE,Belgium,2015,,,,954,,,WAT007 2000-2022
+EU,BE,Belgium,2016,,,,957,,,WAT007 2000-2022
+EU,BE,Belgium,2017,,,,1041.8,,,WAT007 2000-2022
+EU,BE,Belgium,2018,,,,1022.9,,,WAT007 2000-2022
+EU,BE,Belgium,2019,,,,980.9,,,WAT007 2000-2022
+EU,BE,Belgium,2020,,,,968,,,WAT007 2000-2022
+EU,BE,Belgium,2021,,,,1049.2,,,WAT007 2000-2022
+EU,BE,Belgium,2022,,,,1653.9,,,WAT007 2000-2022
+EU,BE,Belgium,2023,,,,1095.6,,,EEA estimate based on ESTAT DEF_DISS_DS-056121
+EU,BE,Belgium,2000,,,5093.1,,,,WAT007 2000-2022
+EU,BE,Belgium,2001,,,4634,,,,WAT007 2000-2022
+EU,BE,Belgium,2002,,,4388.4,,,,WAT007 2000-2022
+EU,BE,Belgium,2003,,,4283.5,,,,WAT007 2000-2022
+EU,BE,Belgium,2004,,,4177.4,,,,WAT007 2000-2022
+EU,BE,Belgium,2005,,,4236.2,,,,WAT007 2000-2022
+EU,BE,Belgium,2006,,,4296,,,,WAT007 2000-2022
+EU,BE,Belgium,2007,,,4154.7,,,,WAT007 2000-2022
+EU,BE,Belgium,2008,,,4170.1,,,,WAT007 2000-2022
+EU,BE,Belgium,2009,,,4178.2,,,,WAT007 2000-2022
+EU,BE,Belgium,2010,,,3522.1,,,,EEA estimate based on ESTAT Ind_peh and Ind_pehcf;WAT007 2000-2022
+EU,BE,Belgium,2011,,,3382.7,,,,EEA estimate based on ESTAT Ind_peh and Ind_pehcf;WAT007 2000-2022
+EU,BE,Belgium,2012,,,3384.5,,,,EEA estimate based on ESTAT Ind_peh and Ind_pehcf;WAT007 2000-2022
+EU,BE,Belgium,2013,,,2970.1,,,,EEA estimate based on ESTAT Ind_peh and Ind_pehcf;WAT007 2000-2022
+EU,BE,Belgium,2014,,,2652.9,,,,EEA estimate based on ESTAT Ind_peh and Ind_pehcf;WAT007 2000-2022
+EU,BE,Belgium,2015,,,2163.1,,,,EEA estimate based on ESTAT Ind_peh and Ind_pehcf;WAT007 2000-2022
+EU,BE,Belgium,2016,,,2834.6,,,,EEA estimate based on ESTAT Ind_peh and Ind_pehcf;WAT007 2000-2022
+EU,BE,Belgium,2017,,,2497.2,,,,WAT007 2000-2022
+EU,BE,Belgium,2018,,,2239.7,,,,WAT007 2000-2022
+EU,BE,Belgium,2019,,,2604.9,,,,WAT007 2000-2022
+EU,BE,Belgium,2020,,,2134.4,,,,WAT007 2000-2022
+EU,BE,Belgium,2021,,,2256.5,,,,WAT007 2000-2022
+EU,BE,Belgium,2022,,,3302.7,,,,WAT007 2000-2022
+EU,BE,Belgium,2023,,,3004.3,,,,EEA estimate based on ESTAT Ind_peh and Ind_pehcf
+EU,BE,Belgium,2000,,,,,,727.6,WAT007 2000-2022
+EU,BE,Belgium,2001,,,,,,720.9,WAT007 2000-2022
+EU,BE,Belgium,2002,,,,,,726,WAT007 2000-2022
+EU,BE,Belgium,2003,,,,,,735.6,WAT007 2000-2022
+EU,BE,Belgium,2004,,,,,,723.5,WAT007 2000-2022
+EU,BE,Belgium,2005,,,,,,720.3,WAT007 2000-2022
+EU,BE,Belgium,2006,,,,,,720.9,WAT007 2000-2022
+EU,BE,Belgium,2007,,,,,,709.3,WAT007 2000-2022
+EU,BE,Belgium,2008,,,,,,699.6,WAT007 2000-2022
+EU,BE,Belgium,2009,,,,,,709.3,WAT007 2000-2022
+EU,BE,Belgium,2010,,,,,,715.2,WAT007 2000-2022
+EU,BE,Belgium,2011,,,,,,735.4,WAT007 2000-2022
+EU,BE,Belgium,2012,,,,,,724.9,WAT007 2000-2022
+EU,BE,Belgium,2013,,,,,,733.6,WAT007 2000-2022
+EU,BE,Belgium,2014,,,,,,720.8,WAT007 2000-2022
+EU,BE,Belgium,2015,,,,,,739.5,WAT007 2000-2022
+EU,BE,Belgium,2016,,,,,,728.1,WAT007 2000-2022
+EU,BE,Belgium,2017,,,,,,736.7,WAT007 2000-2022
+EU,BE,Belgium,2018,,,,,,747.1,WAT007 2000-2022
+EU,BE,Belgium,2019,,,,,,743.1,WAT007 2000-2022
+EU,BE,Belgium,2020,,,,,,757.5,WAT007 2000-2022
+EU,BE,Belgium,2021,,,,,,853.1,WAT007 2000-2022
+EU,BE,Belgium,2022,,,,,,740.2,WAT007 2000-2022
+EU,BE,Belgium,2023,,,,,,790,EEA estimate based on ESTAT_demo_pjan
+EU,BE,Belgium,2000,,215.1,,,,,WAT007 2000-2022
+EU,BE,Belgium,2001,,273.9,,,,,WAT007 2000-2022
+EU,BE,Belgium,2002,,368.5,,,,,WAT007 2000-2022
+EU,BE,Belgium,2003,,368.7,,,,,WAT007 2000-2022
+EU,BE,Belgium,2004,,372.9,,,,,WAT007 2000-2022
+EU,BE,Belgium,2005,,110.8,,,,,WAT007 2000-2022
+EU,BE,Belgium,2006,,98.1,,,,,WAT007 2000-2022
+EU,BE,Belgium,2007,,104.3,,,,,WAT007 2000-2022
+EU,BE,Belgium,2008,,22.6,,,,,WAT007 2000-2022
+EU,BE,Belgium,2009,,26.3,,,,,WAT007 2000-2022
+EU,BE,Belgium,2010,,0.9,,,,,WAT007 2000-2022
+EU,BE,Belgium,2011,,1.3,,,,,WAT007 2000-2022
+EU,BE,Belgium,2012,,5.6,,,,,WAT007 2000-2022
+EU,BE,Belgium,2013,,4.8,,,,,WAT007 2000-2022
+EU,BE,Belgium,2014,,4.7,,,,,WAT007 2000-2022
+EU,BE,Belgium,2015,,4.9,,,,,WAT007 2000-2022
+EU,BE,Belgium,2016,,5.3,,,,,WAT007 2000-2022
+EU,BE,Belgium,2017,,5,,,,,WAT007 2000-2022
+EU,BE,Belgium,2018,,0.1,,,,,WAT007 2000-2022
+EU,BE,Belgium,2019,,0.1,,,,,WAT007 2000-2022
+EU,BE,Belgium,2020,,0,,,,,WAT007 2000-2022
+EU,BE,Belgium,2021,,0,,,,,WAT007 2000-2022
+

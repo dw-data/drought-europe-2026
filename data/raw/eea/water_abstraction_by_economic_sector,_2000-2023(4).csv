@@ -1,0 +1,146 @@
+Downloaded from: https://www.eea.europa.eu/en/analysis/indicators/water-abstraction-by-source-and/water-abstraction-by-economic-sector
+
+Publisher ,European Environment Agency,EEA
+
+Sources ,https://www.eea.europa.eu/en/datahub/datahubitem-view/a4324714-784a-4763-b8b9-b8939ead87fe?activeAccordion=1092906,European Environment Agency (EEA),"Waterbase - Water Quantity, 2023"
+ ,https://ec.europa.eu/eurostat/databrowser/view/env_wat_abs/default/table?lang=en&category=env.env_wat.env_nwat,Eurostat - Statistical Office of the European Union (ESTAT),Annual freshwater abstraction by source and sector
+
+Geographical coverage ,"Cyprus, Portugal, Spain, Malta, Denmark, Iceland, Switzerland, Sweden, Netherlands, Austria, Belgium, Germany, Luxembourg, Ireland, Türkiye, France, Liechtenstein, Slovakia, Czechia, Norway, Italy, Slovenia, Montenegro, Croatia, Bosnia and Herzegovina, Greece, Estonia, Latvia, Lithuania, Serbia, Finland, North Macedonia, Hungary, Bulgaria, Albania, Poland, Romania, Kosovo (UNSCR 1244/99)"
+
+Temporal coverage ,"2000, 2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023"
+
+EIONET,countryCode,Country,phenomenonTimePeriod_year,Agriculture_Million m3,Construction_Million m3,Electricity cooling_Million m3,Manufacturing_Million m3,Mining and Quarrying_Million m3,Public water supply_Million m3,dataSource
+
+EU,BG,Bulgaria,2000,1198.1,,,,,,WAT007 2000-2022
+EU,BG,Bulgaria,2001,876.8,,,,,,WAT007 2000-2022
+EU,BG,Bulgaria,2002,754,,,,,,WAT007 2000-2022
+EU,BG,Bulgaria,2003,1106.3,,,,,,WAT007 2000-2022
+EU,BG,Bulgaria,2004,909.9,,,,,,WAT007 2000-2022
+EU,BG,Bulgaria,2005,711.5,,,,,,WAT007 2000-2022
+EU,BG,Bulgaria,2006,886.5,,,,,,WAT007 2000-2022
+EU,BG,Bulgaria,2007,1025.1,,,,,,WAT007 2000-2022
+EU,BG,Bulgaria,2008,1019.5,,,,,,WAT007 2000-2022
+EU,BG,Bulgaria,2009,1006.4,,,,,,WAT007 2000-2022
+EU,BG,Bulgaria,2010,948.6,,,,,,WAT007 2000-2022
+EU,BG,Bulgaria,2011,1059.4,,,,,,WAT007 2000-2022
+EU,BG,Bulgaria,2012,959.9,,,,,,WAT007 2000-2022
+EU,BG,Bulgaria,2013,835.7,,,,,,WAT007 2000-2022
+EU,BG,Bulgaria,2014,737.8,,,,,,WAT007 2000-2022
+EU,BG,Bulgaria,2015,838.6,,,,,,WAT007 2000-2022
+EU,BG,Bulgaria,2016,918,,,,,,WAT007 2000-2022
+EU,BG,Bulgaria,2017,847.9,,,,,,WAT007 2000-2022
+EU,BG,Bulgaria,2018,737.1,,,,,,WAT007 2000-2022
+EU,BG,Bulgaria,2019,812.9,,,,,,WAT007 2000-2022
+EU,BG,Bulgaria,2020,771.1,,,,,,WAT007 2000-2022
+EU,BG,Bulgaria,2021,771.1,,,,,,WAT007 2000-2022
+EU,BG,Bulgaria,2022,771.1,,,,,,WAT007 2000-2022
+EU,BG,Bulgaria,2023,804.8,,,,,,EEA estimate based on ESTAT Utilised Agricultural Area 
+EU,BG,Bulgaria,2000,,,,,44.5,,WAT007 2000-2022
+EU,BG,Bulgaria,2001,,,,,32.2,,WAT007 2000-2022
+EU,BG,Bulgaria,2002,,,,,28.7,,WAT007 2000-2022
+EU,BG,Bulgaria,2003,,,,,23.8,,WAT007 2000-2022
+EU,BG,Bulgaria,2004,,,,,24.7,,WAT007 2000-2022
+EU,BG,Bulgaria,2005,,,,,27.3,,WAT007 2000-2022
+EU,BG,Bulgaria,2006,,,,,27.2,,WAT007 2000-2022
+EU,BG,Bulgaria,2007,,,,,27.8,,WAT007 2000-2022
+EU,BG,Bulgaria,2008,,,,,25.9,,WAT007 2000-2022
+EU,BG,Bulgaria,2009,,,,,19.9,,WAT007 2000-2022
+EU,BG,Bulgaria,2010,,,,,22,,WAT007 2000-2022
+EU,BG,Bulgaria,2011,,,,,20.3,,WAT007 2000-2022
+EU,BG,Bulgaria,2012,,,,,20.7,,WAT007 2000-2022
+EU,BG,Bulgaria,2013,,,,,23.1,,WAT007 2000-2022
+EU,BG,Bulgaria,2014,,,,,23.5,,WAT007 2000-2022
+EU,BG,Bulgaria,2015,,,,,16.4,,WAT007 2000-2022
+EU,BG,Bulgaria,2016,,,,,21.2,,WAT007 2000-2022
+EU,BG,Bulgaria,2017,,,,,22.4,,WAT007 2000-2022
+EU,BG,Bulgaria,2018,,,,,27.7,,WAT007 2000-2022
+EU,BG,Bulgaria,2019,,,,,25.7,,WAT007 2000-2022
+EU,BG,Bulgaria,2020,,,,,27.1,,WAT007 2000-2022
+EU,BG,Bulgaria,2021,,,,,30.3,,WAT007 2000-2022
+EU,BG,Bulgaria,2022,,,,,23.3,,ESTAT env_wat_a
+EU,BG,Bulgaria,2023,,,,,23.3,,Same value as 2022
+EU,BG,Bulgaria,2000,,,,399.9,,,WAT007 2000-2022
+EU,BG,Bulgaria,2001,,,,300.3,,,WAT007 2000-2022
+EU,BG,Bulgaria,2002,,,,279.1,,,WAT007 2000-2022
+EU,BG,Bulgaria,2003,,,,238,,,WAT007 2000-2022
+EU,BG,Bulgaria,2004,,,,230.2,,,WAT007 2000-2022
+EU,BG,Bulgaria,2005,,,,232.7,,,WAT007 2000-2022
+EU,BG,Bulgaria,2006,,,,237.3,,,WAT007 2000-2022
+EU,BG,Bulgaria,2007,,,,228.1,,,WAT007 2000-2022
+EU,BG,Bulgaria,2008,,,,218.4,,,WAT007 2000-2022
+EU,BG,Bulgaria,2009,,,,164.5,,,WAT007 2000-2022
+EU,BG,Bulgaria,2010,,,,154.2,,,WAT007 2000-2022
+EU,BG,Bulgaria,2011,,,,136.2,,,WAT007 2000-2022
+EU,BG,Bulgaria,2012,,,,125.6,,,WAT007 2000-2022
+EU,BG,Bulgaria,2013,,,,121,,,WAT007 2000-2022
+EU,BG,Bulgaria,2014,,,,122.6,,,WAT007 2000-2022
+EU,BG,Bulgaria,2015,,,,136.1,,,WAT007 2000-2022
+EU,BG,Bulgaria,2016,,,,124.3,,,WAT007 2000-2022
+EU,BG,Bulgaria,2017,,,,133.7,,,WAT007 2000-2022
+EU,BG,Bulgaria,2018,,,,130.8,,,WAT007 2000-2022
+EU,BG,Bulgaria,2019,,,,123.1,,,WAT007 2000-2022
+EU,BG,Bulgaria,2020,,,,118.8,,,WAT007 2000-2022
+EU,BG,Bulgaria,2021,,,,117.3,,,WAT007 2000-2022
+EU,BG,Bulgaria,2022,,,,194.5,,,WAT007 2000-2022
+EU,BG,Bulgaria,2023,,,,203,,,EEA estimate based on ESTAT DEF_DISS_DS-056121
+EU,BG,Bulgaria,2000,,,3227.9,,,,WAT007 2000-2022
+EU,BG,Bulgaria,2001,,,3467.2,,,,WAT007 2000-2022
+EU,BG,Bulgaria,2002,,,4388.6,,,,WAT007 2000-2022
+EU,BG,Bulgaria,2003,,,4082.7,,,,WAT007 2000-2022
+EU,BG,Bulgaria,2004,,,3804.2,,,,WAT007 2000-2022
+EU,BG,Bulgaria,2005,,,3780.3,,,,WAT007 2000-2022
+EU,BG,Bulgaria,2006,,,4153.7,,,,WAT007 2000-2022
+EU,BG,Bulgaria,2007,,,3492.8,,,,WAT007 2000-2022
+EU,BG,Bulgaria,2008,,,3741.1,,,,WAT007 2000-2022
+EU,BG,Bulgaria,2009,,,3554.4,,,,WAT007 2000-2022
+EU,BG,Bulgaria,2010,,,3491.1,,,,WAT007 2000-2022
+EU,BG,Bulgaria,2011,,,3776.8,,,,WAT007 2000-2022
+EU,BG,Bulgaria,2012,,,3269.8,,,,WAT007 2000-2022
+EU,BG,Bulgaria,2013,,,3167.5,,,,WAT007 2000-2022
+EU,BG,Bulgaria,2014,,,3223.1,,,,WAT007 2000-2022
+EU,BG,Bulgaria,2015,,,3673.9,,,,WAT007 2000-2022
+EU,BG,Bulgaria,2016,,,3668.9,,,,WAT007 2000-2022
+EU,BG,Bulgaria,2017,,,3694.4,,,,WAT007 2000-2022
+EU,BG,Bulgaria,2018,,,3607.7,,,,WAT007 2000-2022
+EU,BG,Bulgaria,2019,,,3540.3,,,,WAT007 2000-2022
+EU,BG,Bulgaria,2020,,,3285.4,,,,WAT007 2000-2022
+EU,BG,Bulgaria,2021,,,3471.7,,,,WAT007 2000-2022
+EU,BG,Bulgaria,2022,,,4181.9,,,,WAT007 2000-2022
+EU,BG,Bulgaria,2023,,,2945.9,,,,EEA estimate based on ESTAT Ind_peh and Ind_pehcf
+EU,BG,Bulgaria,2000,,,,,,1178,WAT007 2000-2022
+EU,BG,Bulgaria,2001,,,,,,1075.4,WAT007 2000-2022
+EU,BG,Bulgaria,2002,,,,,,1057.1,WAT007 2000-2022
+EU,BG,Bulgaria,2003,,,,,,1048.3,WAT007 2000-2022
+EU,BG,Bulgaria,2004,,,,,,997.4,WAT007 2000-2022
+EU,BG,Bulgaria,2005,,,,,,981.3,WAT007 2000-2022
+EU,BG,Bulgaria,2006,,,,,,1026.4,WAT007 2000-2022
+EU,BG,Bulgaria,2007,,,,,,1026.4,WAT007 2000-2022
+EU,BG,Bulgaria,2008,,,,,,1016.2,WAT007 2000-2022
+EU,BG,Bulgaria,2009,,,,,,978.4,WAT007 2000-2022
+EU,BG,Bulgaria,2010,,,,,,929.4,WAT007 2000-2022
+EU,BG,Bulgaria,2011,,,,,,916.6,WAT007 2000-2022
+EU,BG,Bulgaria,2012,,,,,,933.8,WAT007 2000-2022
+EU,BG,Bulgaria,2013,,,,,,911.3,WAT007 2000-2022
+EU,BG,Bulgaria,2014,,,,,,856.1,WAT007 2000-2022
+EU,BG,Bulgaria,2015,,,,,,869.4,WAT007 2000-2022
+EU,BG,Bulgaria,2016,,,,,,875.4,WAT007 2000-2022
+EU,BG,Bulgaria,2017,,,,,,882,WAT007 2000-2022
+EU,BG,Bulgaria,2018,,,,,,841.3,WAT007 2000-2022
+EU,BG,Bulgaria,2019,,,,,,843.3,WAT007 2000-2022
+EU,BG,Bulgaria,2020,,,,,,815.3,WAT007 2000-2022
+EU,BG,Bulgaria,2021,,,,,,833.7,WAT007 2000-2022
+EU,BG,Bulgaria,2022,,,,,,871.1,WAT007 2000-2022
+EU,BG,Bulgaria,2023,,,,,,821.3,EEA estimate based on ESTAT_demo_pjan
+EU,BG,Bulgaria,2000,,2.1,,,,,WAT007 2000-2022
+EU,BG,Bulgaria,2001,,1.3,,,,,WAT007 2000-2022
+EU,BG,Bulgaria,2002,,2.2,,,,,WAT007 2000-2022
+EU,BG,Bulgaria,2003,,2.6,,,,,WAT007 2000-2022
+EU,BG,Bulgaria,2004,,1.7,,,,,WAT007 2000-2022
+EU,BG,Bulgaria,2012,,0.8,,,,,WAT007 2000-2022
+EU,BG,Bulgaria,2013,,0.5,,,,,WAT007 2000-2022
+EU,BG,Bulgaria,2014,,0.9,,,,,WAT007 2000-2022
+EU,BG,Bulgaria,2015,,4.1,,,,,WAT007 2000-2022
+EU,BG,Bulgaria,2019,,2.1,,,,,WAT007 2000-2022
+EU,BG,Bulgaria,2021,,3.3,,,,,WAT007 2000-2022
+EU,BG,Bulgaria,2022,,0.9,,,,,ESTAT env_wat_a
+
