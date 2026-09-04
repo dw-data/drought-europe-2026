@@ -3,12 +3,18 @@ Europe drought 2026
 
 # Introduction
 
-Fix leaks or ban pools: As European countries prepare for hotter, drier years to come, here’s what the data says about how to really save water.
+Fix leaks or ban pools: As European countries prepare for hotter, drier
+years to come, here’s what the data says about how to really save water.
 
 *In this repository, you will find the methodology, data and code behind
 the stories that came out of this analysis.*
 
-**Read the full story here:** [English](https://www.dw.com/a-78577712) | [Spanish](https://www.dw.com/es/a-78650790)
+**Read the full story here:** [English](https://www.dw.com/a-78577712)
+\| [Spanish](https://www.dw.com/es/a-78650790) \|
+[German](https://www.dw.com/es/a-xxx)
+
+**Instagram:**
+[@dw_environment](https://www.instagram.com/p/Dc01484EXHi/)
 
 **Story by:** [Kira
 Schacht](https://www.dw.com/en/kira-schacht/person-46893544)
@@ -66,43 +72,37 @@ apply it to the EEA data:
 
 `EP_HH / TOTAL_HH = "Households" / "All NACE activities plus households"`
 
-| geo |     share |
-|:----|----------:|
-| BE  | 0.6587650 |
-| BG  | 0.6818229 |
-| CZ  | 0.6848894 |
-| DK  | 0.6498361 |
-| DE  | 0.8893735 |
-| EE  |        NA |
-| EL  | 0.8562564 |
-| ES  | 0.6792338 |
-| HR  | 0.7062145 |
-| IT  | 0.8128696 |
-| CY  | 0.9122558 |
-| LV  | 0.9736691 |
-| LT  | 0.6960529 |
-| LU  |        NA |
-| HU  | 0.8222227 |
-| MT  | 0.6826528 |
-| NL  | 0.7039214 |
-| AT  |        NA |
-| PL  | 0.7744187 |
-| PT  |        NA |
-| RO  | 0.5593716 |
-| SI  | 0.6591161 |
-| SK  |        NA |
-| SE  | 0.7067239 |
-| NO  | 0.6791010 |
-| CH  | 0.6257745 |
-| BA  |        NA |
-| ME  | 0.6841805 |
-| MK  | 0.7392758 |
-| GE  |        NA |
-| AL  | 0.8948616 |
-| RS  | 0.7171959 |
-| TR  | 0.7425850 |
-| UA  |        NA |
-| XK  | 0.6779661 |
+The eurostat dataset gives us the following values (in liters per person
+per day) and shares (in % of all public water supply) for households:
+
+| geo | values_pp | share |
+|:----|----------:|:------|
+| BE  |        84 | 40%   |
+| BG  |       111 | 41%   |
+| CZ  |        84 | 41%   |
+| DK  |       106 | 39%   |
+| DE  |       125 | 47%   |
+| EL  |       220 | 46%   |
+| ES  |       129 | 40%   |
+| HR  |       129 | 41%   |
+| IT  |       168 | 45%   |
+| CY  |       294 | 48%   |
+| LV  |        50 | 49%   |
+| LT  |        76 | 41%   |
+| HU  |       106 | 45%   |
+| MT  |       120 | 41%   |
+| NL  |       117 | 41%   |
+| PL  |       100 | 44%   |
+| RO  |        85 | 36%   |
+| SI  |       100 | 40%   |
+| SE  |       131 | 41%   |
+| NO  |       173 | 40%   |
+| CH  |       154 | 38%   |
+| ME  |       158 | 41%   |
+| MK  |       153 | 43%   |
+| AL  |       135 | 47%   |
+| RS  |       137 | 42%   |
+| TR  |       119 | 43%   |
 
 ### Water use per sector for 2023
 
@@ -112,11 +112,11 @@ calculate shares for each sector across all eu countries
 
 | var                 | values_pp |
 |:--------------------|----------:|
-| Agriculture         | 360.62833 |
-| Electricity.cooling | 390.69899 |
-| Manufacturing       | 154.28574 |
-| Others              |  16.95702 |
-| Public.water.supply | 248.06845 |
+| Agriculture         |       361 |
+| Electricity.cooling |       391 |
+| Manufacturing       |       154 |
+| Others              |        17 |
+| Public.water.supply |       248 |
 
 #### Per country
 
@@ -147,3 +147,15 @@ each sector in absolute terms:
 \##Water use in the EU over time
 
 output see `data/processed/eea_time.csv`
+
+# Quality control disclaimer
+
+The code used in this analysis was written by the author. For all of our
+analyses, if any portion of the code is LLM-generated, this is flagged
+in the script.
+
+All code in this project has been reviewed pre-publication by both the
+author as well as a second person to ensure quality.
+
+Should you have any questions or notice errors or inconsistencies,
+please reach out to <data-team@dw.com>.

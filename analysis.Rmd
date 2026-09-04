@@ -15,7 +15,10 @@ years to come, here’s what the data says about how to really save water.
 the stories that came out of this analysis.*
 
 **Read the full story here:** [English](https://www.dw.com/a-78577712)
-\| [Spanish](https://www.dw.com/es/a-78650790)
+\| [Spanish](https://www.dw.com/es/a-78650790) \| [German](https://www.dw.com/es/a-xxx)
+
+**Instagram:**
+[\@dw_environment](https://www.instagram.com/p/Dc01484EXHi/)
 
 **Story by:** [Kira
 Schacht](https://www.dw.com/en/kira-schacht/person-46893544)
@@ -253,7 +256,7 @@ eea_savings %>% knitr::kable()
 
 ```
 
-##Water use in the EU over time
+## Water use in the EU over time
 
 output see `data/processed/eea_time.csv`
 
@@ -286,4 +289,4 @@ author as well as a second person to ensure quality.
 
 Should you have any questions or notice errors or inconsistencies,
 please reach out to
-[data-team\@dw.com](mailto:data-team@dw.com){.email}.
+[data-team\@dw.com](mailto:data-team@dw.com).
