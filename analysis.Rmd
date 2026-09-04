@@ -8,12 +8,14 @@ editor_options:
 
 # Introduction
 
-Fix leaks or ban pools: As European countries prepare for hotter, drier years to come, here’s what the data says about how to really save water.
+Fix leaks or ban pools: As European countries prepare for hotter, drier
+years to come, here’s what the data says about how to really save water.
 
 *In this repository, you will find the methodology, data and code behind
 the stories that came out of this analysis.*
 
-**Read the full story here:** [English](https://www.dw.com/a-78577712) | [Spanish](https://www.dw.com/es/a-78650790)
+**Read the full story here:** [English](https://www.dw.com/a-78577712)
+\| [Spanish](https://www.dw.com/es/a-78650790)
 
 **Story by:** [Kira
 Schacht](https://www.dw.com/en/kira-schacht/person-46893544)
@@ -132,6 +134,9 @@ apply it to the EEA data:
 
 `EP_HH / TOTAL_HH = "Households" / "All NACE activities plus households"`
 
+The eurostat dataset gives us the following values (in liters per person
+per day) and shares (in % of all public water supply) for households:
+
 ```{r}
 #households share of public water supply
 hh_share = wat_cat %>% 
@@ -143,13 +148,29 @@ hh_share = wat_cat %>%
   group_by(wat_proc, geo, nace_r2) %>%
   #get most recent available year for each country
   slice_max(time) %>% ungroup %>% 
+  #append population
+  left_join(pop %>% rename(pop = values),
+            by = c("geo" = "geo", "time" = "time")) %>%
+  #household use in l/day/person
+  mutate(values_pp = values * 10^6 / pop * 1000 / 365) %>%
   #calculate shares
-  select(-time) %>% 
-  pivot_wider(names_from = nace_r2, values_from = values) %>%
-  mutate(geo, share = EP_HH/TOTAL_HH, .keep = "none")
+  group_by(geo) %>% 
+  mutate(share = values / sum(values), n = n()) %>% 
+  #filter for household data, only countries that have totals
+  filter(n == 2, nace_r2 == "EP_HH", !is.na(values_pp)) %>% 
+  select(-wat_proc, -n, -nace_r2, -values) %>% ungroup %>% 
+  #calculate x values for bubble chart, append country names
+  mutate(offset = vipor::offsetX(values_pp),
+         country = label_eurostat(geo, "geo"))
 
-hh_share %>% knitr::kable()
+write.csv(hh_share, "data/processed/hh_share.csv",
+          row.names = FALSE, na = "")
+
+hh_share %>% select(1,4,5) %>%
+  mutate(share = round(share*100) %>% paste0(.,"%")) %>%  
+           knitr::kable(digits = 0)
 ```
+
 ### Water use per sector for 2023
 
 #### EU total
@@ -166,7 +187,7 @@ eea_total = eea %>% ungroup %>%
   summarise(values_pp = sum(values) * 10^6 / min(pop) * 1000 / 365) %>% 
   mutate(region = "Average", country = "EU")
 
-eea_total %>% select(1,3) %>% knitr::kable()
+eea_total %>% select(1,3) %>% knitr::kable(digits = 0)
 ```
 
 #### Per country
@@ -174,7 +195,6 @@ eea_total %>% select(1,3) %>% knitr::kable()
 output see `data/processed/eea_countries.csv`
 
 ```{r}
-
 eea_countries = eea %>% 
   filter(year == "2023") %>% 
   select(-values) %>% 
@@ -186,7 +206,7 @@ eea_countries = eea %>%
   filter(if_all(pop:Public.water.supply ,
                 ~ !is.na(.))) %>% 
   #append household share of public water supply
-  left_join(hh_share, by = c("code" = "geo")) %>% 
+  left_join(hh_share %>% select(1,5), by = c("code" = "geo")) %>% 
   mutate(households = Public.water.supply * share,
          Public.water.supply = ifelse(is.na(households), Public.water.supply, Public.water.supply - households),
          #make label pretty for datawrapper
@@ -254,3 +274,16 @@ eea_time = eea %>%
 write.csv(eea_time, "data/processed/eea_time.csv",
           row.names = FALSE, na = "")
 ```
+
+# Quality control disclaimer
+
+The code used in this analysis was written by the author. For all of our
+analyses, if any portion of the code is LLM-generated, this is flagged
+in the script.
+
+All code in this project has been reviewed pre-publication by both the
+author as well as a second person to ensure quality.
+
+Should you have any questions or notice errors or inconsistencies,
+please reach out to
+[data-team\@dw.com](mailto:data-team@dw.com){.email}.
