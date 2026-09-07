@@ -11,7 +11,7 @@ the stories that came out of this analysis.*
 
 **Read the full story here:** [English](https://www.dw.com/a-78577712)
 \| [Spanish](https://www.dw.com/es/a-78650790) \|
-[German](https://www.dw.com/es/a-xxx)
+[German](https://www.dw.com/es/a-78985235)
 
 **Instagram:**
 [@dw_environment](https://www.instagram.com/p/Dc01484EXHi/)
