@@ -9,7 +9,7 @@ years to come, here’s what the data says about how to really save water.
 *In this repository, you will find the methodology, data and code behind
 the stories that came out of this analysis.*
 
-**Read the full story here:** [English](https://www.dw.com/a-78577712) \| [German](https://www.dw.com/a-78985235) \| [Indonesian](https://www.dw.com/a-78815616) \| [Spanish](https://www.dw.com/a-78650790)
+**Read the full story here:** [English](https://www.dw.com/a-78577712) \| [German](https://www.dw.com/a-78985235) \| [Indonesian](https://www.dw.com/a-78815616) \| [Spanish](https://www.dw.com/a-78650790) \| [Turkish](https://www.dw.com/a-79149180)
 
 **Instagram:**
 [@dw_environment](https://www.instagram.com/p/Dc01484EXHi/)
